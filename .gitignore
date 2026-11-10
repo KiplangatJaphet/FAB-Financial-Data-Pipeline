@@ -1,5 +1,6 @@
-﻿# Python virtual environments
+# Python virtual environments
 .venv/
+.venv-ocr/
 venv/
 
 # Python cache
@@ -7,14 +8,11 @@ __pycache__/
 *.pyc
 .pytest_cache/
 
-# Source PDF documents
-pdfs/
+# Keep all research PDFs
+# Keep all CSV datasets
 
 # Dataset backups
 output/backups/
-
-# Keep the validated financial dataset
-!output/FAB_raw_financial_data.csv
 
 # Editor and operating system files
 .vscode/
@@ -24,7 +22,3 @@ Thumbs.db
 # Temporary files
 *.log
 *.tmp
-
-# Exclude intermediate CSVs and backups
-output/*.csv
-!output/FAB_raw_financial_data.csv

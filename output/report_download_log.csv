@@ -16,3 +16,6 @@ timestamp_utc,bank,year,filename,status,source_url,details
 2026-11-11T07:44:46.469522+00:00,QNB,2022,QNB_2022_Annual_Report.pdf,downloaded,https://www.qnb.com/sites/qnb/qnbqatar/document/en/enAnnualReport2022,Valid PDF (180 pages)
 2026-11-11T07:44:47.036014+00:00,QNB,2023,QNB_2023_Annual_Report.pdf,manual_required,https://www.qnb.com/sites/qnb/qnbqatar/document/en/enAnnualReport2023,403 Client Error: Forbidden for url: https://www.qnb.com/sites/qnb/qnbqatar/document/en/enAnnualReport2023
 2026-11-11T07:44:47.639306+00:00,QNB,2024,QNB_2024_Annual_Report.pdf,manual_required,https://www.qnb.com/sites/qnb/qnbqatar/document/en/enAnnualReport2024,403 Client Error: Forbidden for url: https://www.qnb.com/sites/qnb/qnbqatar/document/en/enAnnualReport2024
+2026-11-11T17:05:39.723504+00:00,ADCB,2024,ADCB_2024_Annual_Report.pdf,downloaded,https://www.adcb.com/en/multimedia/pdfs/2025/february/adcb-2024-annual-report-english.pdf,Valid PDF (202 pages)
+2026-11-11T17:12:02.670550+00:00,ADCB,2024,ADCB_2024_Annual_Report.pdf,skipped_existing,https://www.adcb.com/en/multimedia/pdfs/2025/february/adcb-2024-annual-report-english.pdf,Valid PDF (202 pages)
+2026-11-11T17:12:10.963091+00:00,ADCB,2023,ADCB_2023_Annual_Report.pdf,downloaded,https://www.adcb.com/en/multimedia/pdfs/2024/march/adcb-2023-annual-report-english.pdf,Valid PDF (189 pages)

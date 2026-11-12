@@ -1,0 +1,9 @@
+pdfs/Bank_Muscat/*.pdf filter=lfs diff=lfs merge=lfs -text
+pdfs/CBQ/*.pdf filter=lfs diff=lfs merge=lfs -text
+pdfs/KFH/*.pdf filter=lfs diff=lfs merge=lfs -text
+pdfs/NBK/*.pdf filter=lfs diff=lfs merge=lfs -text
+pdfs/SAB/*.pdf filter=lfs diff=lfs merge=lfs -text
+pdfs/SNB/*.pdf filter=lfs diff=lfs merge=lfs -text
+pdfs/Al_Rajhi/Al_Rajhi_2014_Financial_Statements.pdf filter=lfs diff=lfs merge=lfs -text
+pdfs/Al_Rajhi/Al_Rajhi_2016_Financial_Statements.pdf filter=lfs diff=lfs merge=lfs -text
+pdfs/Al_Rajhi/Al_Rajhi_2017_Financial_Statements.pdf filter=lfs diff=lfs merge=lfs -text

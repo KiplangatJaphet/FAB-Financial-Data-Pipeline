@@ -1,0 +1,4 @@
+bank,year,total_assets,loans_and_advances,customer_deposits,total_operating_income,profit_attributable_to_parent,currency,unit,source_file,source_page,source_section,source_type
+NBK,2010,12898.9,7853.3,6385.2,498.6,301.7,KWD,millions,NBK_2012_Financial_Statements.pdf,2,Important Financial Indicators,historical_summary
+NBK,2011,13626.8,8182.2,6799.2,540.2,302.4,KWD,millions,NBK_2012_Financial_Statements.pdf,2,Important Financial Indicators,historical_summary
+NBK,2012,16424.5,9874.4,9507.8,649.9,305.1,KWD,millions,NBK_2012_Financial_Statements.pdf,2,Important Financial Indicators,historical_summary

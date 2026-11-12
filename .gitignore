@@ -22,3 +22,8 @@ Thumbs.db
 # Temporary files
 *.log
 *.tmp
+
+/pdfs/FAB/
+/pdfs/FGB/
+/pdfs/NBAD/
+/pdfs/QNB/

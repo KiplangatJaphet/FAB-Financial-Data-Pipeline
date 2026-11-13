@@ -1,0 +1,81 @@
+Year,Component,Distinct_Candidate_Values,Candidate_Values_SAR_Million,Source_Reports,Status,Notes
+2009,Net_Financing,0,,,NO_SELECTED_SOURCE,"Check gross/net, restatements, comparative columns, and units"
+2009,SAMA_Mutajara,0,,,NO_SELECTED_SOURCE,"Check gross/net, restatements, comparative columns, and units"
+2009,Interbank_Mutajara,1,13053.316,2010,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2009,Government_Murabaha,0,,,NO_SELECTED_SOURCE,"Check gross/net, restatements, comparative columns, and units"
+2009,Sukuk,0,,,NO_SELECTED_SOURCE,Sukuk may include multiple accounting classifications; not a complete denominator
+2010,Net_Financing,1,120064.667,2011,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2010,SAMA_Mutajara,0,,,NO_SELECTED_SOURCE,"Check gross/net, restatements, comparative columns, and units"
+2010,Interbank_Mutajara,1,9677.421,2010 | 2011,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2010,Government_Murabaha,1,25598.479,2011,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2010,Sukuk,1,1007.539,2011,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,Sukuk may include multiple accounting classifications; not a complete denominator
+2011,Net_Financing,2,140313.292 | 140395.619,2011 | 2012,CONFLICT_REVIEW,"Check gross/net, restatements, comparative columns, and units"
+2011,SAMA_Mutajara,0,,,NO_SELECTED_SOURCE,"Check gross/net, restatements, comparative columns, and units"
+2011,Interbank_Mutajara,1,13314.329,2011 | 2012,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2011,Government_Murabaha,1,35524.923,2011 | 2012,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2011,Sukuk,1,1310.097,2011 | 2012,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,Sukuk may include multiple accounting classifications; not a complete denominator
+2012,Net_Financing,1,171941.478,2012,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2012,SAMA_Mutajara,0,,,NO_SELECTED_SOURCE,"Check gross/net, restatements, comparative columns, and units"
+2012,Interbank_Mutajara,1,14777.363,2012,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2012,Government_Murabaha,1,38276.376,2012,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2012,Sukuk,1,1045.289,2012,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,Sukuk may include multiple accounting classifications; not a complete denominator
+2013,Net_Financing,1,186813.225,2014,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2013,SAMA_Mutajara,0,,,NO_SELECTED_SOURCE,"Check gross/net, restatements, comparative columns, and units"
+2013,Interbank_Mutajara,1,13773.356,2014,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2013,Government_Murabaha,1,37229.076,2014,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2013,Sukuk,1,1167.943,2014,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,Sukuk may include multiple accounting classifications; not a complete denominator
+2014,Net_Financing,1,205939.96,2014,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2014,SAMA_Mutajara,0,,,NO_SELECTED_SOURCE,"Check gross/net, restatements, comparative columns, and units"
+2014,Interbank_Mutajara,1,14536.877,2014,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2014,Government_Murabaha,1,39866.296,2014,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2014,Sukuk,1,1507.939,2014,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,Sukuk may include multiple accounting classifications; not a complete denominator
+2015,Net_Financing,1,210217.868,2016,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2015,SAMA_Mutajara,0,,,NO_SELECTED_SOURCE,"Check gross/net, restatements, comparative columns, and units"
+2015,Interbank_Mutajara,0,,,NO_SELECTED_SOURCE,"Check gross/net, restatements, comparative columns, and units"
+2015,Government_Murabaha,1,36727.031,2016,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2015,Sukuk,1,1225.534,2016,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,Sukuk may include multiple accounting classifications; not a complete denominator
+2016,Net_Financing,1,224994.124,2016,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2016,SAMA_Mutajara,1,15181.051,2017,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2016,Interbank_Mutajara,1,25724.933,2017,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2016,Government_Murabaha,1,30451.217,2016 | 2017,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2016,Sukuk,1,2100.895,2016 | 2017,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,Sukuk may include multiple accounting classifications; not a complete denominator
+2017,Net_Financing,1,233535.573,2018,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2017,SAMA_Mutajara,1,21310.111,2017 | 2018,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2017,Interbank_Mutajara,1,9883.887,2017 | 2018,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2017,Government_Murabaha,1,23452.869,2017 | 2018,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2017,Sukuk,1,10605.139,2017,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,Sukuk may include multiple accounting classifications; not a complete denominator
+2018,Net_Financing,2,231758.206 | 234062.789,2018 | 2019,CONFLICT_REVIEW,"Check gross/net, restatements, comparative columns, and units"
+2018,SAMA_Mutajara,1,15375.0,2018 | 2019,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2018,Interbank_Mutajara,1,30029.242,2018,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2018,Government_Murabaha,1,22477.145,2018 | 2019,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2018,Sukuk,0,,,NO_SELECTED_SOURCE,Sukuk may include multiple accounting classifications; not a complete denominator
+2019,Net_Financing,1,249682.805,2019 | 2020,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2019,SAMA_Mutajara,1,10855.0,2019 | 2020,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2019,Interbank_Mutajara,1,31260.014,2020,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2019,Government_Murabaha,1,24991.978,2019 | 2020,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2019,Sukuk,0,,,NO_SELECTED_SOURCE,Sukuk may include multiple accounting classifications; not a complete denominator
+2020,Net_Financing,1,315712.101,2020 | 2021,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2020,SAMA_Mutajara,1,16235.549,2020 | 2021,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2020,Interbank_Mutajara,2,27395.208 | 27399.893,2020 | 2021,CONFLICT_REVIEW,"Check gross/net, restatements, comparative columns, and units"
+2020,Government_Murabaha,1,22904.021,2020 | 2021,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2020,Sukuk,0,,,NO_SELECTED_SOURCE,Sukuk may include multiple accounting classifications; not a complete denominator
+2021,Net_Financing,1,452830.657,2021,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2021,SAMA_Mutajara,1,5799.92,2021 | 2022,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2021,Interbank_Mutajara,1,24013.126,2021 | 2022,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2021,Government_Murabaha,1,22611.987,2021,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2021,Sukuk,0,,,NO_SELECTED_SOURCE,Sukuk may include multiple accounting classifications; not a complete denominator
+2022,Net_Financing,1,568338.114,2023,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2022,SAMA_Mutajara,1,2053.0,2022,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2022,Interbank_Mutajara,1,20894.85,2022 | 2023,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2022,Government_Murabaha,1,22696.693,2023,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2022,Sukuk,0,,,NO_SELECTED_SOURCE,Sukuk may include multiple accounting classifications; not a complete denominator
+2023,Net_Financing,1,594204.806,2023 | 2024,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2023,SAMA_Mutajara,0,,,NO_SELECTED_SOURCE,"Check gross/net, restatements, comparative columns, and units"
+2023,Interbank_Mutajara,1,6331.071,2023 | 2024,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2023,Government_Murabaha,1,20067.953,2023 | 2024,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2023,Sukuk,0,,,NO_SELECTED_SOURCE,Sukuk may include multiple accounting classifications; not a complete denominator
+2024,Net_Financing,1,693409.723,2024,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2024,SAMA_Mutajara,0,,,NO_SELECTED_SOURCE,"Check gross/net, restatements, comparative columns, and units"
+2024,Interbank_Mutajara,1,17892.806,2024,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2024,Government_Murabaha,1,15022.361,2024,SINGLE_SOURCE_CANDIDATE_NOT_FINAL,"Check gross/net, restatements, comparative columns, and units"
+2024,Sukuk,0,,,NO_SELECTED_SOURCE,Sukuk may include multiple accounting classifications; not a complete denominator

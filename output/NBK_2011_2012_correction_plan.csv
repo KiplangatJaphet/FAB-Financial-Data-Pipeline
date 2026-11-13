@@ -1,0 +1,27 @@
+Year,Field,Existing_Value,Proposed_Value,Status,Source_Document,Source_PDF_Pages,Basis
+2011,Total_Assets_LCU_Millions,13626.8,13626.848,REPLACE_REVIEW,NBK_2012_Financial_Statements.pdf,3;4,2011 comparative figures
+2011,Total_Liabilities_LCU_Millions,,11290.275,FILL_MISSING,NBK_2012_Financial_Statements.pdf,3;4,2011 comparative figures
+2011,Total_Equity_LCU_Millions,,2336.573,FILL_MISSING,NBK_2012_Financial_Statements.pdf,3;4,2011 comparative figures
+2011,Shareholders_Equity_LCU_Millions,,2324.608,FILL_MISSING,NBK_2012_Financial_Statements.pdf,3;4,2011 comparative figures
+2011,Net_Profit_LCU_Millions,,303.652,FILL_MISSING,NBK_2012_Financial_Statements.pdf,3;4,2011 comparative figures
+2011,Profit_Before_Taxation_LCU_Millions,,320.963,FILL_MISSING,NBK_2012_Financial_Statements.pdf,3;4,2011 comparative figures
+2011,Profit_Attributable_To_Shareholders_LCU_Millions,302.4,302.406,REPLACE_REVIEW,NBK_2012_Financial_Statements.pdf,3;4,2011 comparative figures
+2011,Total_Operating_Income_LCU_Millions,540.2,540.238,REPLACE_REVIEW,NBK_2012_Financial_Statements.pdf,3;4,2011 comparative figures
+2011,Operating_Expenses_LCU_Millions,,161.982,FILL_MISSING,NBK_2012_Financial_Statements.pdf,3;4,2011 comparative figures
+2011,Net_Interest_Income_LCU_Millions,,380.972,FILL_MISSING,NBK_2012_Financial_Statements.pdf,3;4,2011 comparative figures
+2011,Net_Impairment_Charge_LCU_Millions,,57.293,FILL_MISSING,NBK_2012_Financial_Statements.pdf,3;4,2011 comparative figures
+2011,Loans_Advances_Islamic_Financing_LCU_Millions,8182.2,8182.226,REPLACE_REVIEW,NBK_2012_Financial_Statements.pdf,3;4,2011 comparative figures
+2011,Customer_Accounts_Other_Deposits_LCU_Millions,6799.2,6799.192,REPLACE_REVIEW,NBK_2012_Financial_Statements.pdf,3;4,2011 comparative figures
+2012,Total_Assets_LCU_Millions,16424.5,16492.471,REPLACE_REVIEW,NBK_2013_Financial_Statements.pdf,3;5,2012 restated comparative figures
+2012,Total_Liabilities_LCU_Millions,13876.476,13876.476,UNCHANGED,NBK_2013_Financial_Statements.pdf,3;5,2012 restated comparative figures
+2012,Total_Equity_LCU_Millions,2615.995,2615.995,UNCHANGED,NBK_2013_Financial_Statements.pdf,3;5,2012 restated comparative figures
+2012,Shareholders_Equity_LCU_Millions,2426.515,2426.515,UNCHANGED,NBK_2013_Financial_Statements.pdf,3;5,2012 restated comparative figures
+2012,Net_Profit_LCU_Millions,308.597,308.597,UNCHANGED,NBK_2013_Financial_Statements.pdf,3;5,2012 restated comparative figures
+2012,Profit_Before_Taxation_LCU_Millions,327.229,327.229,UNCHANGED,NBK_2013_Financial_Statements.pdf,3;5,2012 restated comparative figures
+2012,Profit_Attributable_To_Shareholders_LCU_Millions,305.1,305.125,REPLACE_REVIEW,NBK_2013_Financial_Statements.pdf,3;5,2012 restated comparative figures
+2012,Total_Operating_Income_LCU_Millions,649.9,649.93,REPLACE_REVIEW,NBK_2013_Financial_Statements.pdf,3;5,2012 restated comparative figures
+2012,Operating_Expenses_LCU_Millions,183.683,183.683,UNCHANGED,NBK_2013_Financial_Statements.pdf,3;5,2012 restated comparative figures
+2012,Net_Interest_Income_LCU_Millions,397.824,397.824,UNCHANGED,NBK_2013_Financial_Statements.pdf,3;5,2012 restated comparative figures
+2012,Net_Impairment_Charge_LCU_Millions,139.018,139.018,UNCHANGED,NBK_2013_Financial_Statements.pdf,3;5,2012 restated comparative figures
+2012,Loans_Advances_Islamic_Financing_LCU_Millions,9874.4,9860.62,REPLACE_REVIEW,NBK_2013_Financial_Statements.pdf,3;5,2012 restated comparative figures
+2012,Customer_Accounts_Other_Deposits_LCU_Millions,9507.8,9507.754,REPLACE_REVIEW,NBK_2013_Financial_Statements.pdf,3;5,2012 restated comparative figures

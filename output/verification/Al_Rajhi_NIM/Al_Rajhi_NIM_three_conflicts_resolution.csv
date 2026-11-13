@@ -1,0 +1,4 @@
+Year,Component,Original_SAR_Million,Later_Comparative_SAR_Million,Difference_SAR_Million,Assessment,Recommended_Value_SAR_Million,Source,Status
+2011,Net_Customer_Financing,140395.619,140313.292,82.327,Comparative changed; cause not established,,2011 PDF p29; 2012 PDF p4,HOLD_FOR_NOTE_REVIEW
+2018,Net_Customer_Financing,234062.789,231758.206,2304.583,2019 report explicitly labels 2018 restated (note 37),,2018 PDF p122; 2019 PDF p52,RESTATEMENT_NOTE_37_REVIEW
+2020,Interbank_Mutajara_Net,27395.208,27399.893,4.685,2021 comparative gross 27399.893 less ECL 4.685 = net 27395.208,27395.208,2020 PDF p85; 2021 PDF p220,RECONCILED_NET_BALANCE

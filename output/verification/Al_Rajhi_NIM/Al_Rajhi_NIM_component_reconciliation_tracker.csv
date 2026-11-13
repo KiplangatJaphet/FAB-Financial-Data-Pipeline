@@ -1,0 +1,136 @@
+﻿Year,Component,Verified_Amount_SAR_Million,Source_PDF,Source_Page,Source_Reporting_Year,Verification_Status,Notes,Has_Provisional_Amount,Candidate_Lines,PDF_Pages,Next_Action
+2010,Net_Customer_Financing,120064.667,Al_Rajhi_2011_Financial_Statements.pdf,29.0,2011.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2010,SAMA_Mutajara,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2010,Interbank_Mutajara,9677.421,Al_Rajhi_2011_Financial_Statements.pdf,40.0,2011.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2010,Government_Murabaha,25598.479,Al_Rajhi_2011_Financial_Statements.pdf,47.0,2011.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,2,2,VERIFY_EXISTING_AND_ECL
+2010,Sukuk_Amortised_Cost,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2010,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2010,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2010,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2010,ECL_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2011,Net_Customer_Financing,140313.292,Al_Rajhi_2012_Financial_Statements.pdf,4.0,2012.0,PROVISIONAL_LATER_COMPARATIVE,2012 comparative selected provisionally; 2011 original 140395.619; provision revision explanation pending.,True,0,0,VERIFY_EXISTING_AND_ECL
+2011,SAMA_Mutajara,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2011,Interbank_Mutajara,13314.329,Al_Rajhi_2012_Financial_Statements.pdf,17.0,2012.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,8,7,VERIFY_EXISTING_AND_ECL
+2011,Government_Murabaha,35524.923,Al_Rajhi_2012_Financial_Statements.pdf,24.0,2012.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,2,2,VERIFY_EXISTING_AND_ECL
+2011,Sukuk_Amortised_Cost,,,,,PENDING,,False,3,3,REVIEW_SOURCE_LINES
+2011,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2011,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2011,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2011,ECL_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2012,Net_Customer_Financing,171941.478,Al_Rajhi_2012_Financial_Statements.pdf,4.0,2012.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2012,SAMA_Mutajara,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2012,Interbank_Mutajara,14777.363,Al_Rajhi_2012_Financial_Statements.pdf,17.0,2012.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,6,5,VERIFY_EXISTING_AND_ECL
+2012,Government_Murabaha,38276.376,Al_Rajhi_2012_Financial_Statements.pdf,24.0,2012.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,2,2,VERIFY_EXISTING_AND_ECL
+2012,Sukuk_Amortised_Cost,,,,,PENDING,,False,2,2,REVIEW_SOURCE_LINES
+2012,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2012,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2012,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2012,ECL_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2013,Net_Customer_Financing,186813.225,Al_Rajhi_2014_Financial_Statements.pdf,5.0,2014.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2013,SAMA_Mutajara,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2013,Interbank_Mutajara,13773.356,Al_Rajhi_2014_Financial_Statements.pdf,24.0,2014.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2013,Government_Murabaha,37229.076,Al_Rajhi_2014_Financial_Statements.pdf,25.0,2014.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2013,Sukuk_Amortised_Cost,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2013,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2013,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2013,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2013,ECL_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2014,Net_Customer_Financing,205939.96,Al_Rajhi_2014_Financial_Statements.pdf,5.0,2014.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2014,SAMA_Mutajara,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2014,Interbank_Mutajara,14536.877,Al_Rajhi_2014_Financial_Statements.pdf,24.0,2014.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,6,5,VERIFY_EXISTING_AND_ECL
+2014,Government_Murabaha,39866.296,Al_Rajhi_2014_Financial_Statements.pdf,25.0,2014.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,2,2,VERIFY_EXISTING_AND_ECL
+2014,Sukuk_Amortised_Cost,,,,,PENDING,,False,4,3,REVIEW_SOURCE_LINES
+2014,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2014,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2014,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2014,ECL_Review,,,,,PENDING,,False,4,3,REVIEW_SOURCE_LINES
+2015,Net_Customer_Financing,210217.868,Al_Rajhi_2016_Financial_Statements.pdf,10.0,2016.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2015,SAMA_Mutajara,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2015,Interbank_Mutajara,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2015,Government_Murabaha,36727.031,Al_Rajhi_2016_Financial_Statements.pdf,61.0,2016.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2015,Sukuk_Amortised_Cost,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2015,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2015,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2015,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2015,ECL_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2016,Net_Customer_Financing,224994.124,Al_Rajhi_2016_Financial_Statements.pdf,10.0,2016.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2016,SAMA_Mutajara,15181.051,Al_Rajhi_2017_Financial_Statements.pdf,31.0,2017.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,2,2,VERIFY_EXISTING_AND_ECL
+2016,Interbank_Mutajara,25724.933,Al_Rajhi_2017_Financial_Statements.pdf,32.0,2017.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,13,11,VERIFY_EXISTING_AND_ECL
+2016,Government_Murabaha,30451.217,Al_Rajhi_2017_Financial_Statements.pdf,32.0,2017.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,10,7,VERIFY_EXISTING_AND_ECL
+2016,Sukuk_Amortised_Cost,,,,,PENDING,,False,10,7,REVIEW_SOURCE_LINES
+2016,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2016,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2016,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2016,ECL_Review,,,,,PENDING,,False,9,4,REVIEW_SOURCE_LINES
+2017,Net_Customer_Financing,233535.573,Al_Rajhi_2018_Annual_Report.pdf,122.0,2018.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2017,SAMA_Mutajara,21310.111,Al_Rajhi_2018_Annual_Report.pdf,152.0,2018.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,2,2,VERIFY_EXISTING_AND_ECL
+2017,Interbank_Mutajara,9883.887,Al_Rajhi_2018_Annual_Report.pdf,152.0,2018.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,10,8,VERIFY_EXISTING_AND_ECL
+2017,Government_Murabaha,23452.869,Al_Rajhi_2018_Annual_Report.pdf,153.0,2018.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,10,6,VERIFY_EXISTING_AND_ECL
+2017,Sukuk_Amortised_Cost,,,,,PENDING,,False,11,6,REVIEW_SOURCE_LINES
+2017,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2017,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2017,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2017,ECL_Review,,,,,PENDING,,False,10,5,REVIEW_SOURCE_LINES
+2018,Net_Customer_Financing,231758.206,Al_Rajhi_2019_Annual_Report.pdf,52.0,2019.0,PROVISIONAL_LATER_COMPARATIVE,2019 comparative selected provisionally; original 234062.789; gross financing reconciliation complete; residual accounting explanation pending.,True,0,0,VERIFY_EXISTING_AND_ECL
+2018,SAMA_Mutajara,15375.0,Al_Rajhi_2019_Annual_Report.pdf,61.0,2019.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,2,2,VERIFY_EXISTING_AND_ECL
+2018,Interbank_Mutajara,30029.242,Al_Rajhi_2018_Annual_Report.pdf,152.0,2018.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,16,14,VERIFY_EXISTING_AND_ECL
+2018,Government_Murabaha,22477.145,Al_Rajhi_2019_Annual_Report.pdf,75.0,2019.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,11,8,VERIFY_EXISTING_AND_ECL
+2018,Sukuk_Amortised_Cost,,,,,PENDING,,False,19,11,REVIEW_SOURCE_LINES
+2018,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2018,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2018,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2018,ECL_Review,,,,,PENDING,,False,13,7,REVIEW_SOURCE_LINES
+2019,Net_Customer_Financing,249682.805,Al_Rajhi_2020_Annual_Report.pdf,76.0,2020.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2019,SAMA_Mutajara,10855.0,Al_Rajhi_2020_Annual_Report.pdf,85.0,2020.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,2,2,VERIFY_EXISTING_AND_ECL
+2019,Interbank_Mutajara,31260.014,Al_Rajhi_2020_Annual_Report.pdf,85.0,2020.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,14,9,VERIFY_EXISTING_AND_ECL
+2019,Government_Murabaha,24991.978,Al_Rajhi_2020_Annual_Report.pdf,85.0,2020.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,11,6,VERIFY_EXISTING_AND_ECL
+2019,Sukuk_Amortised_Cost,,,,,PENDING,,False,17,6,REVIEW_SOURCE_LINES
+2019,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2019,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2019,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2019,ECL_Review,,,,,PENDING,,False,7,2,REVIEW_SOURCE_LINES
+2020,Net_Customer_Financing,315712.101,Al_Rajhi_2021_Annual_Report.pdf,188.0,2021.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2020,SAMA_Mutajara,16235.549,Al_Rajhi_2021_Annual_Report.pdf,220.0,2021.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,3,3,VERIFY_EXISTING_AND_ECL
+2020,Interbank_Mutajara,27395.208,Al_Rajhi_2020_Annual_Report.pdf,85.0,2020.0,RECONCILED_NET_BALANCE,Net of 4.685m ECL against gross 27399.893m; source reconciliation complete.,True,12,9,VERIFY_EXISTING_AND_ECL
+2020,Government_Murabaha,22904.021,Al_Rajhi_2021_Annual_Report.pdf,222.0,2021.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,7,4,VERIFY_EXISTING_AND_ECL
+2020,Sukuk_Amortised_Cost,,,,,PENDING,,False,22,10,REVIEW_SOURCE_LINES
+2020,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2020,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2020,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2020,ECL_Review,,,,,PENDING,,False,10,6,REVIEW_SOURCE_LINES
+2021,Net_Customer_Financing,452830.657,Al_Rajhi_2021_Annual_Report.pdf,188.0,2021.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2021,SAMA_Mutajara,5799.92,Al_Rajhi_2022_Annual_Report.pdf,115.0,2022.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,2,2,VERIFY_EXISTING_AND_ECL
+2021,Interbank_Mutajara,24013.126,Al_Rajhi_2022_Annual_Report.pdf,115.0,2022.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,7,6,VERIFY_EXISTING_AND_ECL
+2021,Government_Murabaha,22611.987,Al_Rajhi_2021_Annual_Report.pdf,222.0,2021.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,6,5,VERIFY_EXISTING_AND_ECL
+2021,Sukuk_Amortised_Cost,,,,,PENDING,,False,32,12,REVIEW_SOURCE_LINES
+2021,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2021,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2021,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2021,ECL_Review,,,,,PENDING,,False,6,4,REVIEW_SOURCE_LINES
+2022,Net_Customer_Financing,568338.114,Al_Rajhi_2023_Annual_Report.pdf,234.0,2023.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2022,SAMA_Mutajara,2053.0,Al_Rajhi_2022_Annual_Report.pdf,115.0,2022.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,2,2,VERIFY_EXISTING_AND_ECL
+2022,Interbank_Mutajara,20894.85,Al_Rajhi_2023_Annual_Report.pdf,268.0,2023.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,7,7,VERIFY_EXISTING_AND_ECL
+2022,Government_Murabaha,22696.693,Al_Rajhi_2023_Annual_Report.pdf,270.0,2023.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,8,4,VERIFY_EXISTING_AND_ECL
+2022,Sukuk_Amortised_Cost,,,,,PENDING,,False,66,28,REVIEW_SOURCE_LINES
+2022,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2022,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2022,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2022,ECL_Review,,,,,PENDING,,False,10,5,REVIEW_SOURCE_LINES
+2023,Net_Customer_Financing,594204.806,Al_Rajhi_2024_Annual_Report.pdf,282.0,2024.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2023,SAMA_Mutajara,,,,,PENDING,,False,2,2,REVIEW_SOURCE_LINES
+2023,Interbank_Mutajara,6331.071,Al_Rajhi_2024_Annual_Report.pdf,320.0,2024.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,4,4,VERIFY_EXISTING_AND_ECL
+2023,Government_Murabaha,20067.953,Al_Rajhi_2024_Annual_Report.pdf,321.0,2024.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,6,6,VERIFY_EXISTING_AND_ECL
+2023,Sukuk_Amortised_Cost,,,,,PENDING,,False,69,30,REVIEW_SOURCE_LINES
+2023,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2023,Sukuk_FVOCI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2023,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2023,ECL_Review,,,,,PENDING,,False,10,5,REVIEW_SOURCE_LINES
+2024,Net_Customer_Financing,693409.723,Al_Rajhi_2024_Annual_Report.pdf,282.0,2024.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,0,0,VERIFY_EXISTING_AND_ECL
+2024,SAMA_Mutajara,,,,,PENDING,,False,2,2,REVIEW_SOURCE_LINES
+2024,Interbank_Mutajara,17892.806,Al_Rajhi_2024_Annual_Report.pdf,320.0,2024.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,7,7,VERIFY_EXISTING_AND_ECL
+2024,Government_Murabaha,15022.361,Al_Rajhi_2024_Annual_Report.pdf,321.0,2024.0,PROVISIONAL_SOURCE_LINE_NOT_FINAL,Source-line candidate; confirm accounting scope and units before final NIM.,True,6,6,VERIFY_EXISTING_AND_ECL
+2024,Sukuk_Amortised_Cost,,,,,PENDING,,False,86,40,REVIEW_SOURCE_LINES
+2024,Sukuk_FVSI,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2024,Sukuk_FVOCI,,,,,PENDING,,False,1,1,REVIEW_SOURCE_LINES
+2024,Structured_Products_Review,,,,,PENDING,,False,0,0,SEARCH_COMPARATIVE_OR_ORIGINAL_NOTE
+2024,ECL_Review,,,,,PENDING,,False,13,8,REVIEW_SOURCE_LINES

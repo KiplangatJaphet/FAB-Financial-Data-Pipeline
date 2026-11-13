@@ -1,0 +1,14 @@
+﻿Financial_Year,Category,Normalised_Line,Source_Reports,Distinct_Amounts,Minimum_Amount,Maximum_Amount,Difference_SAR_Million
+2011,Net_Financing,"financing, net",2,2,140313.292,140395.619,82.32700000001932
+2016,Sukuk,sukuk,2,2,1300.895,2100.895,800.0
+2017,Sukuk,sukuk,2,2,1545.059,10605.139,9060.08
+2018,Net_Financing,"financing, net",2,3,62416.744,234062.789,171646.04499999998
+2018,Sukuk,sukuk,2,4,800.0,18195.957,17395.957
+2019,Sukuk,sukuk,2,4,800.0,18751.109,17951.109
+2020,Interbank_Mutajara,mutajara,2,3,59.321,27399.893,27340.572
+2020,Sukuk,sukuk,2,5,604.332,28406.417,27802.085000000003
+2021,Government_Murabaha,murabaha with saudi government and sama –,2,2,22611.987,22904.021,292.03399999999965
+2021,Sukuk,sukuk,2,4,1532.611,51764.416,50231.805
+2022,Sukuk,sukuk,2,5,159.591,74016.436,73856.845
+2023,Net_Financing,"financing, net",2,3,-27370.87,594204.806,621575.676
+2023,Sukuk,sukuk,2,4,122.374,102547.859,102425.485

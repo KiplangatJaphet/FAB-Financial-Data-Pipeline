@@ -1,0 +1,502 @@
+﻿Report_Year,PDF_File,PDF_Page,Line_Number,Category,Raw_Numbers,Unit_Detected,Raw_Text,Status
+2010,Al_Rajhi_2010_Financial_Statements.pdf,4,10,Net_Financing,"120,064,667 | 112,147,659",UNKNOWN,"Financing,net 6 120,064,667 112,147,659",REVIEW_REQUIRED
+2010,Al_Rajhi_2010_Financial_Statements.pdf,15,31,Interbank_Mutajara,"9,677,421 | 13,053,316",UNKNOWN,"Mutajara 9,677,421 13,053,316",REVIEW_REQUIRED
+2010,Al_Rajhi_2010_Financial_Statements.pdf,17,26,Net_Financing,"72,953,958 | 47,110,709 | 120,064,667",UNKNOWN,"Financing,net 72,953,958 47,110,709 120,064,667",REVIEW_REQUIRED
+2010,Al_Rajhi_2010_Financial_Statements.pdf,17,36,Net_Financing,"62,121,331 | 50,026,328 | 112,147,659",UNKNOWN,"Financing,net 62,121,331 50,026,328 112,147,659",REVIEW_REQUIRED
+2010,Al_Rajhi_2010_Financial_Statements.pdf,39,12,Net_Financing,"18,300,313 | 22,229,443 | 63,541,315 | 15,993,596 | 120,064,667",UNKNOWN,"Financing,net 18,300,313 22,229,443 63,541,315 15,993,596 - 120,064,667",REVIEW_REQUIRED
+2010,Al_Rajhi_2010_Financial_Statements.pdf,40,10,Net_Financing,"30,709,269 | 13,288,011 | 54,873,596 | 13,276,783 | 112,147,659",UNKNOWN,"Financing,net 30,709,269 13,288,011 54,873,596 13,276,783 - 112,147,659",REVIEW_REQUIRED
+2010,Al_Rajhi_2010_Financial_Statements.pdf,42,11,Net_Financing,"4,914,348 | 6,840,211 | 11,754,559",UNKNOWN,"Financing,net - - - - - 4,914,348 6,840,211 - - 11,754,559",REVIEW_REQUIRED
+2010,Al_Rajhi_2010_Financial_Statements.pdf,43,11,Net_Financing,"232,467 | 5,801,295 | 10,568,647 | 16,602,409",UNKNOWN,"Financing,net - - - 232,467 - 5,801,295 10,568,647 - - 16,602,409",REVIEW_REQUIRED
+2010,Al_Rajhi_2010_Financial_Statements.pdf,45,13,Net_Financing,"113,025,229 | 999,989 | 187,600 | 937,500 | 4,914,349 | 120,064,667",UNKNOWN,"Financing,net 113,025,229 999,989 187,600 - 937,500 4,914,349 - 120,064,667",REVIEW_REQUIRED
+2010,Al_Rajhi_2010_Financial_Statements.pdf,46,10,Net_Financing,"106,238,961 | 645,732 | 1,125,124 | 4,137,842 | 112,147,659",UNKNOWN,"Financing,net 106,238,961 645,732 1,125,124 - - 4,137,842 - 112,147,659",REVIEW_REQUIRED
+2010,Al_Rajhi_2010_Financial_Statements.pdf,49,9,Interbank_Mutajara,"2,087,694 | 3,073,303",UNKNOWN,"Mutajara 2,087,694 3,073,303",REVIEW_REQUIRED
+2010,Al_Rajhi_2010_Financial_Statements.pdf,49,14,Interbank_Mutajara,"474,994 | 485,175",UNKNOWN,"Mutajara 474,994 485,175",REVIEW_REQUIRED
+2010,Al_Rajhi_2010_Financial_Statements.pdf,49,22,Interbank_Mutajara,"120,597 | 120,597",UNKNOWN,"Mutajara 120,597 120,597",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,29,12,Net_Financing,"140,395,619 | 120,064,667",UNKNOWN,"Financing, net 6 140,395,619 120,064,667",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,40,35,Interbank_Mutajara,"13,314,329 | 9,677,421",UNKNOWN,"Mutajara 13,314,329 9,677,421",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,43,12,Net_Financing,"93,306,836 | 47,088,783 | 140,395,619",UNKNOWN,"Financing, net 93,306,836 47,088,783 140,395,619",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,43,22,Net_Financing,"72,953,958 | 47,110,709 | 120,064,667",UNKNOWN,"Financing, net 72,953,958 47,110,709 120,064,667",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,47,21,Government_SAMA_Murabaha,"35,524,923 | 25,598,479",UNKNOWN,"Murabaha with SAMA 35,524,923 25,598,479",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,47,24,Sukuk,"1,310,097 | 1,007,539",UNKNOWN,"Sukuk 1,310,097 1,007,539",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,53,19,Government_SAMA_Murabaha,"201,067 | 141,829",UNKNOWN,"Murabaha with SAMA 201,067 141,829",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,61,35,Net_Financing,"17,889,745 | 28,894,769 | 76,232,987 | 17,378,118 | 140,395,619",UNKNOWN,"Financing, net 17,889,745 28,894,769 76,232,987 17,378,118 - 140,395,619",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,62,7,Net_Financing,"18,300,313 | 22,229,443 | 63,541,315 | 15,993,596 | 120,064,667",UNKNOWN,"Financing, net 18,300,313 22,229,443 63,541,315 15,993,596 - 120,064,667",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,64,9,Net_Financing,"5,388,922 | 7,644,754 | 138,089 | 13,171,765",UNKNOWN,"Financing, net - - - - - 5,388,922 7,644,754 - 138,089 13,171,765",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,64,32,Net_Financing,"4,914,348 | 6,840,211 | 11,754,559",UNKNOWN,"Financing, net - - - - - 4,914,348 6,840,211 - - 11,754,559",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,65,31,Net_Financing,"135,798,250 | 138,089 | 4,459,280 | 140,395,619",UNKNOWN,"Financing, net 135,798,250 138,089 - - - 4,459,280 - 140,395,619",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,66,11,Net_Financing,"113,025,229 | 999,989 | 187,600 | 937,500 | 4,914,349 | 120,064,667",UNKNOWN,"Financing, net 113,025,229 999,989 187,600 - 937,500 4,914,349 - 120,064,667",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,68,7,Interbank_Mutajara,"2,250,598 | 2,087,694",UNKNOWN,"Mutajara 2,250,598 2,087,694",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,68,10,Interbank_Mutajara,"1,133,019 | 474,994",UNKNOWN,"Mutajara 1,133,019 474,994",REVIEW_REQUIRED
+2011,Al_Rajhi_2011_Financial_Statements.pdf,68,20,Interbank_Mutajara,"120,597",UNKNOWN,"Mutajara - 120,597",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,4,10,Net_Financing,"171,941,478 | 140,313,292",UNKNOWN,"Financing, net 6 171,941,478 140,313,292",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,17,23,Interbank_Mutajara,"14,777,363 | 13,314,329",UNKNOWN,"Mutajara 14,777,363 13,314,329",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,19,43,Net_Financing,"117,679,004 | 54,262,474 | 171,941,478",UNKNOWN,"Financing, net 117,679,004 54,262,474 171,941,478",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,20,13,Net_Financing,"93,224,509 | 47,088,783 | 140,313,292",UNKNOWN,"Financing, net 93,224,509 47,088,783 140,313,292",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,24,16,Government_SAMA_Murabaha,"38,276,376 | 35,524,923",UNKNOWN,"Murabaha with SAMA 38,276,376 35,524,923",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,24,19,Sukuk,"1,045,289 | 1,310,097",UNKNOWN,"Sukuk 1,045,289 1,310,097",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,31,31,Government_SAMA_Murabaha,"185,226 | 201,067",UNKNOWN,"Murabaha with SAMA 185,226 201,067",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,43,32,Net_Financing,"24,979,925 | 35,977,938 | 90,600,047 | 20,383,568 | 171,941,478",UNKNOWN,"Financing, net 24,979,925 35,977,938 90,600,047 20,383,568 - 171,941,478",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,44,13,Net_Financing,"17,807,418 | 28,894,769 | 76,232,987 | 17,378,118 | 140,313,292",UNKNOWN,"Financing, net 17,807,418 28,894,769 76,232,987 17,378,118 - 140,313,292",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,46,16,Net_Financing,"5,262,561 | 7,241,175 | 1,343,784 | 13,847,520",UNKNOWN,"Financing, net - - - - - 5,262,561 7,241,175 - 1,343,784 13,847,520",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,47,14,Net_Financing,"5,388,922 | 7,644,754 | 138,089 | 13,171,765",UNKNOWN,"Financing, net - - - - - 5,388,922 7,644,754 - 138,089 13,171,765",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,49,16,Net_Financing,"164,802,180 | 1,548,050 | 328,687 | 5,262,561 | 171,941,478",UNKNOWN,"Financing, net 164,802,180 1,548,050 - - 328,687 5,262,561 - 171,941,478",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,50,13,Net_Financing,"135,798,250 | 138,089 | 4,376,953 | 140,313,292",UNKNOWN,"Financing, net 135,798,250 138,089 - - 4,376,953 - 140,313,292",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,53,9,Interbank_Mutajara,"2,481,462 | 2,250,598",UNKNOWN,"Mutajara 2,481,462 2,250,598",REVIEW_REQUIRED
+2012,Al_Rajhi_2012_Financial_Statements.pdf,53,13,Interbank_Mutajara,"65,866 | 1,133,019",UNKNOWN,"Mutajara 65,866 1,133,019",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,5,11,Net_Financing,"205,939,960 | 186,813,225",UNKNOWN,"Financing, net 7 205,939,960 186,813,225",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,24,25,Interbank_Mutajara,"14,536,877 | 13,773,356",UNKNOWN,"Mutajara 14,536,877 13,773,356",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,25,8,Government_SAMA_Murabaha,"39,866,296 | 37,229,076",UNKNOWN,"Murabaha with SAMA 39,866,296 37,229,076",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,25,9,Sukuk,"1,507,939 | 1,167,943",UNKNOWN,"Sukuk, net* 1,507,939 1,167,943",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,25,36,Sukuk,"1,507,939 | 1,167,943",UNKNOWN,"Sukuk 1,507,939 1,167,943",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,28,42,Net_Financing,"144,114,236 | 61,825,724 | 205,939,960",UNKNOWN,"Financing, net 144,114,236 61,825,724 205,939,960",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,29,12,Net_Financing,"129,090,276 | 57,722,949 | 186,813,225",UNKNOWN,"Financing, net 129,090,276 57,722,949 186,813,225",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,40,29,Government_SAMA_Murabaha,"273,430 | 251,503",UNKNOWN,"Murabaha with SAMA 273,430 251,503",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,40,30,Interbank_Mutajara,"148,946 | 172,206",UNKNOWN,"Mutajara with banks 148,946 172,206",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,53,16,Net_Financing,"26,156,352 | 45,374,329 | 119,619,864 | 14,789,415 | 205,939,960",UNKNOWN,"Financing, net 26,156,352 45,374,329 119,619,864 14,789,415 - 205,939,960",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,54,14,Net_Financing,"23,429,723 | 40,628,889 | 104,708,397 | 18,046,216 | 186,813,225",UNKNOWN,"Financing, net 23,429,723 40,628,889 104,708,397 18,046,216 - 186,813,225",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,56,16,Net_Financing,"5,270,717 | 7,432,936 | 2,152,261 | 14,855,914",UNKNOWN,"Financing, net - - - - - 5,270,717 7,432,936 - 2,152,261 14,855,914",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,57,14,Net_Financing,"5,471,949 | 7,786,315 | 1,392,079 | 14,650,343",UNKNOWN,"Financing, net - - - - - 5,471,949 7,786,315 - 1,392,079 14,650,343",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,59,17,Net_Financing,"198,262,770 | 2,549,224 | 5,127,966 | 205,939,960",UNKNOWN,"Financing, net 198,262,770 2,549,224 - - - 5,127,966 - 205,939,960",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,60,14,Net_Financing,"177,661,344 | 2,924,212 | 379,921 | 375,799 | 5,471,949 | 186,813,225",UNKNOWN,"Financing, net 177,661,344 2,924,212 379,921 - 375,799 5,471,949 - 186,813,225",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,63,12,Interbank_Mutajara,"4,573,099 | 3,841,833",UNKNOWN,"Mutajara 4,573,099 3,841,833",REVIEW_REQUIRED
+2014,Al_Rajhi_2014_Financial_Statements.pdf,63,17,Interbank_Mutajara,"1,380,924 | 1,694,147",UNKNOWN,"Mutajara 1,380,924 1,694,147",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,10,11,Net_Financing,"224,994,124 | 210,217,868",UNKNOWN,"Financing, net 7 224,994,124 210,217,868",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,32,21,SAMA_Mutajara,"15,181,051",UNKNOWN,"Mutajara with SAMA 15,181,051 -",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,33,9,Interbank_Mutajara,0448091,UNKNOWN,"Mutajara 0448091,22 294,,94,9,",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,33,28,Government_SAMA_Murabaha,"1,492",UNKNOWN,"Murabaha with SAMA 22,94,,0,8 1,49294,13",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,33,29,Sukuk,34229491,UNKNOWN,"Sukuk 0,,22,7,4 34229491,",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,34,13,Government_SAMA_Murabaha,"30,451,217 | 30,451,217",UNKNOWN,"Murabaha with SAMA - 30,451,217 30,451,217",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,34,14,Sukuk,"350,272 | 1,750,623",UNKNOWN,"Sukuk 350,272 1,750,623 0,,22,7,4",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,34,20,Government_SAMA_Murabaha,"1,492 | 1,492",UNKNOWN,"Murabaha with SAMA - 1,49294,13 1,49294,13",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,34,21,Sukuk,"352,134 | 873,400 | 34229491",UNKNOWN,"Sukuk 352,134 873,400 34229491,",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,34,30,Government_SAMA_Murabaha,"41,880 | 30,493,097",UNKNOWN,"Murabaha with SAMA 22,94,,0,8 41,880 - 30,493,097",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,34,31,Sukuk,"14,162 | 2,115,057",UNKNOWN,"Sukuk 0,,22,7,4 14,162 - 2,115,057",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,34,39,Government_SAMA_Murabaha,"36,727,031 | (127,317) | 36,599,714",UNKNOWN,"Murabaha with SAMA 36,727,031 - (127,317) 36,599,714",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,34,40,Sukuk,"1,225,534 | (3,271) | 1,222,263",UNKNOWN,"Sukuk 1,225,534 - (3,271) 1,222,263",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,35,7,Government_SAMA_Murabaha,"30,451,217",UNKNOWN,"Murabaha with SAMA 30,451,217 3,,929,,13",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,35,18,Sukuk,"1,300,895 | 34229491",UNKNOWN,"Sukuk 1,300,895 34229491,",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,35,37,Interbank_Mutajara,"99,779 | 90,727,702",UNKNOWN,"Mutajara 99,779,,,2 ,,9,9,,04 )2,4,,,2,7( 90,727,702",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,36,10,Interbank_Mutajara,"1,939,592",UNKNOWN,"Mutajara 15,,99,,,, 3,9,9,,59 )1,939,592( 1,,5,,,,,1",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,37,45,Net_Financing,"272,222 | 65,613,824 | 224,994,124",UNKNOWN,"Financing, net ,4,,272,222 65,613,824 224,994,124",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,38,14,Net_Financing,"153,121,857 | 57,096,011 | 23,423",UNKNOWN,"Financing, net 153,121,857 57,096,011 23,423945,5",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,51,14,Interbank_Mutajara,"2,549",UNKNOWN,"Mutajara with banks 42,1,22 2,549,9",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,54,34,SAMA_Mutajara,"15,181,051",UNKNOWN,"Mutajara with SAMA 15,181,051 -",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,56,33,Net_Financing,"(1,300,166) | (842,076) | 01,901",UNKNOWN,"financing, net (1,300,166) (842,076) - - )01,901090(",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,61,35,Government_SAMA_Murabaha,"30,451,217 | 36,727,031",UNKNOWN,"Murabaha with SAMA 30,451,217 36,727,031",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,61,36,Sukuk,"2,100,895 | 1,225,534",UNKNOWN,"Sukuk 2,100,895 1,225,534",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,69,15,Net_Financing,"4104 | 1772 | 9197212 | 21,281 | 01742184",UNKNOWN,"Financing, net - - - 4104,1772 9197212,4 - 21,281979 ,01742184,",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,70,13,Net_Financing,"4,396,890 | 6,539,121 | 2,855,760 | 13,791,771",UNKNOWN,"Financing, net - - - 4,396,890 6,539,121 - 2,855,760 13,791,771",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,78,12,Interbank_Mutajara,72819,UNKNOWN,"Mutajara 72819,7 93,49,2",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,78,17,Interbank_Mutajara,442122 | 9214995,UNKNOWN,"Mutajara 442122, 9214995",REVIEW_REQUIRED
+2016,Al_Rajhi_2016_Financial_Statements.pdf,78,20,Interbank_Mutajara,"2,859,571 | 24995491",UNKNOWN,"Mutajara 2,859,571 24995491,",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,31,34,SAMA_Mutajara,"21,310,111 | 15,181,051",UNKNOWN,"Mutajara with SAMA 21,310,111 15,181,051",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,32,9,Interbank_Mutajara,"9,883,887 | 25,724,933",UNKNOWN,"Mutajara 9,883,887 25,724,933",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,32,28,Government_SAMA_Murabaha,"23,452,869 | 30,451,217",UNKNOWN,"Murabaha with SAMA 23,452,869 30,451,217",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,32,29,Sukuk,"10,605,139 | 2,100,895",UNKNOWN,"Sukuk 10,605,139 2,100,895",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,33,13,Government_SAMA_Murabaha,"23,452,869 | 23,452,869",UNKNOWN,"Murabaha with SAMA - 23,452,869 23,452,869",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,33,14,Sukuk,"10,605,139 | 10,605,139",UNKNOWN,"Sukuk - 10,605,139 10,605,139",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,33,20,Government_SAMA_Murabaha,"30,451,217 | 30,451,217",UNKNOWN,"Murabaha with SAMA - 30,451,217 30,451,217",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,33,21,Sukuk,"2,100,895 | 2,100,895",UNKNOWN,"Sukuk - 2,100,895 2,100,895",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,33,29,Government_SAMA_Murabaha,"23,452,869 | 6,984 | 23,459,853",UNKNOWN,"Murabaha with SAMA 23,452,869 6,984 - 23,459,853",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,33,30,Sukuk,"10,605,139 | 45,503 | 10,559,636",UNKNOWN,"Sukuk 10,605,139 - 45,503 10,559,636",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,33,37,Government_SAMA_Murabaha,"30,451,217 | 41,880 | 30,493,097",UNKNOWN,"Murabaha with SAMA 30,451,217 41,880 - 30,493,097",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,33,38,Sukuk,"2,100,895 | 14,162 | 2,115,057",UNKNOWN,"Sukuk 2,100,895 14,162 - 2,115,057",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,34,7,Government_SAMA_Murabaha,"23,452,869 | 30,451,217",UNKNOWN,"Murabaha with SAMA 23,452,869 30,451,217",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,34,8,Sukuk,"10,605,139 | 2,100,895",UNKNOWN,"Sukuk - Investment grade 10,605,139 2,100,895",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,34,17,Sukuk,"1,545,059 | 1,300,895",UNKNOWN,"Sukuk 1,545,059 1,300,895",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,35,11,Interbank_Mutajara,"48,729,890 | 1,222,313 | (3,585,237) | 46,366,966",UNKNOWN,"Mutajara 48,729,890 1,222,313 (3,585,237) 46,366,966",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,35,20,Interbank_Mutajara,"44,884,996 | 1,494,925 | 3,511,098 | 42,868,823",UNKNOWN,"Mutajara 44,884,996 1,494,925 )3,511,098( 42,868,823",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,36,39,Interbank_Mutajara,"132,645 | 49,819,558 | 49,952,203",UNKNOWN,"Mutajara 132,645 49,819,558 49,952,203",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,36,45,Net_Financing,"164,338,624 | 69,196,949 | 233,535,573",UNKNOWN,"Financing, net 164,338,624 69,196,949 233,535,573",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,37,8,Interbank_Mutajara,"8,145 | 46,371,776 | 46,379,921",UNKNOWN,"Mutajara 8,145 46,371,776 46,379,921",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,37,14,Net_Financing,"159,380,300 | 65,613,824 | 224,994,124",UNKNOWN,"Financing, net 159,380,300 65,613,824 224,994,124",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,49,13,Government_SAMA_Murabaha,"673,238 | 541,176",UNKNOWN,"Murabaha with SAMA 673,238 541,176",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,49,14,Interbank_Mutajara,"517,212 | 569,166",UNKNOWN,"Mutajara with banks 517,212 569,166",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,53,26,SAMA_Mutajara,"21,310,111 | 15,181",UNKNOWN,"Mutajara with SAMA 21,310,111 15,181,0 51",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,61,34,Government_SAMA_Murabaha,"23,452,869 | 30,451,217",UNKNOWN,"Murabaha with SAMA 23,452,869 30,451,217",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,61,35,Sukuk,"10,605,139 | 2,100,895",UNKNOWN,"Sukuk 10,605,139 2,100,895",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,69,18,Net_Financing,"1,634,458 | 864,990 | 257,432 | 2,757,273",UNKNOWN,"Financing, net - - 393 1,634,458 864,990 - 257,432 2,757,273",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,69,41,Net_Financing,"5,259,880 | 4,483,395 | 3,107,484 | 12,850,759",UNKNOWN,"Financing, net - - - 5,259,880 4,483,395 - 3,107,484 12,850,759",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,77,12,Interbank_Mutajara,"39,163 | 837,498",UNKNOWN,"Mutajara 39,163 837,498",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,77,17,Interbank_Mutajara,"1,585,464 | 550,009",UNKNOWN,"Mutajara 1,585,464 550,009",REVIEW_REQUIRED
+2017,Al_Rajhi_2017_Financial_Statements.pdf,77,20,Interbank_Mutajara,"3,308,232 | 2,859,571",UNKNOWN,"Mutajara 3,308,232 2,859,571",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,46,12,Net_Financing,"234,063 | 233,536",SAR_millions,"Financing, net 234,063 233,536 +0.2",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,46,34,Net_Financing,"234,062,789 | 233,535,573 | 224,994,124 | 210,217,868 | 205,939,960",SAR_thousands,"Financing, net 234,062,789 233,535,573 224,994,124 210,217,868 205,939,960",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,122,10,Net_Financing,"234,062,789 | 233,535,573",SAR_thousands,"Financing, net 7 234,062,789 233,535,573",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,132,15,Government_SAMA_Murabaha,"23,452,869 | 23,437,245",UNKNOWN,"Murabaha with Saudi Government and SAMA Held to maturity Amortised cost 23,452,869 23,437,245",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,132,16,Sukuk,"9,805,139 | 9,775,876",UNKNOWN,"Sukuk Held to maturity Amortised cost 9,805,139 9,775,876",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,132,24,Net_Financing,"233,535,573 | 230,701,718",UNKNOWN,"Financing, net Loans and receivables Amortised cost 233,535,573 230,701,718",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,136,13,Government_SAMA_Murabaha,"22,477,145 | 22,477,145",SAR_thousands,"Murabaha with Saudi Government and SAMA – – 22,477,145 22,477,145",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,136,14,Sukuk,"17,395,957 | 17,395,957",SAR_thousands,"Sukuk – – 17,395,957 17,395,957",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,136,17,Sukuk,"800,000 | 800,000",UNKNOWN,"Sukuk 800,000 – – 800,000",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,136,20,Net_Financing,"234,062,789 | 234,062,789",UNKNOWN,"Financing, net – – 234,062,789 234,062,789",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,137,18,Sukuk,"10,605,139 | 10,605,139",UNKNOWN,"Sukuk – – 10,605,139 – – – 10,605,139",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,137,26,Net_Financing,"233,535,573 | 233,535,573",UNKNOWN,"Financing, net – – – 233,535,573 – – 233,535,573",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,152,10,SAMA_Mutajara,"15,375,000 | 21,310,111",SAR_thousands,"Mutajara with SAMA 15,375,000 21,310,111",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,152,22,Interbank_Mutajara,"30,029,242 | 9,883,887",SAR_thousands,"Mutajara 30,029,242 9,883,887",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,153,9,Government_SAMA_Murabaha,"22,477,145 | 23,452,869",SAR_thousands,"Murabaha with Saudi Government and SAMA 22,477,145 23,452,869",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,153,10,Sukuk,"17,395,957 | 10,605,139",SAR_thousands,"Sukuk 17,395,957 10,605,139",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,153,11,Impairment_Allowance,"(28,337)",SAR_thousands,"Less: Impairment (Stage 1) (28,337) –",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,153,16,Sukuk,"800,000",UNKNOWN,"Sukuk 800,000 –",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,154,8,Government_SAMA_Murabaha,"22,477,145 | 22,477,145",SAR_thousands,"Murabaha with SAMA – 22,477,145 22,477,145",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,154,9,Sukuk,"18,167,620 | 18,167,620",SAR_thousands,"Sukuk – 18,167,620 18,167,620",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,154,16,Government_SAMA_Murabaha,"23,452,869 | 23,452,869",SAR_thousands,"Murabaha with SAMA – 23,452,869 23,452,869",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,154,17,Sukuk,"10,605,139 | 10,605,139",SAR_thousands,"Sukuk – 10,605,139 10,605,139",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,154,27,Government_SAMA_Murabaha,"22,477,145 | 1,813 | 22,478,958",SAR_thousands,"Murabaha with SAMA 22,477,145 1,813 – 22,478,958",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,154,28,Sukuk,"18,195,957 | 134,960 | 18,060,997",SAR_thousands,"Sukuk 18,195,957 – 134,960 18,060,997",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,155,8,Government_SAMA_Murabaha,"23,452,869 | 6,984 | 23,459,853",SAR_thousands,"Murabaha with SAMA 23,452,869 6,984 – 23,459,853",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,155,9,Sukuk,"10,605,139 | 45,503 | 10,559,636",SAR_thousands,"Sukuk 10,605,139 – 45,503 10,559,636",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,155,16,Government_SAMA_Murabaha,"22,477,145 | 23,452,869",SAR_thousands,"Murabaha with SAMA 22,477,145 23,452,869",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,155,17,Sukuk,"18,195,957 | 10,605,139",SAR_thousands,"Sukuk – Investment grade 18,195,957 10,605,139",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,155,25,Sukuk,"1,539,271 | 1,545,059",SAR_thousands,"Sukuk 1,539,271 1,545,059",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,156,9,Impairment_Allowance,"(28,337)",SAR_thousands,"Less: Impairment (28,337) –",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,156,18,Interbank_Mutajara,"47,552,342 | 1,024,320 | (2,562,159) | 46,014,503",SAR_thousands,"Mutajara 47,552,342 1,024,320 (2,562,159) 46,014,503",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,156,27,Interbank_Mutajara,"48,729,890 | 1,052,534 | (2,387,590) | 47,394,834",SAR_thousands,"Mutajara 48,729,890 1,052,534 (2,387,590) 47,394,834",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,157,25,Interbank_Mutajara,"320,987 | 48,255,675 | 48,576,662",SAR_thousands,"Mutajara 320,987 48,255,675 48,576,662",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,157,31,Net_Financing,"167,807,927 | 66,254,862 | 234,062,789",SAR_thousands,"Financing, net 167,807,927 66,254,862 234,062,789",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,158,6,Interbank_Mutajara,"132,645 | 49,649,779 | 49,782,424",SAR_thousands,"Mutajara 132,645 49,649,779 49,782,424",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,158,12,Net_Financing,"164,338,624 | 69,196,949 | 233,535,573",SAR_thousands,"Financing, net 164,338,624 69,196,949 233,535,573",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,167,12,Government_SAMA_Murabaha,"1,092,878 | 673,238",SAR_thousands,"Murabaha with SAMA 1,092,878 673,238",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,167,13,Interbank_Mutajara,"563,249 | 517,212",SAR_thousands,"Mutajara with banks 563,249 517,212",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,170,31,SAMA_Mutajara,"15,375,000 | 21,310,111",SAR_thousands,"Mutajara with SAMA 15,375,000 21,310,111",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,185,38,Government_SAMA_Murabaha,"22,477,145 | 23,452,869",SAR_thousands,"Murabaha with Saudi Government and SAMA 22,477,145 23,452,869",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,185,39,Sukuk,"18,195,957 | 10,605,139",SAR_thousands,"Sukuk 18,195,957 10,605,139",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,193,30,Net_Financing,"4,564,609 | 5,077,371 | 3,778,869 | 13,420,848",SAR_thousands,"Financing, net – – – 4,564,609 5,077,371 – 3,778,869 13,420,848",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,194,11,Net_Financing,"1,634,458 | 864,990 | 257,432 | 2,757,273",SAR_thousands,"Financing, net – – 393 1,634,458 864,990 – 257,432 2,757,273",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,200,26,Sukuk,"800,000 | 800,000 | 800,000",SAR_thousands,"Sukuk 800,000 – – 800,000 800,000",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,202,11,Interbank_Mutajara,"69,967 | 39,163",SAR_thousands,"Mutajara 69,967 39,163",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,202,15,Interbank_Mutajara,"10,242,942 | 1,585,464",SAR_thousands,"Mutajara 10,242,942 1,585,464",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,202,18,Interbank_Mutajara,"3,308,232",UNKNOWN,"Mutajara – 3,308,232",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,213,10,Net_Financing,"62,416,744 | 62,276,153",UNKNOWN,"Financing, net 62,416,744 62,276,153",REVIEW_REQUIRED
+2018,Al_Rajhi_2018_Annual_Report.pdf,215,12,Net_Financing,"62,417 | 62,276 | 59,998 | 56,058 | 54,917",UNKNOWN,"Financing, net 62,417 62,276 59,998 56,058 54,917",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,22,35,Structured_Products,2030,UNKNOWN,structured products especially POS Financing. foreseen by the Saudi Vision 2030.,REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,27,40,Net_Financing,"249,683 | 231,758",SAR_millions,"Financing, net 249,683 231,758 7.7%",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,28,11,Net_Financing,"249,682,805 | 231,758,206 | 233,535,573 | 224,994,124 | 210,217,868",SAR_millions,"Financing, net 249,682,805 231,758,206 233,535,573 224,994,124 210,217,868",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,52,15,Net_Financing,"249,682,805 | 231,758,206",UNKNOWN,"Financing, net 7 249,682,805 231,758,206",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,61,25,SAMA_Mutajara,"10,855,000 | 15,375,000",UNKNOWN,"Mutajara with SAMA 10,855,000 15,375,000 Investments held as FVSI",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,61,27,Sukuk,"800,000 | 800,000",UNKNOWN,"Sukuk 800,000 800,000",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,61,44,Interbank_Mutajara,"31,260,014 | 31,608,991 | 2018",UNKNOWN,"Mutajara 31,260,014 31,608,991 Equity investment securities designated as at FVOCI The Bank owns 22.5% (31 December 2018: 22.5%) shares of Al",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,62,5,Government_SAMA_Murabaha,"24,991,978 | 24,991,978 | 18,565,484 | 18,167,620",UNKNOWN,"Murabaha with Saudi Government and SAMA - 24,991,978 24,991,978 Sukuk - Investment grade 18,565,484 18,167,620",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,62,6,Sukuk,"13,248,750 | 5,502,359 | 18,751,109 | 185,625",UNKNOWN,"Sukuk 13,248,750 5,502,359 18,751,109 Sukuk - BB+ (Fitch) 185,625 -",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,62,16,Government_SAMA_Murabaha,"22,477,145 | 22,477,145",UNKNOWN,"Murabaha with Saudi Government and SAMA - 22,477,145 22,477,145",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,62,17,Sukuk,"12,799,000 | 5,368,620 | 18,167,620",UNKNOWN,"Sukuk 12,799,000 5,368,620 18,167,620",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,62,23,Sukuk,"1,128,857 | 1,539,271",UNKNOWN,"Sukuk 1,128,857 1,539,271",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,62,34,Government_SAMA_Murabaha,"24,991,978 | 276,199 | 25,268,177",UNKNOWN,"Murabaha with Saudi Government and SAMA 24,991,978 276,199 - 25,268,177",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,62,36,Sukuk,"18,773,379 | 384,209 | 19,157,588",UNKNOWN,"Sukuk 18,773,379 384,209 - 19,157,588",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,62,50,Government_SAMA_Murabaha,"22,477,145 | 198,467 | 22,675,612",UNKNOWN,"Murabaha with Saudi Government and SAMA 22,477,145 198,467 - 22,675,612",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,62,51,Sukuk,"18,195,957 | 9,011 | 18,204,968",UNKNOWN,"Sukuk 18,195,957 9,011 - 18,204,968",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,63,6,Interbank_Mutajara,"811,429 | 43,808,144 | 44,619,573",UNKNOWN,"Mutajara 811,429 43,808,144 44,619,573",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,63,12,Interbank_Mutajara,"42,932,499 | 1,687,074 | (3,042,329) | 41,577,244",UNKNOWN,"Mutajara 42,932,499 1,687,074 (3,042,329) 41,577,244",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,63,15,Net_Financing,"186,723,027 | 62,959,778 | 249,682,805",UNKNOWN,"Financing, net 186,723,027 62,959,778 249,682,805",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,63,20,Interbank_Mutajara,"320,987 | 45,960,476 | 46,281,463",UNKNOWN,"Mutajara 320,987 45,960,476 46,281,463",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,63,24,Interbank_Mutajara,"45,257,143 | 1,024,320 | (2,562,159) | 43,719,304 | 1,985,260 | 1,985,260",UNKNOWN,"Mutajara 45,257,143 1,024,320 (2,562,159) 43,719,304 Credit cards 1,985,260 - 1,985,260",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,63,28,Net_Financing,"167,083,092 | 64,675,114 | 231,758,206",UNKNOWN,"Financing, net 167,083,092 64,675,114 231,758,206",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,69,12,SAMA_Mutajara,"10,855,000 | 15,375,000",UNKNOWN,"Mutajara with SAMA 10,855,000 15,375,000 25.5 Principal actuarial assumptions (in respect of the employee benefit scheme)",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,75,20,Government_SAMA_Murabaha,"24,991,978 | 22,477,145",UNKNOWN,"Murabaha with Saudi Government and SAMA 24,991,978 22,477,145 Regulations issued by SAMA, the Bank maintains a statutory and external regulatory requirements and maintaining debt",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,75,22,Sukuk,"18,751,109 | 18,167,620",UNKNOWN,"Sukuk 18,751,109 18,167,620",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,75,39,Interbank_Mutajara,"13,875,181 | 11,750,437 | 12,908,065 | 3,043,561 | 41,577,244",UNKNOWN,"Mutajara 13,875,181 11,750,437 12,908,065 3,043,561 - 41,577,244",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,76,12,Interbank_Mutajara,"14,480,073 | 15,127,724 | 11,655,333 | 2,456,174 | 43,719,304",UNKNOWN,"Mutajara 14,480,073 15,127,724 11,655,333 2,456,174 - 43,719,304",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,77,26,Interbank_Mutajara,"17,239,834 | 19,924,825 | 3,958,429 | 2,596,216 | 43,719,304",UNKNOWN,"Mutajara 17,239,834 19,924,825 3,958,429 2,596,216 - - 43,719,304",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,77,40,Net_Financing,"1,362,776 | 311,575 | 589,356 | 4,539,350 | 6,803,057",UNKNOWN,"Financing, net Other customer accounts 1,362,776 311,575 589,356 4,539,350 - - 6,803,057",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,77,41,Interbank_Mutajara,"16,244,991 | 14,699,701 | 4,218,431 | 4,609,125 | 1,804,996 | 41,577,244 | 14,526,229 | 14,526,229",UNKNOWN,"Mutajara 16,244,991 14,699,701 4,218,431 4,609,125 1,804,996 - 41,577,244 Other liabilities - - - - - 14,526,229 14,526,229",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,78,18,Net_Financing,"4,846,668 | 5,531,037 | 4,504,063 | 14,881,768 | 2019",UNKNOWN,"Financing, net - - - 4,846,668 5,531,037 - 4,504,063 14,881,768 As at 31 December 2019 Rate in % Net Income Equity",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,78,53,Net_Financing,"4,564,609 | 5,077,371 | 3,778,869 | 13,420,849 | 2019 | 2018",UNKNOWN,"Financing, net - - - 4,564,609 5,077,371 - 3,778,869 13,420,849 2019 2018",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,80,17,Interbank_Mutajara,"40,595,689 | 1,023,541 | 2,100,074 | 43,719,304 | 47,742 | 47,742",UNKNOWN,"Mutajara 40,595,689 1,023,541 2,100,074 - - - 43,719,304 Credit cards 47,742 - - 47,742",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,80,21,Interbank_Mutajara,"(1,285,340) | (1,088) | (19,427) | (1,305,855)",UNKNOWN,"Mutajara (1,285,340) (1,088) (19,427) (1,305,855)",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,82,10,Interbank_Mutajara,"67,680 | 76,404",UNKNOWN,"Mutajara 67,680 76,404",REVIEW_REQUIRED
+2019,Al_Rajhi_2019_Annual_Report.pdf,82,18,Interbank_Mutajara,"7,244,210 | 8,040,701",UNKNOWN,"Mutajara 7,244,210 8,040,701 included in the consolidated financial statements as these are which is included in other liabilities (see note 13) for the year",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,76,13,Net_Financing,"315,712,101 | 249,682,805",SAR_thousands,"Financing, net 7 315,712,101 249,682,805",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,85,11,Government_SAMA_Murabaha,"22,904,021 | 24,991,978",SAR_thousands,"Murabaha with Saudi Government and SAMA 22,904,021 24,991,978",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,85,12,SAMA_Mutajara,"16,235,549 | 10,855,000",SAR_thousands,"Mutajara with SAMA 16,235,549 10,855,000",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,85,13,Sukuk,"25,240,452 | 17,973,379",SAR_thousands,"Sukuk 25,240,452 17,973,379",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,85,15,Structured_Products,"1,000,000",UNKNOWN,"Structured products 1,000,000 –",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,85,16,Impairment_Allowance,"(26,962) | (22,270)",UNKNOWN,"Less: Impairment (Stage 1) (26,962) (22,270)",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,85,23,Structured_Products,"1,502,525",UNKNOWN,"Structured products 1,502,525 –",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,85,24,Sukuk,"2,588,595 | 800,000",UNKNOWN,"Sukuk 2,588,595 800,000",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,85,30,Sukuk,"604,332",SAR_thousands,"Sukuk 604,332 –",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,85,33,Interbank_Mutajara,"27,395,208 | 31,260,014",SAR_thousands,"Mutajara 27,395,208 31,260,014",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,86,9,Government_SAMA_Murabaha,"22,904,021 | 22,904,021",SAR_thousands,"Murabaha with Saudi Government and SAMA – 22,904,021 22,904,021",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,86,10,Structured_Products,"2,502,525 | 2,502,525",SAR_thousands,"Structured products – 2,502,525 2,502,525",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,86,11,Government_SAMA_Murabaha,"24,991,978 | 276,199 | 25,268,177",SAR_thousands,"Murabaha with Saudi Government and SAMA 24,991,978 276,199 – 25,268,177",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,86,12,Sukuk,"24,143,625 | 4,262,792 | 28,406,417",SAR_thousands,"Sukuk 24,143,625 4,262,792 28,406,417",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,86,13,Sukuk,"18,773,379 | 384,209 | 19,157,588",SAR_thousands,"Sukuk 18,773,379 384,209 – 19,157,588",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,86,23,Government_SAMA_Murabaha,"24,991,978 | 24,991,978 | 22,904,021 | 24,991,978",SAR_thousands,"Murabaha with Saudi Government and SAMA – 24,991,978 24,991,978 Murabaha with Saudi Government and SAMA 22,904,021 24,991,978",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,86,24,Sukuk,"13,248,750 | 5,502,359 | 18,751,109 | 26,404,319 | 18,565,484",SAR_thousands,"Sukuk 13,248,750 5,502,359 18,751,109 Sukuk – Investment grade 26,404,319 18,565,484",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,86,37,Government_SAMA_Murabaha,"22,904,021 | 322,861 | 23,226,882",SAR_thousands,"Murabaha with Saudi Government and SAMA 22,904,021 322,861 – 23,226,882",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,86,38,Sukuk,"28,406,417 | 915,263 | 29,321,680",SAR_thousands,"Sukuk 28,406,417 915,263 – 29,321,680",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,86,39,Structured_Products,"2,502,525 | 48,310 | 2,550,835",SAR_thousands,"Structured products 2,502,525 48,310 – 2,550,835",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,87,9,Sukuk,"3,766,053 | 1,128,857",SAR_thousands,"Sukuk 3,766,053 1,128,857",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,87,10,Interbank_Mutajara,"42,932,499 | 1,687,074 | (3,042,329) | 41,577,244",SAR_thousands,"Mutajara 42,932,499 1,687,074 (3,042,329) 41,577,244",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,87,13,Sukuk,"604,332",SAR_thousands,"Sukuk 604,332 –",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,87,35,Impairment_Allowance,"(26,962) | (22,270)",SAR_thousands,"Less: Impairment (Stage 1) (26,962) (22,270)",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,87,50,Interbank_Mutajara,"38,536,363 | 1,690,865 | (2,995,894) | 37,231,334",SAR_thousands,"Mutajara 38,536,363 1,690,865 (2,995,894) 37,231,334",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,88,8,Interbank_Mutajara,"1,202,886 | 39,024,342 | 40,227,228",SAR_thousands,"Mutajara 1,202,886 39,024,342 40,227,228",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,88,17,Net_Financing,"250,659,355 | 65,052,746 | 315,712,101",UNKNOWN,"Financing, net 250,659,355 65,052,746 315,712,101",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,88,24,Interbank_Mutajara,"811,429 | 43,808,144 | 44,619,573",SAR_thousands,"Mutajara 811,429 43,808,144 44,619,573 Retail Corporate Total",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,88,33,Net_Financing,"186,723,027 | 62,959,778 | 249,682,805",SAR_thousands,"Financing, net 186,723,027 62,959,778 249,682,805",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,95,48,Government_SAMA_Murabaha,"970,595 | 1,210,789",UNKNOWN,"Murabaha with SAMA 970,595 1,210,789",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,95,49,Interbank_Mutajara,"980,343 | 1,007,516",UNKNOWN,"Mutajara with banks 980,343 1,007,516",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,97,15,SAMA_Mutajara,"16,235,549 | 10,855,000",SAR_thousands,"Mutajara with SAMA 16,235,549 10,855,000",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,104,48,Sukuk,"28,406,417 | 18,751,109",SAR_thousands,"Sukuk 28,406,417 18,751,109",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,106,18,Interbank_Mutajara,"13,875,181 | 11,750,437 | 12,908,065 | 3,043,561 | 41,577,244",UNKNOWN,"Mutajara 13,875,181 11,750,437 12,908,065 3,043,561 – 41,577,244",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,108,20,Interbank_Mutajara,"16,174,148 | 11,265,923 | 3,283,366 | 5,343,271 | 1,164,626 | 37,231,334 | 16,244,991 | 14,699,701 | 4,218,431 | 4,609,125 | 1,804,996 | 41,577,244",UNKNOWN,"Mutajara 16,174,148 11,265,923 3,283,366 5,343,271 1,164,626 – 37,231,334 Mutajara 16,244,991 14,699,701 4,218,431 4,609,125 1,804,996 – 41,577,244",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,109,16,Net_Financing,"4,751,305 | 7,567,866 | 4,962,823 | 17,281,994 | 4,846,668 | 5,531,037 | 4,504,063 | 14,881,768",SAR_thousands,"Financing, net – – – 4,751,305 7,567,866 – 4,962,823 17,281,994 Financing, net – – – 4,846,668 5,531,037 – 4,504,063 14,881,768",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,111,16,Interbank_Mutajara,"37,230,349 | 37,231,334 | 39,958,043 | 1,098,898 | 520,303 | 41,577,244",SAR_thousands,"Mutajara 37,230,349 592 393 – – – 37,231,334 Mutajara 39,958,043 1,098,898 520,303 – – – 41,577,244",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,112,14,Interbank_Mutajara,"1,647,511 | 5,423 | 37,929 | 1,690,865",SAR_thousands,"Mutajara 1,647,511 5,423 37,929 1,690,865",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,112,20,Interbank_Mutajara,"(2,929,580) | (12,570) | (53,744) | (2,995,894)",UNKNOWN,"Mutajara (2,929,580) (12,570) (53,744) (2,995,894)",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,112,34,Interbank_Mutajara,"1,642,684 | 5,420 | 38,970 | 1,687,074",SAR_thousands,"Mutajara 1,642,684 5,420 38,970 1,687,074",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,112,44,Interbank_Mutajara,"(1,285,340) | (1,088) | (19,427) | (1,305,855)",UNKNOWN,"Mutajara (1,285,340) (1,088) (19,427) (1,305,855)",REVIEW_REQUIRED
+2020,Al_Rajhi_2020_Annual_Report.pdf,113,17,Interbank_Mutajara,"59,321 | 67,680",SAR_thousands,"Mutajara 59,321 67,680",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,17,21,Net_Financing,"452,830,657 | 315,712,101 | 249,682,805 | 231,758,206 | 233,535,573",UNKNOWN,"Financing, net 452,830,657 315,712,101 249,682,805 231,758,206 233,535,573",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,61,17,Net_Financing,"452,830,657 | 315,712,101 | 249,682,805 | 231,758,206 | 233,535,573",SAR_thousands,"Financing, net 452,830,657 315,712,101 249,682,805 231,758,206 233,535,573",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,188,16,Net_Financing,"452,830,657 | 315,712,101",SAR_thousands,"Financing, net 7 452,830,657 315,712,101",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,220,16,SAMA_Mutajara,"5,799,920 | 16,235,549",SAR_thousands,"Mutajara with SAMA 5,799,920 16,235,549",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,220,31,Interbank_Mutajara,"24,013,126 | 27,399,893",SAR_thousands,"Mutajara 24,013,126 27,399,893",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,222,14,Government_SAMA_Murabaha,"22,611,987 | 22,904,021",SAR_thousands,"Murabaha with Saudi Government and SAMA 22,611,987 22,904,021",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,222,15,Sukuk,"46,518,108 | 25,240,452",SAR_thousands,"Sukuk 46,518,108 25,240,452",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,222,16,Structured_Products,"1,000,000 | 1,000,000",SAR_thousands,"Structured Products 1,000,000 1,000,000",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,222,17,Impairment_Allowance,"(31,824) | (26,962)",SAR_thousands,"Less: Impairment (Stage 1) (31,824) (26,962)",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,222,21,Structured_Products,"788,765 | 1,502,525",UNKNOWN,"Structured products 788,765 1,502,525",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,222,22,Sukuk,"3,745,521 | 2,588,595",UNKNOWN,"Sukuk 3,745,521 2,588,595",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,222,26,Sukuk,"1,532,611 | 604,332",UNKNOWN,"Sukuk 1,532,611 604,332",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,223,21,Government_SAMA_Murabaha,"22,611,987 | 22,611,987",UNKNOWN,"Murabaha with Saudi Government and SAMA – 22,611,987 22,611,987",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,223,23,Structured_Products,"1,788,765 | 1,788,765",UNKNOWN,"Structured products – 1,788,765 1,788,765",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,223,24,Sukuk,"48,022,762 | 3,741,654 | 51,764,416",UNKNOWN,"Sukuk 48,022,762 3,741,654 51,764,416",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,223,32,Government_SAMA_Murabaha,"22,904,021 | 22,904,021",UNKNOWN,"Murabaha with Saudi Government and SAMA – 22,904,021 22,904,021",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,223,33,Structured_Products,"2,502,525 | 2,502,525",UNKNOWN,"Structured products – 2,502,525 2,502,525",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,223,34,Sukuk,"24,143,625 | 4,262,792 | 28,406,417",UNKNOWN,"Sukuk 24,143,625 4,262,792 28,406,417",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,224,16,Sukuk,"51,764,416 | 198,991 | 51,963,407",UNKNOWN,"Sukuk 51,764,416 198,991 – 51,963,407",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,224,28,Sukuk,"28,406,417 | 915,263 | 29,321,680",UNKNOWN,"Sukuk 28,406,417 915,263 – 29,321,680",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,225,11,Government_SAMA_Murabaha,"22,611,987 | 22,904,021",SAR_thousands,"Murabaha with Saudi Government and SAMA 22,611,987 22,904,021",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,225,12,Sukuk,"48,079,053 | 26,404,319",SAR_thousands,"Sukuk – Investment grade 48,079,053 26,404,319",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,225,13,Structured_Products,"1,788,765 | 2,502,525",SAR_thousands,"Structured products – Investment grade 1,788,765 2,502,525",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,225,14,Sukuk,"2,268,569 | 597,098",SAR_thousands,"Sukuk – Non-investment grade 2,268,569 597,098",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,225,15,Sukuk,"1,416,794 | 1,405,000",SAR_thousands,"Sukuk unrated 1,416,794 1,405,000",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,225,29,Impairment_Allowance,"(31,824) | (26,962)",SAR_thousands,"Less: impairment (Stage 1) (31,824) (26,962)",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,226,17,Structured_Products,"500,000 | 500,000 | 1,000,000",UNKNOWN,"Structured products 500,000 500,000 1,000,000",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,226,18,Impairment_Allowance,"(31,824) | (31,824)",UNKNOWN,"Less: impairment (Stage 1) (31,824) – (31,824)",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,226,23,Structured_Products,"500,000 | 288,770 | 788,770",UNKNOWN,"Structured products 500,000 288,770 788,770",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,227,15,Structured_Products,"500,000 | 500,000 | 1,000,000",UNKNOWN,"Structured products 500,000 500,000 1,000,000",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,227,16,Impairment_Allowance,"(26,962) | (26,962)",UNKNOWN,"Less: impairment (Stage 1) (26,962) – (26,962)",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,227,21,Structured_Products,"500,000 | 1,002,525 | 1,502,525",UNKNOWN,"Structured products 500,000 1,002,525 1,502,525",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,228,15,Interbank_Mutajara,"68,203,350 | 1,469,013 | (3,959,756) | 65,712,607",UNKNOWN,"Mutajara 68,203,350 1,469,013 (3,959,756) 65,712,607",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,228,23,Interbank_Mutajara,"38,574,292 | 1,652,936 | (2,995,894) | 37,231,334",UNKNOWN,"Mutajara 38,574,292 1,652,936 (2,995,894) 37,231,334",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,230,13,Interbank_Mutajara,"2,820,209 | 66,852,154 | 69,672,363",UNKNOWN,"Mutajara 2,820,209 66,852,154 69,672,363",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,230,19,Net_Financing,"365,749,349 | 87,081,308 | 452,830,657",UNKNOWN,"Financing, net 365,749,349 87,081,308 452,830,657",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,230,24,Interbank_Mutajara,"1,202,886 | 39,024,342 | 40,227,228",UNKNOWN,"Mutajara 1,202,886 39,024,342 40,227,228",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,230,30,Net_Financing,"250,683,555 | 65,028,546 | 315,712,101",UNKNOWN,"Financing, net 250,683,555 65,028,546 315,712,101",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,250,18,Government_SAMA_Murabaha,"1,167,653 | 970,595",SAR_thousands,"Murabaha with SAMA 1,167,653 970,595",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,250,19,Interbank_Mutajara,"1,230,388 | 980,343",SAR_thousands,"Mutajara with banks 1,230,388 980,343",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,254,46,SAMA_Mutajara,"5,799,920 | 16,235,549",SAR_thousands,"Mutajara with SAMA 5,799,920 16,235,549",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,272,16,Government_SAMA_Murabaha,"22,611,987 | 22,904,021",SAR_thousands,"Murabaha with Saudi Government and SAMA 22,611,987 22,904,021",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,272,17,Sukuk,"51,764,416 | 28,406,417",SAR_thousands,"Sukuk 51,764,416 28,406,417",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,272,18,Structured_Products,"1,788,765 | 2,502,525",SAR_thousands,"Structured Products 1,788,765 2,502,525",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,274,19,Interbank_Mutajara,"18,781,527 | 19,227,767 | 20,892,884 | 6,810,429 | 65,712,607",UNKNOWN,"Mutajara 18,781,527 19,227,767 20,892,884 6,810,429 – 65,712,607",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,275,19,Interbank_Mutajara,"14,385,991 | 9,205,279 | 11,161,268 | 2,478,796 | 37,231,334",UNKNOWN,"Mutajara 14,385,991 9,205,279 11,161,268 2,478,796 – 37,231,334",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,279,25,Interbank_Mutajara,"28,281,674 | 23,307,071 | 5,877,092 | 6,409,798 | 1,836,972 | 65,712,607",UNKNOWN,"Mutajara 28,281,674 23,307,071 5,877,092 6,409,798 1,836,972 – 65,712,607",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,280,25,Interbank_Mutajara,"16,174,148 | 11,265,923 | 3,283,366 | 5,343,271 | 1,164,626 | 37,231,334",UNKNOWN,"Mutajara 16,174,148 11,265,923 3,283,366 5,343,271 1,164,626 – 37,231,334",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,284,22,Interbank_Mutajara,"64,370,413 | 1,342,194 | 65,712,607",SAR_thousands,"Mutajara 64,370,413 1,342,194 – – – 65,712,607",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,285,18,Interbank_Mutajara,"36,440,691 | 790,643 | 37,231,334",SAR_thousands,"Mutajara 36,440,691 790,643 – – – 37,231,334",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,286,14,Interbank_Mutajara,"1,415,129 | 53,884 | 1,469,013",SAR_thousands,"Mutajara 1,415,129 53,884 – 1,469,013",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,286,19,Interbank_Mutajara,"(3,922,922) | (36,834) | (3,959,756)",SAR_thousands,"Mutajara (3,922,922) (36,834) – (3,959,756)",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,286,27,Interbank_Mutajara,"1,647,513 | 5,423 | 1,652,936",SAR_thousands,"Mutajara 1,647,513 5,423 – 1,652,936",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,286,32,Interbank_Mutajara,"(2,983,324) | (12,570) | (2,995,894)",SAR_thousands,"Mutajara (2,983,324) (12,570) – (2,995,894)",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,290,37,Interbank_Mutajara,"172,442 | 59,321",SAR_thousands,"Mutajara 172,442 59,321",REVIEW_REQUIRED
+2021,Al_Rajhi_2021_Annual_Report.pdf,290,41,Interbank_Mutajara,"12,127,165 | 10,222,874",SAR_thousands,"Mutajara 12,127,165 10,222,874",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,10,24,Net_Financing,"568,338,114 | 452,830,657 | 315,712,101 | 249,682,805 | 231,758,206",UNKNOWN,"Financing, net 568,338,114 452,830,657 315,712,101 249,682,805 231,758,206",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,95,27,Net_Financing,"568,338,114 | 452,830,657 | 1,677,643 | 311,138",SAR_thousands,"Financing, net 7 568,338,114 452,830,657 Negative fair value of derivatives 39 1,677,643 311,138",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,115,27,SAMA_Mutajara,"2,053,000 | 5,799,920",SAR_thousands,"Mutajara with SAMA 2,053,000 5,799,920",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,115,50,Interbank_Mutajara,"20,894,850 | 24,013,126",SAR_thousands,"Mutajara 20,894,850 24,013,126",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,116,24,Government_SAMA_Murabaha,"22,696,693 | 22,611,987",SAR_thousands,"Murabaha with Saudi Government and SAMA 22,696,693 22,611,987",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,116,25,Sukuk,"70,608,347 | 48,102,603 | 2022",SAR_thousands,"Sukuk 70,608,347 48,102,603 2022 Quoted Unquoted Total",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,116,27,Structured_Products,"1,033,894 | 1,000,000",SAR_thousands,"Structured products 1,033,894 1,000,000",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,116,28,Impairment_Allowance,"(43,294) | (31,824) | 22,696,693 | 22,696,693",SAR_thousands,"Less: Impairment (Stage 1) (43,294) (31,824) Murabaha with Saudi Government and SAMA – 22,696,693 22,696,693",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,116,32,Structured_Products,"737,551 | 788,765 | 1,879,549 | 334,507 | 2,214,056",SAR_thousands,"Structured products 737,551 788,765 Mutual Funds 1,879,549 334,507 2,214,056",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,116,33,Sukuk,"159,591 | 32,680 | 67,078,656 | 34,246,769 | 101,325,425",SAR_thousands,"Sukuk 159,591 32,680 Total 67,078,656 34,246,769 101,325,425",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,116,39,Government_SAMA_Murabaha,"22,611,987 | 22,611,987",SAR_thousands,"Murabaha with Saudi Government and SAMA – 22,611,987 22,611,987",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,116,41,Structured_Products,"1,788,765 | 1,788,765",SAR_thousands,"Structured products – 1,788,765 1,788,765",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,116,42,Structured_Products,"111,438",SAR_thousands,"Structured Products 111,438 –",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,116,43,Sukuk,"45,951,396 | 5,986,443 | 51,937,839",SAR_thousands,"Sukuk 45,951,396 5,986,443 51,937,839",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,116,44,Sukuk,"3,292,010 | 3,834,641",SAR_thousands,"Sukuk* 3,292,010 3,834,641",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,117,20,Sukuk,"67,489,768 | 48,079,053",SAR_thousands,"Sukuk – investment grade 67,489,768 48,079,053",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,117,21,Government_SAMA_Murabaha,"22,696,693 | 598,857 | 23,295,550",SAR_thousands,"Murabaha with Saudi Government and SAMA 22,696,693 598,857 – 23,295,550",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,117,22,Structured_Products,"1,882,883 | 1,788,765",SAR_thousands,"Structured products – investment grade 1,882,883 1,788,765",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,117,23,Sukuk,"74,016,436 | (5,630,717) | 68,385,719",SAR_thousands,"Sukuk 74,016,436 – (5,630,717) 68,385,719",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,117,24,Sukuk,"5,781,404 | 2,268,569",SAR_thousands,"Sukuk – non-investment grade 5,781,404 2,268,569",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,117,25,Structured_Products,"1,882,883 | 1,882,883",SAR_thousands,"Structured products 1,882,883 – – 1,882,883",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,117,26,Sukuk,"745,265 | 1,416,794",SAR_thousands,"Sukuk unrated 745,265 1,416,794",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,117,39,Government_SAMA_Murabaha,"22,611,987 | 289,012 | 22,900,999",SAR_thousands,"Murabaha with Saudi Government and SAMA 22,611,987 289,012 – 22,900,999",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,117,41,Sukuk,"51,937,839 | 198,991 | 52,136,830",SAR_thousands,"Sukuk 51,937,839 198,991 – 52,136,830",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,117,43,Structured_Products,"1,788,765 | 38,043 | 1,826,808",SAR_thousands,"Structured products 1,788,765 38,043 – 1,826,808",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,117,51,Impairment_Allowance,"(43,512) | (32,085)",UNKNOWN,"Less: Impairment (Stage 1) (43,512) (32,085)",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,118,20,Structured_Products,"500,000 | 533,894 | 1,033,894 | 500,000 | 500,000 | 1,000,000",SAR_thousands,"Structured products 500,000 533,894 1,033,894 Structured products 500,000 500,000 1,000,000",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,118,21,Impairment_Allowance,"(42,321) | (43,294) | (31,824) | (31,824)",SAR_thousands,"Less: Impairment (Stage 1) (42,321) (973) (43,294) Less: Impairment (Stage 1) (31,824) – (31,824)",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,118,25,Structured_Products,"462,099 | 275,452 | 737,551",UNKNOWN,"Structured products 462,099 275,452 737,551",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,118,26,Structured_Products,"500,000 | 288,770 | 788,770",UNKNOWN,"Structured products 500,000 288,770 788,770",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,118,39,Structured_Products,"111,438 | 111,438",UNKNOWN,"Structured products – 111,438 111,438",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,119,21,Interbank_Mutajara,"119,146,700 | 674,135 | (3,214,387) | 116,606,448",SAR_thousands,"Mutajara 119,146,700 674,135 (3,214,387) 116,606,448",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,119,36,Interbank_Mutajara,"68,203,350 | 1,469,013 | (3,959,756) | 65,712,607",SAR_thousands,"Mutajara 68,203,350 1,469,013 (3,959,756) 65,712,607",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,120,20,Interbank_Mutajara,"5,679,406 | 114,141,429 | 119,820,835",SAR_thousands,"Mutajara 5,679,406 114,141,429 119,820,835 impaired impaired",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,120,35,Interbank_Mutajara,"2,820,209 | 66,852,154 | 69,672,363 | 88,335,265 | 1,232,763 | 1,510,003 | 91,078,031 | (3,996,723) | 87,081,308",SAR_thousands,"Mutajara 2,820,209 66,852,154 69,672,363 Corporate 88,335,265 1,232,763 1,510,003 91,078,031 (3,996,723) 87,081,308",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,130,28,Government_SAMA_Murabaha,"1,497,334 | 1,167,653",UNKNOWN,"Murabaha with SAMA 1,497,334 1,167,653",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,130,30,Interbank_Mutajara,"413,286 | 1,230,388",UNKNOWN,"Mutajara with banks 413,286 1,230,388",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,132,44,SAMA_Mutajara,"2,053,000 | 5,799,920",UNKNOWN,"Mutajara with SAMA 2,053,000 5,799,920",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,141,22,Government_SAMA_Murabaha,"22,696,693 | 22,611,987",SAR_thousands,"Murabaha with Saudi Government and SAMA 22,696,693 22,611,987 market disruptions or by credit downgrades, Assets available to meet liabilities and to cover",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,141,24,Sukuk,"74,016,436 | 51,764,416",SAR_thousands,"Sukuk 74,016,436 51,764,416",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,141,26,Structured_Products,"1,882,883 | 1,788,765",SAR_thousands,"Structured Products 1,882,883 1,788,765 sources available to the Group help mitigate this Further, in accordance with the Banking Control",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,142,22,Interbank_Mutajara,"21,475,546 | 29,189,031 | 35,819,350 | 30,122,521 | 116,606,448 | 18,781,527 | 19,227,767 | 20,892,884 | 6,810,429 | 65,712,607",SAR_thousands,"Mutajara 21,475,546 29,189,031 35,819,350 30,122,521 – 116,606,448 Mutajara 18,781,527 19,227,767 20,892,884 6,810,429 – 65,712,607",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,144,59,Interbank_Mutajara,"47,052,773 | 26,094,519 | 11,186,546 | 21,352,849 | 10,919,761 | 116,606,448 | (42,044,651) | (157,199) | 27,342,664 | 213,119,613 | 415,615,567 | (953,776)",UNKNOWN,"Mutajara 47,052,773 26,094,519 11,186,546 21,352,849 10,919,761 – 116,606,448 Sensitivity Gap (42,044,651) (157,199) 27,342,664 213,119,613 415,615,567 (953,776) –",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,145,38,Interbank_Mutajara,"28,281,674 | 23,307,071 | 5,877,092 | 6,409,798 | 1,836,972 | 65,712,607",UNKNOWN,"Mutajara 28,281,674 23,307,071 5,877,092 6,409,798 1,836,972 – 65,712,607",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,147,43,Interbank_Mutajara,"115,164,585 | 1,441,863 | 116,606,448",UNKNOWN,"Mutajara 115,164,585 1,441,863 – – – 116,606,448",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,148,29,Net_Financing,"32,063 | 32,063",SAR_thousands,"Financing, net Murabaha – – 32,063 32,063",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,148,30,Interbank_Mutajara,"64,370,413 | 1,342,194 | 65,712,607",UNKNOWN,"Mutajara 64,370,413 1,342,194 – – – 65,712,607",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,148,35,Interbank_Mutajara,"(3,178,690) | (35,697) | (3,214,387)",UNKNOWN,"Mutajara (3,178,690) (35,697) – (3,214,387)",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,148,51,Interbank_Mutajara,"1,415,129 | 53,884 | 1,469,013",SAR_thousands,"Mutajara 1,415,129 53,884 – 1,469,013",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,148,60,Interbank_Mutajara,"(3,922,922) | (36,834) | (3,959,756)",UNKNOWN,"Mutajara (3,922,922) (36,834) – (3,959,756)",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,149,23,Sukuk,"70,608,347 | 55,096,083 | 9,881,547 | 64,977,630",SAR_thousands,"Sukuk 70,608,347 55,096,083 9,881,547 – 64,977,630",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,150,27,Sukuk,"48,102,603 | 49,324,606 | 49,324,606",UNKNOWN,"Sukuk 48,102,603 – 49,324,606 – 49,324,606 transactions are governed by limits set by the Banking Control Law and the regulations issued by SAMA.",REVIEW_REQUIRED
+2022,Al_Rajhi_2022_Annual_Report.pdf,150,29,Structured_Products,"1,000,000 | 1,038,043 | 1,038,043",UNKNOWN,"Structured Products 1,000,000 – – 1,038,043 1,038,043",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,19,20,Net_Financing,"594,204,806 | 568,338,114 | 452,830,657 | 315,712,101 | 249,682,805",UNKNOWN,"Financing, net 594,204,806 568,338,114 452,830,657 315,712,101 249,682,805",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,60,18,Net_Financing,"594,204,806 | 568,338,114 | 452,830,657 | 315,712,101 | 249,682,805",UNKNOWN,"Financing, net 594,204,806 568,338,114 452,830,657 315,712,101 249,682,805",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,234,19,Net_Financing,"594,204,806 | 568,338,114",SAR_thousands,"Financing, net 7 594,204,806 568,338,114",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,235,17,Sukuk,"3,789,117",SAR_thousands,"Sukuk issued 28 3,789,117 –",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,238,21,Structured_Products,"307,054 | 307,054 | 307,054",SAR_thousands,"Structured products investments 17 – – 307,054 – – 307,054 – 307,054",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,239,19,Structured_Products,"307,054 | 307,054 | 307,054",SAR_thousands,"Structured products investments 17 – – 307,054 – – 307,054 – 307,054",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,242,35,Net_Financing,"(27,370,870) | (117,508,716)",UNKNOWN,"Financing, net (27,370,870) (117,508,716)",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,243,32,Sukuk,"3,789,117",UNKNOWN,"Sukuk issued 28 3,789,117 –",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,268,17,SAMA_Mutajara,"2,053,000",SAR_thousands,"Mutajara with SAMA – 2,053,000",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,268,31,Interbank_Mutajara,"6,331,071 | 20,894,850",SAR_thousands,"Mutajara 6,331,071 20,894,850",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,270,15,Government_SAMA_Murabaha,"20,067,953 | 22,696,693",SAR_thousands,"Murabaha with Saudi Government and SAMA 20,067,953 22,696,693",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,270,16,Sukuk,"87,962,033 | 70,608,347",SAR_thousands,"Sukuk 87,962,033 70,608,347",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,270,17,Structured_Products,"2,941,573 | 1,033,894",SAR_thousands,"Structured products 2,941,573 1,033,894",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,270,18,Impairment_Allowance,"(70,234) | (43,294)",SAR_thousands,"Less: Impairment (70,234) (43,294)",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,270,22,Sukuk,"122,374 | 159,591",UNKNOWN,"Sukuk 122,374 159,591",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,270,23,Structured_Products,"785,242 | 737,551",UNKNOWN,"Structured products 785,242 737,551",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,270,27,Sukuk,"14,535,530 | 2,132,880",UNKNOWN,"Sukuk 14,535,530 2,132,880",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,270,28,Structured_Products,"1,106,286 | 111,438",UNKNOWN,"Structured products 1,106,286 111,438",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,270,30,Impairment_Allowance,"(1,844)",UNKNOWN,"Less: Impairment (1,844) (218)",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,271,23,Sukuk,"86,412,338 | 16,135,521 | 102,547,859",SAR_thousands,"Sukuk 86,412,338 16,135,521 102,547,859",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,271,24,Structured_Products,"4,833,101 | 4,833,101",SAR_thousands,"Structured products – 4,833,101 4,833,101",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,271,32,Sukuk,"64,238,386 | 8,618,920 | 72,857,306",SAR_thousands,"Sukuk 64,238,386 8,618,920 72,857,306",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,271,33,Structured_Products,"1,882,883 | 1,882,883",SAR_thousands,"Structured products – 1,882,883 1,882,883",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,272,13,Government_SAMA_Murabaha,"20,067,953 | 22,696,693",SAR_thousands,"Murabaha with Saudi Government and SAMA 20,067,953 22,696,693",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,272,14,Sukuk,"91,071,834 | 65,170,442",SAR_thousands,"Sukuk – Investment grade 91,071,834 65,170,442",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,272,15,Structured_Products,"4,833,102 | 1,882,883",SAR_thousands,"Structured products – Investment grade 4,833,102 1,882,883",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,272,16,Sukuk,"5,640,904 | 4,546,669",SAR_thousands,"Sukuk – Non-Investment grade 5,640,904 4,546,669",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,272,17,Sukuk,"5,835,120 | 3,140,195",SAR_thousands,"Sukuk unrated 5,835,120 3,140,195",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,272,31,Impairment_Allowance,"(72,078) | (43,512)",SAR_thousands,"Less: Impairment (72,078) (43,512)",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,273,17,Structured_Products,"2,941,573 | 2,941,573",SAR_thousands,"Structured products – 2,941,573 2,941,573",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,273,18,Impairment_Allowance,"(68,634) | (1,600) | (70,234)",SAR_thousands,"Less: Impairment (68,634) (1,600) (70,234)",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,273,24,Structured_Products,"785,242 | 785,242",UNKNOWN,"Structured products – 785,242 785,242",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,273,30,Structured_Products,"1,106,286 | 1,106,286",UNKNOWN,"Structured products – 1,106,286 1,106,286",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,273,32,Impairment_Allowance,"(1,844) | (1,844)",UNKNOWN,"Less: Impairment – (1,844) (1,844)",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,274,15,Structured_Products,"500,000 | 533,894 | 1,033,894",SAR_thousands,"Structured products 500,000 533,894 1,033,894",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,274,16,Impairment_Allowance,"(42,321) | (43,294)",SAR_thousands,"Less: Impairment (42,321) (973) (43,294)",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,274,21,Structured_Products,"462,099 | 275,452 | 737,551",UNKNOWN,"Structured products 462,099 275,452 737,551",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,274,27,Structured_Products,"111,438 | 111,438",UNKNOWN,"Structured Products – 111,438 111,438",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,275,15,Interbank_Mutajara,"140,942,388 | 1,915,703 | (2,603,838) | 140,254,253",SAR_thousands,"Mutajara 140,942,388 1,915,703 (2,603,838) 140,254,253",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,275,23,Interbank_Mutajara,"119,146,700 | 674,135 | (3,001,746) | 116,819,089",SAR_thousands,"Mutajara 119,146,700 674,135 (3,001,746) 116,819,089",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,277,14,Interbank_Mutajara,"4,742,139 | 138,115,952 | 142,858,091",SAR_thousands,"Mutajara 4,742,139 138,115,952 142,858,091",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,277,23,Interbank_Mutajara,"5,679,406 | 114,141,429 | 119,820,835",SAR_thousands,"Mutajara 5,679,406 114,141,429 119,820,835",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,299,19,Government_SAMA_Murabaha,"2,715,899 | 1,497,334",SAR_thousands,"Murabaha with SAMA 2,715,899 1,497,334",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,299,20,Interbank_Mutajara,"397,010 | 413,286",SAR_thousands,"Mutajara with banks 397,010 413,286",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,305,60,SAMA_Mutajara,"2,053,000",SAR_thousands,"Mutajara with SAMA – 2,053,000",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,324,23,Government_SAMA_Murabaha,"20,067,953 | 22,696,693",SAR_thousands,"Murabaha with Saudi Government and SAMA 20,067,953 22,696,693",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,324,24,Sukuk,"102,547,859 | 72,857,306",SAR_thousands,"Sukuk 102,547,859 72,857,306",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,324,25,Structured_Products,"4,833,101 | 1,882,883",SAR_thousands,"Structured products 4,833,101 1,882,883",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,324,27,Net_Financing,"9,506,673 | 25,655,929",SAR_thousands,"Financing, net 9,506,673 25,655,929",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,326,21,Interbank_Mutajara,"24,567,170 | 29,004,621 | 52,232,333 | 34,450,129 | 140,254,253",UNKNOWN,"Mutajara 24,567,170 29,004,621 52,232,333 34,450,129 – 140,254,253",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,326,47,Sukuk,"3,789,117 | 3,789,117",UNKNOWN,"Sukuk issued – – 3,789,117 – – 3,789,117",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,327,21,Interbank_Mutajara,"21,475,546 | 29,189,031 | 35,819,350 | 30,335,162 | 116,819,089",UNKNOWN,"Mutajara 21,475,546 29,189,031 35,819,350 30,335,162 – 116,819,089",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,328,31,Sukuk,"4,548,121 | 4,548,121",UNKNOWN,"Sukuk Issued – – 4,548,121 – – 4,548,121",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,332,41,Interbank_Mutajara,"61,749,377 | 25,896,517 | 13,369,431 | 26,337,879 | 12,901,049 | 140,254,253",UNKNOWN,"Mutajara 61,749,377 25,896,517 13,369,431 26,337,879 12,901,049 – 140,254,253",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,333,25,Sukuk,"3,789,117 | 3,789,117",UNKNOWN,"Sukuk Issued – – – 3,789,117 – – 3,789,117",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,334,29,Interbank_Mutajara,"47,052,773 | 26,094,519 | 11,186,546 | 21,352,849 | 11,132,402 | 116,819,089",UNKNOWN,"Mutajara 47,052,773 26,094,519 11,186,546 21,352,849 11,132,402 – 116,819,089",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,339,25,Interbank_Mutajara,"138,160,222 | 2,094,031 | 140,254,253",SAR_thousands,"Mutajara 138,160,222 2,094,031 – – – 140,254,253",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,340,21,Interbank_Mutajara,"115,377,226 | 1,441,863 | 116,819,089",SAR_thousands,"Mutajara 115,377,226 1,441,863 – – – 116,819,089",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,341,16,Interbank_Mutajara,"1,893,156 | 22,547 | 1,915,703",SAR_thousands,"Mutajara 1,893,156 22,547 – 1,915,703",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,341,21,Interbank_Mutajara,"(2,569,371) | (34,467) | (2,603,838)",SAR_thousands,"Mutajara (2,569,371) (34,467) – (2,603,838)",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,341,29,Interbank_Mutajara,"668,196 | 5,939 | 674,135",SAR_thousands,"Mutajara 668,196 5,939 – 674,135",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,341,34,Interbank_Mutajara,"(2,966,049) | (35,697) | (3,001,746)",SAR_thousands,"Mutajara (2,966,049) (35,697) – (3,001,746)",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,342,48,Government_SAMA_Murabaha,"20,067,953 | 20,275,002 | 20,275,002",UNKNOWN,"Murabaha with Saudi Government and SAMA 20,067,953 – 20,275,002 20,275,002",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,342,49,Sukuk,"87,891,799 | 12,903,257 | 69,073,906 | 81,977,163",UNKNOWN,"Sukuk 87,891,799 12,903,257 69,073,906 – 81,977,163",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,342,50,Structured_Products,"2,941,573 | 2,941,573 | 2,941,573",UNKNOWN,"Structured products 2,941,573 2,941,573 – – 2,941,573",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,343,37,Government_SAMA_Murabaha,"22,696,693 | 22,918,411 | 22,918,411",UNKNOWN,"Murabaha with Saudi Government and SAMA 22,696,693 – 22,918,411 – 22,918,411",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,343,38,Sukuk,"70,608,347 | 7,584,857 | 57,392,773 | 64,977,630",UNKNOWN,"Sukuk 70,608,347 7,584,857 57,392,773 – 64,977,630",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,343,39,Structured_Products,"1,033,894 | 1,033,894 | 1,033,894",UNKNOWN,"Structured products 1,033,894 1,033,894 – – 1,033,894",REVIEW_REQUIRED
+2023,Al_Rajhi_2023_Annual_Report.pdf,354,30,Interbank_Mutajara,"12,422,962 | 5,937,107",SAR_thousands,"Mutajara 12,422,962 5,937,107",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,19,18,Net_Financing,"693,409,723 | 594,204,806 | 568,338,114 | 452,830,657 | 315,712,101",UNKNOWN,"Financing, net 693,409,723 594,204,806 568,338,114 452,830,657 315,712,101",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,51,11,Net_Financing,"693,409,723 | 594,204,806 | 568,338,114 | 452,830,657 | 315,712,101",UNKNOWN,"Financing, net 693,409,723 594,204,806 568,338,114 452,830,657 315,712,101",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,51,23,Sukuk,"8,450,753 | 3,789,117",UNKNOWN,"Sukuk issued 8,450,753 3,789,117 – – –",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,282,15,Net_Financing,"693,409,723 | 594,204,806",SAR_thousands,"Financing, net 8 693,409,723 594,204,806",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,283,13,Sukuk,"8,450,753 | 3,789,117",SAR_thousands,"Sukuk issued 17 8,450,753 3,789,117",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,285,22,Structured_Products,"(278,101) | 307,054",UNKNOWN,"Structured products investments 20 (278,101) 307,054",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,286,16,Structured_Products,"(278,101) | (278,101) | (278,101) | (278,101)",SAR_thousands,"Structured products investments 20 – – (278,101) – (278,101) – (278,101) – (278,101)",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,287,15,Structured_Products,"(278,101) | (278,101) | (278,101) | (278,101)",SAR_thousands,"Structured products investments 20 – – (278,101) – (278,101) – (278,101) – (278,101)",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,290,30,Net_Financing,"(101,321,661) | (27,370,870)",UNKNOWN,"Financing, net (101,321,661) (27,370,870)",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,291,25,Sukuk,"4,661,636 | 3,789,117",UNKNOWN,"Sukuk issued 17 4,661,636 3,789,117",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,319,14,SAMA_Mutajara,"6,110,000",SAR_thousands,"Mutajara with SAMA 6,110,000 –",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,320,11,Interbank_Mutajara,"17,892,806 | 6,331,071",SAR_thousands,"Mutajara 17,892,806 6,331,071",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,321,11,Government_SAMA_Murabaha,"15,022,361 | 20,067,953",SAR_thousands,"Murabaha with Saudi Government and SAMA 15,022,361 20,067,953",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,321,12,Sukuk,"120,971,297 | 87,962,033",SAR_thousands,"Sukuk 120,971,297 87,962,033",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,321,13,Structured_Products,"2,200,651 | 2,941,573",SAR_thousands,"Structured Products 2,200,651 2,941,573",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,321,14,Impairment_Allowance,"(47,774) | (70,234)",SAR_thousands,"Less: Impairment (Stage 1) (47,774) (70,234)",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,321,18,Sukuk,"276,612 | 122,374",UNKNOWN,"Sukuk 276,612 122,374",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,321,19,Structured_Products,"3,012,532 | 785,242",UNKNOWN,"Structured Products 3,012,532 785,242",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,321,23,Sukuk,"19,208,062 | 14,535,530",UNKNOWN,"Sukuk 19,208,062 14,535,530",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,321,24,Structured_Products,"2,618,781 | 1,106,286",UNKNOWN,"Structured Products 2,618,781 1,106,286",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,321,26,Impairment_Allowance,"(3,787) | (1,844)",UNKNOWN,"Less: Impairment (Stage 1) (3,787) (1,844)",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,322,21,Sukuk,"120,156,851 | 20,247,559 | 140,404,410",SAR_thousands,"Sukuk 120,156,851 20,247,559 140,404,410",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,322,22,Structured_Products,"2,618,781 | 5,213,183 | 7,831,964",SAR_thousands,"Structured Products 2,618,781 5,213,183 7,831,964",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,322,30,Sukuk,"86,412,338 | 16,135,521 | 102,547,859",SAR_thousands,"Sukuk 86,412,338 16,135,521 102,547,859",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,322,31,Structured_Products,"1,106,286 | 3,726,815 | 4,833,101",SAR_thousands,"Structured Products 1,106,286 3,726,815 4,833,101",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,323,9,Government_SAMA_Murabaha,"15,022,361 | 20,067,953",SAR_thousands,"Murabaha with Saudi Government and SAMA 15,022,361 20,067,953",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,323,10,Sukuk,"129,570,559 | 91,071,834",SAR_thousands,"Sukuk – Investment grade 129,570,559 91,071,834",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,323,11,Structured_Products,"7,831,964 | 4,833,102",SAR_thousands,"Structured products – Investment grade 7,831,964 4,833,102",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,323,12,Sukuk,"6,662,326 | 5,640,904",SAR_thousands,"Sukuk – Non-Investment grade 6,662,326 5,640,904",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,323,13,Sukuk,"4,171,525 | 5,835,121",SAR_thousands,"Sukuk unrated 4,171,525 5,835,121",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,323,29,Impairment_Allowance,"(51,561) | (72,078)",SAR_thousands,"Less: Impairment (51,561) (72,078)",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,324,13,Structured_Products,"2,200,651 | 2,200,651",SAR_thousands,"Structured products – 2,200,651 2,200,651",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,324,14,Impairment_Allowance,"(47,415) | (47,774)",SAR_thousands,"Less: Impairment (Stage 1) (47,415) (359) (47,774)",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,324,20,Structured_Products,"3,012,532 | 3,012,532",UNKNOWN,"Structured Products – 3,012,532 3,012,532",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,324,26,Structured_Products,"2,618,781 | 2,618,781",UNKNOWN,"Structured Products – 2,618,781 2,618,781",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,324,28,Impairment_Allowance,"(3,787) | (3,787)",UNKNOWN,"Less: Impairment (Stage 1) – (3,787) (3,787)",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,325,11,Structured_Products,"2,941,573 | 2,941,573",SAR_thousands,"Structured products – 2,941,573 2,941,573",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,325,12,Impairment_Allowance,"(68,634) | (1,600) | (70,234)",SAR_thousands,"Less: Impairment (Stage 1) (68,634) (1,600) (70,234)",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,325,18,Structured_Products,"785,242 | 785,242",UNKNOWN,"Structured Products – 785,242 785,242",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,325,24,Structured_Products,"1,106,286 | 1,106,286",UNKNOWN,"Structured Products – 1,106,286 1,106,286",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,325,26,Impairment_Allowance,"(1,844) | (1,844)",UNKNOWN,"Less: Impairment (Stage 1) – (1,844) (1,844)",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,329,43,Sukuk,"(9,413)",SAR_thousands,"Sukuk Investment at AC – – (9,413) –",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,330,15,Sukuk,"(13,269)",SAR_thousands,"Sukuk Investment at AC – – (13,269) –",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,330,25,Interbank_Mutajara,"191,350,565 | 2,831,757 | (3,513,128) | 190,669,194",SAR_thousands,"Mutajara 191,350,565 2,831,757 (3,513,128) 190,669,194",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,330,33,Interbank_Mutajara,"140,942,388 | 1,915,703 | (2,603,838) | 140,254,253",SAR_thousands,"Mutajara 140,942,388 1,915,703 (2,603,838) 140,254,253",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,332,10,Interbank_Mutajara,"9,237,432 | 184,944,890 | 194,182,322",SAR_thousands,"Mutajara 9,237,432 184,944,890 194,182,322",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,332,19,Interbank_Mutajara,"4,742,139 | 138,115,952 | 142,858,091",SAR_thousands,"Mutajara 4,742,139 138,115,952 142,858,091",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,354,15,Government_SAMA_Murabaha,"3,617,477 | 2,715,899",SAR_thousands,"Murabaha with SAMA 3,617,477 2,715,899",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,354,16,Interbank_Mutajara,"583,591 | 397,010",SAR_thousands,"Mutajara with banks 583,591 397,010",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,379,24,Government_SAMA_Murabaha,"15,022,361 | 20,067,953",SAR_thousands,"Murabaha with Saudi Government and SAMA 15,022,361 20,067,953",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,379,25,Sukuk,"141,134,410 | 102,547,859",SAR_thousands,"Sukuk 141,134,410 102,547,859",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,379,26,Structured_Products,"7,831,964 | 4,833,101",SAR_thousands,"Structured Products 7,831,964 4,833,101",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,381,16,Interbank_Mutajara,"47,921,704 | 53,904,890 | 47,682,201 | 41,160,399 | 190,669,194",SAR_thousands,"Mutajara 47,921,704 53,904,890 47,682,201 41,160,399 – 190,669,194",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,381,40,Sukuk,"359,884 | 8,090,869 | 8,450,753",UNKNOWN,"Sukuk issued – 359,884 8,090,869 – – 8,450,753",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,382,16,Interbank_Mutajara,"24,567,170 | 29,004,621 | 52,232,333 | 34,450,129 | 140,254,253",SAR_thousands,"Mutajara 24,567,170 29,004,621 52,232,333 34,450,129 – 140,254,253",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,382,40,Sukuk,"3,789,117 | 3,789,117",UNKNOWN,"Sukuk issued – – 3,789,117 – – 3,789,117",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,383,24,Sukuk,"675,222 | 9,349,462 | 10,024,684",SAR_thousands,"Sukuk Issued – 675,222 9,349,462 – – 10,024,684",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,383,39,Sukuk,"4,548,121 | 4,548,121",SAR_thousands,"Sukuk Issued – – 4,548,121 – – 4,548,121",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,386,42,Interbank_Mutajara,"82,690,058 | 33,593,826 | 30,176,884 | 25,433,150 | 18,775,276 | 190,669,194",UNKNOWN,"Mutajara 82,690,058 33,593,826 30,176,884 25,433,150 18,775,276 – 190,669,194",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,387,21,Sukuk,"359,884 | 8,090,869 | 8,450,753",UNKNOWN,"Sukuk Issued – – 359,884 8,090,869 – – 8,450,753",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,388,22,Interbank_Mutajara,"61,749,377 | 25,896,517 | 13,369,431 | 26,337,879 | 12,901,049 | 140,254,253",UNKNOWN,"Mutajara 61,749,377 25,896,517 13,369,431 26,337,879 12,901,049 – 140,254,253",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,388,40,Sukuk,"3,789,117 | 3,789,117",UNKNOWN,"Sukuk issued – – – 3,789,117 – – 3,789,117",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,391,47,SAMA_Mutajara,"6,110,000",SAR_thousands,"Mutajara with SAMA 6,110,000 –",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,392,21,Interbank_Mutajara,"188,953,493 | 1,715,701 | 190,669,194",SAR_thousands,"Mutajara 188,953,493 1,715,701 – – – 190,669,194",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,393,17,Interbank_Mutajara,"138,160,222 | 2,094,031 | 140,254,253",SAR_thousands,"Mutajara 138,160,222 2,094,031 – – – 140,254,253",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,394,12,Interbank_Mutajara,"2,798,208 | 33,549 | 2,831,757",SAR_thousands,"Mutajara 2,798,208 33,549 – 2,831,757",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,394,18,Interbank_Mutajara,"(3,470,935) | (42,193) | (3,513,128)",SAR_thousands,"Mutajara (3,470,935) (42,193) – (3,513,128)",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,394,26,Interbank_Mutajara,"1,893,156 | 22,547 | 1,915,703",SAR_thousands,"Mutajara 1,893,156 22,547 – 1,915,703",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,394,32,Interbank_Mutajara,"(2,569,371) | (34,467) | (2,603,838)",SAR_thousands,"Mutajara (2,569,371) (34,467) – (2,603,838)",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,395,48,Government_SAMA_Murabaha,"15,022,361 | 15,087,088 | 15,087,088",UNKNOWN,"Murabaha with Saudi Government 15,022,361 – 15,087,088 – 15,087,088",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,395,50,Sukuk,"120,971,297 | 15,504,002 | 97,654,620 | 113,158,622",UNKNOWN,"Sukuk 120,971,297 15,504,002 97,654,620 – 113,158,622",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,395,51,Structured_Products,"2,200,651 | 2,168,270 | 2,168,270",UNKNOWN,"Structured products 2,200,651 – 2,168,270 – 2,168,270",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,396,39,Sukuk,"87,962,033 | 12,903,257 | 69,073,906 | 81,977,163",UNKNOWN,"Sukuk 87,962,033 12,903,257 69,073,906 – 81,977,163",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,396,40,Structured_Products,"2,941,573 | 2,941,573 | 2,941,573",UNKNOWN,"Structured products 2,941,573 – 2,941,573 – 2,941,573",REVIEW_REQUIRED
+2024,Al_Rajhi_2024_Annual_Report.pdf,403,19,Government_SAMA_Murabaha,"15,022,361",SAR_thousands,"Murabaha with Saudi Government and SAMA investments 15,022,361 –",REVIEW_REQUIRED

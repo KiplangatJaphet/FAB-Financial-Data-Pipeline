@@ -1,0 +1,13 @@
+Year,Field,Existing_Value,Proposed_Value,Status,Source_Document,Source_PDF_Page,Source_Type,Precision,Original_Status
+2010,Shareholders_Equity_LCU_Millions,,2074.0,SUPERSEDED_BY_PRIMARY_SOURCE,NBK_2010_Global_Research.pdf,4,Third-party research,Rounded published figure,FILL_MISSING
+2010,Profit_Before_Taxation_LCU_Millions,,320.0,HISTORICAL_PROPOSAL,NBK_2010_Global_Research.pdf,4,Third-party research,Rounded published figure,FILL_MISSING
+2010,Operating_Expenses_LCU_Millions,,159.0,HISTORICAL_PROPOSAL,NBK_2010_Global_Research.pdf,4,Third-party research,Rounded published figure,FILL_MISSING
+2010,Net_Interest_Income_LCU_Millions,,359.0,HISTORICAL_PROPOSAL,NBK_2010_Global_Research.pdf,4,Third-party research,Rounded published figure,FILL_MISSING
+2010,Gross_Loans_LCU_Millions,,8133.0,HISTORICAL_PROPOSAL,NBK_2010_Global_Research.pdf,4,Third-party research,Rounded published figure,FILL_MISSING
+2010,Non_Performing_Loans_LCU_Millions,,134.0,SUPERSEDED_BY_PRIMARY_SOURCE,NBK_2010_Global_Research.pdf,4,Third-party research,Rounded published figure,FILL_MISSING
+2010,Published_CAR_Pct,,18.3,SUPERSEDED_BY_PRIMARY_SOURCE,NBK_2010_Global_Research.pdf,3,Third-party research,Rounded published figure,FILL_MISSING
+2010,CIR_Pct,,31.9,HISTORICAL_PROPOSAL,NBK_2010_Global_Research.pdf,4,Third-party research,Rounded published figure,FILL_MISSING
+2010,NPL_Ratio_Pct,,1.6,HISTORICAL_PROPOSAL,NBK_2010_Global_Research.pdf,4,Third-party research,Rounded published figure,FILL_MISSING
+2010,Shareholders_Equity_LCU_Millions,2074.0,2217.635,VERIFIED_CURRENT_VALUE,NBK_2012_Financial_Statements.pdf,5,Audited financial statements,KWD millions; opening equity at 1 January 2011,NEW_VERIFICATION
+2010,Non_Performing_Loans_LCU_Millions,134.0,133.782,VERIFIED_CURRENT_VALUE,NBK_2011_Archived_Copy.pdf,25,Annual report risk disclosure,KWD millions; reported as impaired loans,NEW_VERIFICATION
+2010,Published_CAR_Pct,18.3,18.35,VERIFIED_CURRENT_VALUE,NBK_2010_Historical_Source.pdf,33,Annual report regulatory disclosure,Published percentage,NEW_VERIFICATION

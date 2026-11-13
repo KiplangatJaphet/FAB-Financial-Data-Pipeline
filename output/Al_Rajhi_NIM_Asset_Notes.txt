@@ -1,0 +1,1477 @@
+
+===========================================================================
+YEAR: 2010
+FILE: Al_Rajhi_2010_Financial_Statements.pdf
+PDF PAGE: 21
+MATCHED HEADINGS: ['7. INVESTMENTS']
+===========================================================================
+6-2Impairmentchargeforfinancing:
+The movement in the impairment provision for financing for the years ended December 31, is
+asfollows:
+2010 (SR'000)
+Retail Corporate Total
+Balanceatthebeginningoftheyear 2,178,601 2,013,647 4,192,248
+Providedduringtheyear 705,116 1,203,702 1,908,818
+Disposals(baddebtswrittenoff) (834,529) (1,650,464) (2,484,993)
+Balanceattheendoftheyear 2,049,188 1,566,885 3,616,073
+2009 (SR'000)
+Retail Corporate Total
+Balanceatthebeginningoftheyear 2,766,411 1,183,919 3,950,330
+Providedduringtheyear 707,166 1,053,561 1,760,727
+Disposals(baddebtswrittenoff) (1,294,976) (223,833) (1,518,809)
+Balanceattheendoftheyear 2,178,601 2,013,647 4,192,248
+7. INVESTMENTS
+InvestmentscomprisethefollowingasofDecember31:
+(SR'000)
+Investmentsheldatamortizedcosts 2010 2009
+MurabahawithSAMA 25,598,479 24,250,711
+Totalinvestmentsheldatamortizedcosts 25,598,479 24,250,711
+FVISinvestments
+Investmentsinland,realestate,vehiclesandothers 1,169,547 1,187,262
+Investmentinsukuk 1,007,539 703,531
+Equityinvestments 651,054 685,040
+Investmentsinmutualfunds 400,537 243,945
+TotalFVISinvestments 3,228,677 2,819,778
+Availableforsalesinvestments
+Equityshares 60,286 68,567
+Totalavailableforsalesinvestments 60,286 68,567
+Totalinvestments 28,887,442 27,139,056
+The designated FVIS investments included above are so designated when the financial
+instruments are beingevaluated on a fair value basis and are in accordance with the documented
+riskmanagementstrategyoftheBank.
+Equityinvestments include traded investments amountingto SR688 million as of December 31,
+2010(2009:SR730million).
+19
+
+===========================================================================
+YEAR: 2011
+FILE: Al_Rajhi_2011_Financial_Statements.pdf
+PDF PAGE: 40
+MATCHED HEADINGS: ['5. DUE FROM BANKS & OTHER FINANCIAL INSTITUTIONS']
+===========================================================================
+tain mutual funds. Assets held in trust or in a fiduciary capacity are not treated as assets of the Group and, accordingly, are not
+included in the Group’s consolidated financial statements. The Group’s share of these funds is included under FVIS investments.
+Fees earned are disclosed under consolidated statement of comprehensive income.
+u) Bank’s product definitions
+The Bank provides its customers with banking products based on interest avoidance concept and in accordance with Shariah regu-
+lations. The following is a description of some of the financing products:
+Mutajara financing: It is financing agreement whereby the Bank purchases a commodity or an asset and sell it to the client
+based on a purchase promise from the client with a deferred price higher than the cash price, accordingly the client becomes
+debtor to the Bank with the sale amount and for the period agreed on in the contract.
+Installment sales financing: It is financing agreement whereby the Bank purchases a commodity or an asset and sell it to the
+client based on a purchase promise from the client with a deferred price higher than the cash price, accordingly the client becomes
+debtor to the Bank with the sale amount to be paid through installments as agreed in the contract.
+Istisnaa financing: It is a financing agreement whereby the Bank manufactures a commodity with certain specifications accord-
+ing to the client’s request. The client become debtor to the Bank with the manufacturing price of which includes cost plus profit.
+Murabaha financing: It is a financing agreement whereby the Bank purchases a commodity or asset and sell it to the client with
+a price representing the purchase price plus a profit known and agreed by the client which means that he should be aware of the
+cost and profit separately.
+4. CASH & BALANCES WITH SAMA
+Cash and balances with SAMA as of December 31 comprise the following:
+(SR’000)
+2011 2010
+Cash in hand 6,186,518 5,329,888
+Statutory deposit 10,678,461 9,361,272
+Current accounts 3,554,488 4,784,036
+Total 20,419,467 19,475,196
+In accordance with the Banking Control Law and Regulations issued by SAMA, the Bank is required to maintain a statutory deposit
+with SAMA at stipulated percentages of its customer deposits, customers’ time investment and other customers’ account calcu-
+lated at the end of each Gregorian month. The statutory deposit with SAMA is not available to finance the Bank’s day-to-day opera-
+tions and therefore are not part of cash and cash equivalents.
+5. DUE FROM BANKS & OTHER FINANCIAL INSTITUTIONS
+Due from banks and other financial institutions as of December 31, comprise the following:
+(SR’000)
+2011 2010
+Current accounts 1,285,458 1,440,118
+Mutajara 13,314,329 9,677,421
+Total 14,599,787 11,117,539
+The above due from banks and other financial institutions balance does not include any past due or impaired balances as of
+December 31, 2011 and 2010.
+39
+
+===========================================================================
+YEAR: 2011
+FILE: Al_Rajhi_2011_Financial_Statements.pdf
+PDF PAGE: 47
+MATCHED HEADINGS: ['7. INVESTMENTS']
+===========================================================================
+6 - 2 Impairment charge for financing
+The movement in the impairment provision for financing for the years ended December 31, is as follows:
+2011 (SR’000)
+Retail Corporate Total
+Balance at the beginning of the year 2,049,188 1,566,885 3,616,073
+Provided during the year * 970,045 645,002 1,615,047
+Disposals (bad debts written off) (821,017) (854,471) (1,675,488)
+Balance at the end of the year 2,198,216 1,357,416 3,555,632
+* The amount provided does not include SR 30,095 representing additions to investments provision.
+2010 (SR’000)
+Retail Corporate Total
+Balance at the beginning of the year 2,178,601 2,013,647 4,192,248
+Provided during the year 705,116 1,203,702 1,908,818
+Disposals (bad debts written off) (834,529) (1,650,464) (2,484,993)
+Balance at the end of the year 2,049,188 1,566,885 3,616,073
+7. INVESTMENTS
+Net investments comprise the following as of December 31:
+(SR’000)
+2011 2010
+Investments held at amortized costs
+Murabaha with SAMA 35,524,923 25,598,479
+Total investments held at amortized costs 35,524,923 25,598,479
+Investments held as FVIS
+Sukuk 1,310,097 1,007,539
+Equity investments 789,841 711,340
+Mutual funds 482,975 400,537
+Sundry 694,656 528,987
+Total investments held as FVIS 3,277,569 2,648,403
+Total investments 38,802,492 28,246,882
+46
+
+===========================================================================
+YEAR: 2012
+FILE: Al_Rajhi_2012_Financial_Statements.pdf
+PDF PAGE: 17
+MATCHED HEADINGS: ['4. CASH AND BALANCES WITH SAMA', '5. DUE FROM BANKS AND OTHER FINANCIAL INSTITUTIONS']
+===========================================================================
+AL RAJHI BANKING AND INVESTMENT CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2012 AND 2011
+4. CASH AND BALANCES WITH SAMA
+Cash and balances with SAMA as of December 31 comprise the following:
+(SR'000)
+2012 2011
+Cash in hand 5,880,149 6,186,518
+Statutory deposit 12,275,155 10,678,461
+Current accounts 12,648,818 3,554,488
+Total 30,804,122 20,419,467
+In accordance with the Banking Control Law and Regulations issued by SAMA, the Bank is
+required to maintain a statutory deposit with SAMA at stipulated percentages of its customer
+deposits, customers‟ time investment and other customers‟ account calculated at the end of each
+Gregorian month. The statutory deposit with SAMA is not available to finance the Bank‟s day-
+to-day operations and therefore are not part of cash and cash equivalents, when preparing
+consolidated statement of cash flows.
+5. DUE FROM BANKS AND OTHER FINANCIAL INSTITUTIONS
+Due from banks and other financial institutions as of December 31, comprise the following:
+(SR'000)
+2012 2011
+Current accounts 1,779,826 1,285,458
+Mutajara 14,777,363 13,314,329
+Total 16,557,189 14,599,787
+The above due from banks and other financial institutions balance does not include any past due
+or impaired balances as of December 31, 2012 and 2011.
+6. FINANCING, NET
+6 - 1 Financing
+a) Net financing as of December 31, comprise the following:
+(SR‘000)
+2012
+Gross Provision Net
+Financing held at amortized cost
+Corporate Mutajara 35,257,737 (2,210,283) 33,047,454
+Installment sale 127,587,467 (1,825,589) 125,761,878
+Murabaha 13,348,754 (784,954) 12,563,800
+Visa cards 580,151 (11,805) 568,346
+Istisnaa - - -
+Total 176,774,109 (4,832,631) 171,941,478
+15
+
+===========================================================================
+YEAR: 2012
+FILE: Al_Rajhi_2012_Financial_Statements.pdf
+PDF PAGE: 24
+MATCHED HEADINGS: ['7. INVESTMENTS']
+===========================================================================
+AL RAJHI BANKING AND INVESTMENT CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEARS ENDED DECEMBER 31, 2012 AND 2011
+2011 (SR'000)
+Retail Corporate Total
+Balance at the beginning of the year 2,131,515 1,566,885 3,698,400
+Provided during the year * 970,045 645,002 1,615,047
+Disposals (bad debts written off) (821,017) (854,471) (1,675,488)
+Balance at the end of the year 2,280,543 1,357,416 3,637,959
+* The amount provided does not include SR 30,095 thousand representing additions to investments
+provision.
+7. INVESTMENTS
+Net investments comprise the following as of December 31:
+(SR'000)
+Investments held at amortized costs 2012 2011
+Murabaha with SAMA 38,276,376 35,524,923
+Total investments held at amortized costs 38,276,376 35,524,923
+Investments held as FVIS
+Sukuk 1,045,289 1,310,097
+Equity investments 646,073 789,841
+Mutual funds 574,791 482,975
+Sundry 337,532 694,656
+Total investments held as FVIS 2,603,685 3,277,569
+Total investments 40,880,061 38,802,492
+The designated FVIS investments included above are so designated when the financial
+instruments are being evaluated on a fair value basis and are in accordance with the documented
+risk management strategy of the Bank.
+Equity investments include traded investments amounting to SR 623 million as of December 31,
+2012 (2011: SR 766 million).
+Investments recorded at FVIS include local investments of SR 1,223 million as of December 31,
+2012 (2011: 1,343 million) and foreign investments of SR 1,381 million as of December 31,
+2012 (2011: SR 1,935 million).
+Sundry investments presents investment held for trading.
+Investments held at amortized costs do not include balances that are past due or impaired as of
+December 31, 2012.
+22
+
+===========================================================================
+YEAR: 2014
+FILE: Al_Rajhi_2014_Financial_Statements.pdf
+PDF PAGE: 24
+MATCHED HEADINGS: ['4. CASH AND BALANCES WITH SAMA AND CENTRAL BANKS', '5. DUE FROM BANKS AND OTHER FINANCIAL INSTITUTIONS']
+===========================================================================
+AL RAJHI BANKING AND INVESTMENT CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+FOR THE YEARS ENDED DECEMBER 31, 2014 AND 2013
+4. CASH AND BALANCES WITH SAMA AND CENTRAL BANKS
+Cash and balances with SAMA and central banks as of December 31 comprise of the following:
+(SR’000)
+2014 2013
+Cash in hand 8,963,159 7,702,363
+Statutory deposits 15,481,434 14,292,097
+Current accounts 9,140,784 7,975,806
+Total 33,585,377 29,970,266
+In accordance with the Banking Control Law and Regulations issued by SAMA and regulations
+applicable to subsidiaries issued by the respective central banks, the Bank is required to maintain a
+statutory deposit with SAMA and central banks at stipulated percentages of its customers’ demand
+deposits, customers’ time investment and other customers’ account calculated at the end of each
+Gregorian month.
+The above statutory deposits are not available to finance the Bank’s day-to-day operations and
+therefore are not part of cash and cash equivalents (note 22), when preparing consolidated statement
+of cash flows.
+5. DUE FROM BANKS AND OTHER FINANCIAL INSTITUTIONS
+Due from banks and other financial institutions as of December 31, comprise the following:
+(SR'000)
+2014 2013
+Current accounts 1,979,331 1,689,154
+Mutajara 14,536,877 13,773,356
+Total 16,516,208 15,462,510
+2014 2013
+With banks in KSA 7,575,121 11,782,520
+With banks outside KSA 8,941,087 3,679,990
+Total 16,516,208 15,462,510
+The above due from banks and other financial institutions balance does not include any past due or
+impaired balances as of December 31, 2014 and 2013.
+- 22 -
+
+===========================================================================
+YEAR: 2014
+FILE: Al_Rajhi_2014_Financial_Statements.pdf
+PDF PAGE: 25
+MATCHED HEADINGS: ['6. INVESTMENTS, NET']
+===========================================================================
+AL RAJHI BANKING AND INVESTMENT CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+FOR THE YEARS ENDED DECEMBER 31, 2014 AND 2013
+6. INVESTMENTS, NET
+Net investments comprise the following as of December 31:
+(SR'000)
+Investments held at amortized cost 2014 2013
+Murabaha with SAMA 39,866,296 37,229,076
+Sukuk, net* 1,507,939 1,167,943
+Total investments held to Amortized cost 41,374,235 38,397,019
+Investments held as FVIS
+Equity investments 809,917 816,388
+Mutual funds 124,331 122,190
+Total investments held as FVIS 934,248 938,578
+Available-for-sale investments
+Mutual funds 241,140 237,461
+Total available for sale investments 241,140 237,461
+Net investments 42,549,623 39,573,058
+* Provision provided during the year ended December 31, 2013 including an amount of SR 426,043
+thousand.
+Investments held at amortized costs do not include balances that are past due or impaired as of
+December 31, 2014.
+The designated FVIS investments included above are so designated when the financial instruments
+are being evaluated on a fair value basis and are in accordance with the documented risk
+management strategy of the Group.
+Equity investments include traded investments amounting to SR 786 million as of December 31,
+2014 (2013: SR 793 million).
+Investments recorded at FVIS include local investments of SR 789 million as of December 31, 2014
+(2013: SR 795 million) and foreign investments of SR 146 million as of December 31, 2014 (2013:
+SR 144 million).
+a. The following is an analysis of foreign investment according to investment categories as at December
+31:
+(SR’000)
+2014 2013
+Investments held at amortized cost
+Sukuk 1,507,939 1,167,943
+Investments held as FVIS
+Equity investments 21,305 21,359
+Mutual funds 124,331 122,190
+Total 1,653,575 1,311,492
+- 23 -
+
+===========================================================================
+YEAR: 2016
+FILE: Al_Rajhi_2016_Financial_Statements.pdf
+PDF PAGE: 32
+MATCHED HEADINGS: ['4. CASH AND BALANCES WITH SAMA AND OTHER CENTRAL BANKS']
+===========================================================================
+AL RAJHI BANKING AND INVESTMENT CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+FOR THE YEARS ENDED 31 DECEMBER 2016 AND 2015
+3. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+y) Bank’s products definition (continued)
+Istisnaa financing:
+It is a financing agreement whereby the Bank contracts to manufacture a commodity with certain
+known and accurate specifications according to the client’s request. The client becomes a debtor to the
+Bank for the manufacturing price which includes cost plus profit.
+Murabaha financing:
+It is a financing agreement whereby the Bank purchases a commodity or asset and sells it to the client
+with a price representing the purchase price plus a profit known and agreed by the client which means
+that the client is aware of the cost and profit separately.
+4. CASH AND BALANCES WITH SAMA AND OTHER CENTRAL BANKS
+Cash and balances with SAMA and central banks as of 31 December comprise of the following:
+(SAR‘000)
+2016 2015
+Cash in hand 712241940 545,9425,
+Statutory deposit ,71,921994 394,124292
+Current account with SAMA 489,957 99,43,,
+Mutajara with SAMA 15,181,051 -
+Total 42,149,905 294,91493,
+In accordance with the Banking Control Law and regulations issued by SAMA, the Bank is required
+to maintain a statutory deposit with SAMA and central banks at stipulated percentages of its customers’
+demand deposits, customers’ time investment and other customers’ account calculated at the end of
+each Gregorian month.
+The above statutory deposits are not available to finance the Bank’s day-to-day operations and
+therefore are not considered as part of cash and cash equivalents (note 24), when preparing
+consolidated statement of cash flows.
+23
+
+===========================================================================
+YEAR: 2016
+FILE: Al_Rajhi_2016_Financial_Statements.pdf
+PDF PAGE: 33
+MATCHED HEADINGS: ['5. DUE FROM BANKS AND OTHER FINANCIAL INSTITUTIONS', '6. INVESTMENTS, NET']
+===========================================================================
+AL RAJHI BANKING AND INVESTMENT CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+FOR THE YEARS ENDED 31 DECEMBER 2016 AND 2015
+5. DUE FROM BANKS AND OTHER FINANCIAL INSTITUTIONS
+Due from banks and other financial institutions as of 31 December comprise the following:
+(SAR’000)
+2016 2015
+Current accounts 74214,0 34,,149,,
+Mutajara 0448091,22 294,,94,9,
+Total 26,578,525 2,49334,9,
+The tables below depict the quality of due from banks and other financial institutions as at 31
+December:
+(SAR’000)
+2016 2015
+Investment grade (credit rating (AAA to BBB-)) 26,059,374 24,624,791
+Non-investment grade (credit rating (BB+ to B-)) 351,203 222,698
+Unrated 167,948 2,063,567
+Total 26,578,525 2,49334,9,
+The credit quality of due from banks and other financial institutions is managed using external credit
+rating agencies. The above due from banks and other financial institutions balances are neither past
+due nor impaired.
+6. INVESTMENTS, NET
+a) Investments comprise the following as of 31 December:
+(SAR’000)
+2016 2015
+Investment in an associate* 89,280 994935
+Investments held at amortized cost
+Murabaha with SAMA 22,94,,0,8 1,49294,13
+Sukuk 0,,22,7,4 34229491,
+Total investments held at amortized cost 32,552,112 19499249,9
+Investments held as FVSI
+Equity investments 02,928 214,92
+Mutual funds ,,4,080 3432343,1
+Total investments held as FVSI 138,709 343,,4999
+Available-for-sale investments
+Equity investments 708,820 ,214,,9
+Mutual funds 904,292 5,4523
+Total available-for-sale investments 1,252,778 9,,422,
+Investments 34,032,879 19459,45,,
+The designated FVSI investments included above are designated when the financial instruments are
+being evaluated on a fair value basis and are in accordance with the documented risk management
+strategy of the Bank.
+24
+
+===========================================================================
+YEAR: 2016
+FILE: Al_Rajhi_2016_Financial_Statements.pdf
+PDF PAGE: 34
+MATCHED HEADINGS: ['6. INVESTMENTS (continued)']
+===========================================================================
+AL RAJHI BANKING AND INVESTMENT CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+FOR THE YEARS ENDED 31 DECEMBER 2016 AND 2015
+6. INVESTMENTS (continued)
+All investments held at amortized costs are neither past due nor impaired as of 31 December 2016.
+*Investment in an associate
+The Bank owns 22.5% (31 December 2015: 22.5%) shares of Al Rajhi Company for Cooperative
+Insurance, a Saudi Joint Stock Company.
+b) The analysis of the composition of investments is as follows:
+(SAR‘000)
+2016
+Quoted Unquoted Total
+Murabaha with SAMA - 30,451,217 30,451,217
+Sukuk 350,272 1,750,623 0,,22,7,4
+Equities 917,012 02,928 ,92,99,
+Mutual funds - 492,2,7 492,2,7
+Total 1,267,284 32,765,595 34,032,879
+2015
+Quoted Unquoted Total
+Murabaha with SAMA - 1,49294,13 1,49294,13
+Sukuk 352,134 873,400 34229491,
+Equities 698,923 214,92 9224199
+Mutual funds - 342,3492, 342,3492,
+Total 1,051,057 38,825,807 19459,45,,
+c) The analysis of unrecognized gains and losses and fair values of investments are as follows:
+2016
+Gross Gross
+Carrying unrecognized unrecognized
+(SAR’000) value gains losses Fair value
+Murabaha with SAMA 22,94,,0,8 41,880 - 30,493,097
+Sukuk 0,,22,7,4 14,162 - 2,115,057
+Equities ,92,99, - - ,92,99,
+Mutual funds 492,2,7 - - 492,2,7
+Total 34,032,879 56,042 - 34,088,921
+2015
+Gross Gross
+Carrying unrecognized unrecognized
+(SAR’000) value gains losses Fair value
+Murabaha with SAMA 36,727,031 - (127,317) 36,599,714
+Sukuk 1,225,534 - (3,271) 1,222,263
+Equities 722,375 - - 722,375
+Mutual funds 1,201,924 - - 342,3492,
+Total 39,876,864 - (130,588) 39,746,276
+25
+
+===========================================================================
+YEAR: 2016
+FILE: Al_Rajhi_2016_Financial_Statements.pdf
+PDF PAGE: 35
+MATCHED HEADINGS: ['6. INVESTMENTS (continued)']
+===========================================================================
+AL RAJHI BANKING AND INVESTMENT CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+FOR THE YEARS ENDED 31 DECEMBER 2016 AND 2015
+6. INVESTMENTS (continued)
+d) Credit quality of investments
+(SAR’000) 2016 2015
+Murabaha with SAMA 30,451,217 3,,929,,13
+Investment grade 2,296,601 1,359,654
+Unrated 1,285,061 1,790,179
+Total 34,032,879 19459,45,,
+Investment Grade includes those investments having credit exposure equivalent to Standard and Poor's
+rating of AAA to BBB. The unrated category mainly comprises of private equities, quoted equities
+and mutual funds.
+e) The following is an analysis of foreign investments according to investment categories as at 31
+December:
+(SAR‘000) 2016 2015
+Investments held at amortized cost
+Sukuk 1,300,895 34229491,
+Investments held as FVSI
+Equity investments 21,249 2342,,
+Mutual funds 232,604 3,54,91
+Total 1,554,748 341994,93
+f) The following is an analysis of investments according to counterparties as at 31 December:
+(SAR‘000) 2016 2015
+Government and quasi government 2,12721420 37,952,565
+Companies ,,,189, ,,,4599
+Banks and other financial institutions 77,1072 994935
+Mutual funds 49212,7 1,201,924
+Net investments 34,032,879 19459,45,,
+7. FINANCING, NET
+7 - 1 Financing
+a. Net financing as of 31 December comprises the following:
+(SAR‘000)
+2016
+Allowance for Net
+Performing Non-performing impairment financing
+Mutajara 99,779,,,2 ,,9,9,,04 )2,4,,,2,7( 90,727,702
+Installment sale ,27,,24,,22 ,,227,488 )2,299,729( ,22,2,7,,22
+Murabaha ,4,0,9,787 ,4,2,2 )20,,,0( ,4,082,,70
+Credit cards 989,,78 ,,,272 )92,748( 99,,9,2
+Total 228,759,224 2,867,601 (6,632,701) 224,994,124
+26
+
+===========================================================================
+YEAR: 2017
+FILE: Al_Rajhi_2017_Financial_Statements.pdf
+PDF PAGE: 31
+MATCHED HEADINGS: ['4. CASH AND BALANCES WITH SAMA AND OTHER CENTRAL BANKS']
+===========================================================================
+AL RAJHI BANKING AND INVESTMENT CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+FOR THE YEARS ENDED 31 DECEMBER 2017 AND 2016
+3. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+x) Bank’s products definition
+The Bank provides its customers with banking products based on interest avoidance concept and
+in accordance with Shari’a regulations. The following is a description of some of the financing
+products:
+Mutajara financing:
+It is financing agreement whereby the Bank purchases a commodity or an asset and sells it to the
+client based on a purchase promise from the client with a deferred price higher than the cash
+price, accordingly the client becomes debtor to the Bank with the sale amount and for the period
+agreed in the contract.
+Installment sales financing:
+It is financing agreement whereby the Bank purchases a commodity or an asset and sells it to the
+client based on a purchase promise from the client with a deferred price higher than the cash
+price, accordingly the client becomes debtor to the Bank with the sale amount to be paid through
+installments as agreed in the contract.
+Istisnaa financing:
+It is a financing agreement whereby the Bank contracts to manufacture a commodity with certain
+known and accurate specifications according to the client’s request. The client becomes a debtor
+to the Bank for the manufacturing price which includes cost plus profit.
+Murabaha financing:
+It is a financing agreement whereby the Bank purchases a commodity or asset and sells it to the
+client with a price representing the purchase price plus a profit known and agreed by the client
+which means that the client is aware of the cost and profit separately.
+4. CASH AND BALANCES WITH SAMA AND OTHER CENTRAL BANKS
+Cash and balances with SAMA and central banks as of 31 December comprise of the following:
+(SAR‘000)
+2017 2016
+Cash in hand 8,595,037 8,335,452
+Statutory deposit 17,952,252 18,143,445
+Current account with SAMA 425,071 489,957
+Mutajara with SAMA 21,310,111 15,181,051
+Total 48,282,471 42,149,905
+In accordance with the Banking Control Law and regulations issued by SAMA, the Bank is
+required to maintain a statutory deposit with SAMA and central banks at stipulated percentages
+of its customers’ demand deposits, customers’ time investment and other customers’ account
+calculated at the end of each Gregorian month.
+The above statutory deposits are not available to finance the Bank’s day-to-day operations and
+therefore are not considered as part of cash and cash equivalents (note 24), when preparing
+consolidated statement of cash flows.
+24
+
+===========================================================================
+YEAR: 2017
+FILE: Al_Rajhi_2017_Financial_Statements.pdf
+PDF PAGE: 32
+MATCHED HEADINGS: ['5. DUE FROM BANKS AND OTHER FINANCIAL INSTITUTIONS', '6. INVESTMENTS, NET']
+===========================================================================
+AL RAJHI BANKING AND INVESTMENT CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+FOR THE YEARS ENDED 31 DECEMBER 2017 AND 2016
+5. DUE FROM BANKS AND OTHER FINANCIAL INSTITUTIONS
+Due from banks and other financial institutions as of 31 December comprise the following:
+(SAR’000)
+2017 2016
+Current accounts 825,908 853,592
+Mutajara 9,883,887 25,724,933
+Total 10,709,795 26,578,525
+The tables below depict the quality of due from banks and other financial institutions as at 31
+December:
+(SAR’000)
+2017 2016
+Investment grade (credit rating (AAA to BBB-)) 10,142,259 26,059,374
+Non-investment grade (credit rating (BB+ to B-)) 436,360 351,203
+Unrated 131,176 167,948
+Total 10,709,795 26,578,525
+The credit quality of due from banks and other financial institutions is managed using external
+credit rating agencies. The above due from banks and other financial institutions balances are
+neither past due nor impaired.
+6. INVESTMENTS, NET
+a) Investments comprise the following as of 31 December:
+(SAR’000)
+2017 2016
+Investment in an associate * 124,825 89,280
+Investments held at amortized cost
+Murabaha with SAMA 23,452,869 30,451,217
+Sukuk 10,605,139 2,100,895
+Total investments held at amortized cost 34,058,008 32,552,112
+Investments held as FVSI
+Equity investments 23,487 23,437
+Mutual funds 389,193 115,272
+Total investments held as FVSI 412,680 138,709
+Available-for-sale investments
+Equity investments 771,293 827,732
+Mutual funds 1,034,286 425,046
+Total available-for-sale investments 1,805,579 1,252,778
+Investments 36,401,092 34,032,879
+The designated FVSI investments included above are designated upon initial recognition as FVSI
+and are in accordance with the documented risk management strategy of the Bank.
+25
+
+===========================================================================
+YEAR: 2017
+FILE: Al_Rajhi_2017_Financial_Statements.pdf
+PDF PAGE: 33
+MATCHED HEADINGS: ['6. INVESTMENTS, NET (continued)']
+===========================================================================
+AL RAJHI BANKING AND INVESTMENT CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+FOR THE YEARS ENDED 31 DECEMBER 2017 AND 2016
+6. INVESTMENTS, NET (continued)
+All investments held at amortized costs are neither past due nor impaired as of 31 December
+2017.
+* Investment in an associate
+The Bank owns 22.5% (31 December 2016: 22.5%) shares of Al Rajhi Company for Cooperative
+Insurance, a Saudi Joint Stock Company.
+b) The analysis of the composition of investments is as follows:
+2017 (SAR‘000)
+Quoted Unquoted Total
+Murabaha with SAMA - 23,452,869 23,452,869
+Sukuk - 10,605,139 10,605,139
+Equities 896,118 23,487 919,605
+Mutual funds - 1,423,479 1,423,479
+Total 896,118 35,504,974 36,401,092
+2016 (SAR‘000)
+Quoted Unquoted Total
+Murabaha with SAMA - 30,451,217 30,451,217
+Sukuk - 2,100,895 2,100,895
+Equities 917,012 23,437 940,449
+Mutual funds - 540,318 540,318
+Total 917,012 33,115,867 34,032,879
+c) The analysis of unrecognized gains and losses and fair values of investments are as follows:
+Gross Gross
+2017 Carrying unrecognized unrecognized
+(SAR’000) value gains losses Fair value
+Murabaha with SAMA 23,452,869 6,984 - 23,459,853
+Sukuk 10,605,139 - 45,503 10,559,636
+Equities 919,605 - - 919,605
+Mutual funds 1,423,479 - - 1,423,479
+Total 36,401,092 6,984 45,503 36,362,573
+Gross Gross
+2016 Carrying unrecognized unrecognized
+(SAR’000) value gains losses Fair value
+Murabaha with SAMA 30,451,217 41,880 - 30,493,097
+Sukuk 2,100,895 14,162 - 2,115,057
+Equities 940,449 - - 940,449
+Mutual funds 540,318 - - 540,318
+Total 34,032,879 56,042 - 34,088,921
+26
+
+===========================================================================
+YEAR: 2017
+FILE: Al_Rajhi_2017_Financial_Statements.pdf
+PDF PAGE: 34
+MATCHED HEADINGS: ['6. INVESTMENTS, NET (continued)']
+===========================================================================
+AL RAJHI BANKING AND INVESTMENT CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+FOR THE YEARS ENDED 31 DECEMBER 2017 AND 2016
+6. INVESTMENTS, NET (continued)
+d) Credit quality of investments
+(SAR’000) 2017 2016
+Murabaha with SAMA 23,452,869 30,451,217
+Sukuk - Investment grade 10,605,139 2,100,895
+Total 34,058,008 32,552,112
+Investment Grade includes those investments having credit exposure equivalent to Standard and
+Poor's rating of AAA to BBB. The unrated category only comprise of unquoted sukuks. Fitch has
+assigned A+ rating to KSA as a country, as at 22 March, 2017.
+e) The following is an analysis of foreign investments according to investment categories as at 31
+December:
+(SAR‘000) 2017 2016
+Investments held at amortized cost
+Sukuk 1,545,059 1,300,895
+Investments held as FVSI
+Equity investments 21,300 21,249
+Mutual funds 347,180 232,604
+Total 1,913,539 1,554,748
+f) The following is an analysis of investments according to counterparties as at 31 December:
+(SAR‘000) 2017 2016
+Government and quasi government 24,820,739 31,683,532
+Companies 971,969 919,749
+Banks and other financial institutions 9,184,905 889,280
+Mutual funds 1,423,479 540,318
+Net investments 36,401,092 34,032,879
+27
+
+===========================================================================
+YEAR: 2018
+FILE: Al_Rajhi_2018_Annual_Report.pdf
+PDF PAGE: 144
+MATCHED HEADINGS: ['241 Investments classified as held to maturity cannot ordinarily iv. Available-for-sale – Available-for-sale investments are']
+===========================================================================
+Notes to the Consolidated Financial Statements
+241 Investments classified as held to maturity cannot ordinarily iv. Available-for-sale – Available-for-sale investments are
+be sold or reclassified without impacting the Group’s ability those non-derivative equity securities which are neither
+to use this classification. classified as Held to maturity investments, financing nor
+However, sales and reclassifications in any of the following designated as FVSI, that are intended to be held for an
+circumstances would not impact the Group’s ability to use unspecified period of time, which may be sold in response
+this classification. to needs for liquidity or changes in special commission
+rates, exchange rates or equity prices.
+ Sales or reclassifications that are so close to maturity that
+Investments which are classified as “available-for-sale”
+the changes in market rate of commission would not
+are initially recognised at fair value including direct
+have a significant effect on the fair value.
+and incremental transaction costs and subsequently
+ Sales or reclassifications after the Group has collected measured at fair value except for unquoted equity
+substantially all the assets’ original principal. securities whose fair value cannot be reliably measured
+ Sales or reclassifications attributable to non-recurring are carried at cost. Unrealised gains or losses arising
+isolated events beyond the Group’s control that could from changes in fair value are recognised in other
+not have been reasonably anticipated. comprehensive income until the investment is de-
+recognised or impaired whereupon any cumulative gain
+iii. Held as FVSI – Investments in this category are classified or loss previously recognised in other comprehensive
+as either investment held for trading or those designated income are reclassified to consolidated statement of
+as FVSI on initial recognition. Investments classified as income. A security held as available-for-sale may be
+trading are acquired principally for the purpose of selling reclassified to “Other investments held at amortised
+or repurchasing in the short term. These investments cost” if it otherwise would have met the definition of
+comprise mutual funds and equity investments. Such “Other investments held at amortised cost” and if the
+investments are measured at fair value and any changes in Bank has the intention and ability to hold that financial
+the fair values are charged to the consolidated statement asset for the foreseeable future or
+of income. Transaction costs, if any, are not added to until maturity.
+the fair value measurement at initial recognition of
+FVSI investments and are expensed in the consolidated 2. Impairment of financial assets
+financial statements. Investment income and dividend
+Held at amortised cost
+income on financial assets held as FVSI are reflected under
+An assessment is made at the date of each consolidated
+other operating income in the consolidated statement of
+statement of financial position to determine whether there
+income.
+is objective evidence of impairment as a result of one or
+Investments at FVSI are not reclassified subsequent to
+more events that occurred after the initial recognition of
+their initial recognition, except that non-derivative FVSI
+the financial asset or a group of financial assets and that a
+instruments, other than those designated as FVSI upon
+loss event(s) has an impact on the estimated future cash
+initial recognition, may be reclassified out of the FVSI
+flows of the financial asset or group of financial assets
+(i.e. trading) category if they are no longer held for the
+that can be reliably estimated. If such evidence exists, the
+purpose of being sold or repurchased in the near term,
+difference between the assets carrying amount and the
+and the following conditions are met:
+present value of estimated future cash flows is calculated
+ If the financial asset would have met the definition and any impairment loss, is recognised for changes in
+of financing and receivables, if the financial asset had the asset’s carrying amount. The carrying amount of the
+not been required to be classified as held for trading financial assets held at amortised cost, is adjusted either
+at initial recognition, then it may be reclassified if the directly or through the use of an allowance for impairment
+entity has the intention and ability to hold the financial account, and the amount of the adjustment is included in
+asset for the foreseeable future or until maturity. the Consolidated Statement of Income.
+ If the financial asset would not have met the
+definition of financing and receivables, and then it
+may be reclassified out of the trading category only in
+“rare circumstances”.
+
+===========================================================================
+YEAR: 2018
+FILE: Al_Rajhi_2018_Annual_Report.pdf
+PDF PAGE: 152
+MATCHED HEADINGS: ['4 Cash and Balances with SAMA and Other Central Banks', '5 Due from Banks and Other Financial Institutions']
+===========================================================================
+Notes to the Consolidated Financial Statements
+051
+4 Cash and Balances with SAMA and Other Central Banks
+Cash and balances with SAMA and central banks as of 31 December comprise the following:
+2018 2017
+(SAR ’000) (SAR ’000)
+Cash in hand 8,133,635 8,595,037
+Statutory deposit 19,444,194 17,952,252
+Current account with SAMA 293,214 425,071
+Mutajara with SAMA 15,375,000 21,310,111
+Total 43,246,043 48,282,471
+In accordance with the Banking Control Law and regulations issued by SAMA, the Bank is required to maintain a statutory deposit
+with SAMA and central banks at stipulated percentages of its customers’ demand deposits, customers’ time investment and other
+customers’ accounts calculated at the end of each Gregorian calendar month.
+The above statutory deposits are not available to finance the Bank’s day-to-day operations and therefore are not considered as
+part of cash and cash equivalents (Note 24), when preparing the consolidated statement of cash flows.
+5 Due from Banks and Other Financial Institutions
+Due from banks and other financial institutions as of 31 December comprise the following:
+2018 2017
+(SAR ’000) (SAR ’000)
+Current accounts 778,769 825,908
+Mutajara 30,029,242 9,883,887
+Total 30,808,011 10,709,795
+The table below depicts the quality of due from banks and other financial institutions as at 31 December:
+2018 2017
+(SAR ’000) (SAR ’000)
+Investment grade [credit rating (AAA to BBB-)] 29,801,590 10,142,259
+Non-investment grade [credit rating (BB+ to B-)] 750,591 436,360
+Unrated 255,830 131,176
+Total 30,808,011 10,709,795
+The credit quality of due from banks and other financial institutions is managed using external credit rating agencies. The above
+due from banks and other financial institution balances are neither past due nor impaired.
+
+===========================================================================
+YEAR: 2018
+FILE: Al_Rajhi_2018_Annual_Report.pdf
+PDF PAGE: 153
+MATCHED HEADINGS: ['6 Investments, Net']
+===========================================================================
+Notes to the Consolidated Financial Statements
+151
+6 Investments, Net
+(a) Investments comprise the following as of 31 December:
+2018 2017
+(SAR ’000) (SAR ’000)
+Investment in an associate 172,753 124,825
+Investments held at amortised cost
+Murabaha with Saudi Government and SAMA 22,477,145 23,452,869
+Sukuk 17,395,957 10,605,139
+Less: Impairment (Stage 1) (28,337) –
+Total investments held at amortised cost 39,844,765 34,058,008
+Investments held as FVSI
+Equity investments – 23,487
+Mutual funds 1,141,584 389,193
+Sukuk 800,000 –
+Total investments held as FVSI 1,941,584 412,680
+FVOCI investments
+Equity investments 1,103,463 771,293
+Mutual funds – 1,034,286
+Total FVOCI investments 1,103,463 1,805,579
+Investments 43,062,565 36,401,092
+The designated FVSI investments included above are designated upon initial recognition as FVSI are in accordance with the
+documented risk management strategy of the Bank.
+All investments held at amortised costs are neither past due nor impaired as of 31 December 2018.
+Equity investment securities designated as at FVOCI
+At 1 January 2018, the Bank designated its equity securities as at FVOCI. In 2017, these investments were classified as available
+for sale and FVSI. The FVOCI designation was made because the investments are expected to be held for the long-term for
+strategic purposes. The Bank does not hold these equity investments for trading purposes.
+None of the material strategic investments were disposed of during 2018, and there were no transfers of any cumulative gain
+or loss within equity relating to these investments.
+
+===========================================================================
+YEAR: 2019
+FILE: Al_Rajhi_2019_Annual_Report.pdf
+PDF PAGE: 61
+MATCHED HEADINGS: ['4. CASH AND BALANCES WITH SAMA AND OTHER CENTRAL BANKS 2019 2018', '5. DUE FROM BANKS AND OTHER FINANCIAL INSTITUTIONS designated upon initial recognition as FVSI and are in term for strategic purposes.']
+===========================================================================
+Installment sales financing: becomes a debtor to the Bank for the manufacturing price, which The tables below depict the quality of due from banks and other financial institutions as at 31 December:
+It is a financing agreement whereby the Bank purchases a includes cost plus profit.
+commodity or an asset and sells it to the client based on a 2019 2018
+purchase promise from the client with a deferred price higher Murabaha financing: (SAR‘000) (SAR‘000)
+than the cash price. It is a financing agreement whereby the Bank purchases Investment grade (credit rating AAA to BBB) 31,601,630 31,381,339
+a commodity or asset and sells it to the client with a price Non-investment grade (credit rating BB+ to B-) 241,353 750,591
+Accordingly the client becomes a debtor to the Bank with the representing the purchase price plus a profit known and agreed
+Unrated 215,199 255,830
+sale amount to be paid through installments as agreed in the by the client which means that the client is aware of the cost and
+Total 32,058,182 32,387,760
+contract. profit separately.
+Istisnaa financing: The credit quality of due from banks and other financial institutions is managed using external credit rating agencies. The above due
+It is a financing agreement whereby the Bank contracts to from banks and other financial institutions balances are neither past due nor impaired.
+manufacture a commodity with certain known and accurate
+specifications according to the client’s request. The client 6. INVESTMENTS, NET
+a) Investments comprise the following as of 31 December:
+4. CASH AND BALANCES WITH SAMA AND OTHER CENTRAL BANKS 2019 2018
+Cash and balances with SAMA and other central banks as of 31 December comprise of the following: (SAR‘000) (SAR‘000)
+Investment in an associate 196,235 172,753
+2019 2018 Investments held at amortized cost
+(SAR‘000) (SAR‘000) Murabaha with Saudi Government and SAMA 24,991,978 22,477,145
+Cash in hand 7,404,276 8,133,635 Sukuk 17,973,379 17,395,957
+Statutory deposits 20,663,503 19,444,194 Less: Impairment (Stage 1) (22,270) (28,337)
+Current account with SAMA 371,320 293,214 Total investments held at amortized cost 42,943,087 39,844,765
+Mutajara with SAMA 10,855,000 15,375,000 Investments held as FVSI
+Total 39,294,099 43,246,043 Mutual funds 1,230,711 1,141,584
+Sukuk 800,000 800,000
+In accordance with the Banking Control Law and regulations The above statutory deposits are not available to finance the Total investments held as FVSI 2,030,711 1,941,584
+issued by SAMA, the Bank is required to maintain a statutory Bank’s day-to-day operations and therefore are not considered as FVOCI investments
+deposit with SAMA and other central banks at stipulated part of cash and cash equivalents (note 24) when preparing the Equity investments 1,672,597 1,103,463
+percentages of its customers’ demand deposits, customers’ time consolidated statement of cash flows.
+Total FVOCI investments 1,672,597 1,103,463
+investment and other customers’ accounts calculated at the end
+Investments 46,842,630 43,062,565
+of each Gregorian month.
+The designated FVSI investments included above are because the investments are expected to be held for the long-
+5. DUE FROM BANKS AND OTHER FINANCIAL INSTITUTIONS designated upon initial recognition as FVSI and are in term for strategic purposes.
+Due from banks and other financial institutions as of 31 December comprise the following: accordance with the documented risk management strategy of
+the Bank. None of the strategic investments were disposed of during
+2019, and there were no transfers of any cumulative gain or loss
+2019 2018 All investments held at amortized cost are neither past due nor within equity relating to these investments.
+(SAR‘000) (SAR‘000) impaired as of 31 December 2019 & 2018.
+Current accounts 798,168 778,769 Investment in an associate
+Mutajara 31,260,014 31,608,991 Equity investment securities designated as at FVOCI The Bank owns 22.5% (31 December 2018: 22.5%) shares of Al
+At 1 January 2018, the Bank designated equity securities Rajhi Company for Cooperative Insurance, a Saudi Joint Stock
+Total 32,058,182 32,387,760
+designated as at FVOCI. The FVOCI designation was made Company.
+120 | BANK OF THE FUTURE Annual Report 2019 | 121
+Strategic
+Report
+Corporate
+Governance
+Financial
+Statements
+
+===========================================================================
+YEAR: 2020
+FILE: Al_Rajhi_2020_Annual_Report.pdf
+PDF PAGE: 85
+MATCHED HEADINGS: ['4 Cash and Balances with SAMA and Other Central Banks 6 Investments, Net', '5 Due from Banks and Other Financial Institutions']
+===========================================================================
+Notes to the Consolidated Financial Statements Financial Statements Financial Statements Notes to the Consolidated Financial Statements
+461 561
+4 Cash and Balances with SAMA and Other Central Banks 6 Investments, Net
+Cash and balances with SAMA and central banks as of 31 December comprise the following: (a) Investments comprise the following as of 31 December:
+2020 2019 2020 2019
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Cash in hand 7,355,940 7,404,276 Investment in an associate 239,179 196,235
+Statutory deposits 23,459,540 20,663,503
+Investments held at amortised cost
+Current account with SAMA 311,493 371,320
+Murabaha with Saudi Government and SAMA 22,904,021 24,991,978
+Mutajara with SAMA 16,235,549 10,855,000
+Sukuk 25,240,452 17,973,379
+Total 47,362,522 39,294,099
+Structured products 1,000,000 –
+Less: Impairment (Stage 1) (26,962) (22,270)
+In accordance with the Banking Control Law and regulations issued by SAMA, the Bank is required to maintain a statutory deposit Total investments held at amortised cost 49,117,511 42,943,087
+with SAMA and other central banks at stipulated percentages of its customers’ demand deposits, customers’ time investment and
+other customers’ accounts calculated at the end of each Gregorian month.
+Investments held as FVSI
+The above statutory deposits are not available to finance the Bank’s day-to-day operations and therefore are not considered as part Mutual funds 2,545,864 1,230,711
+of cash and cash equivalents (Note 24), when preparing the consolidated statement of cash flows.
+Structured products 1,502,525 –
+Sukuk 2,588,595 800,000
+5 Due from Banks and Other Financial Institutions
+Total investments held as FVSI 6,636,984 2,030,711
+Due from banks and other financial institutions as of 31 December comprise the following:
+2020 2019 FVOCI investments
+(SAR ’000) (SAR ’000) Equity investments 3,687,266 1,672,597
+Sukuk 604,332 –
+Current accounts 1,259,634 798,168
+Total FVOCI investments 4,291,598 1,672,597
+Mutajara 27,395,208 31,260,014
+Total 28,654,842 32,058,182 Investments 60,285,272 46,842,630
+The table below depicts the quality of due from banks and other financial institutions as at 31 December: The designated FVSI investments included above are designated upon initial recognition as FVSI and are in accordance with the
+documented risk management strategy of the Bank.
+2020 2019
+(SAR ’000) (SAR ’000) All investments held at amortised costs are neither past due nor impaired as of 31 December 2020 & 2019.
+Investment grade [credit rating (AAA to BBB)] 28,013,793 31,601,630 Equity investment securities designated as at FVOCI
+Non-investment grade [credit rating (BB+ to B-)] 492,593 241,353 The Bank has designated investment in equity securities designated at FVOCI. The FVOCI designation was made because the
+Unrated 148,456 215,199 investments are expected to be held for the long-term for strategic purposes.
+Total 28,654,842 32,058,182 None of the strategic investments were disposed of during 2020, and there were no transfers of any cumulative gain or loss within
+equity relating to these investments.
+The credit quality of due from banks and other financial institutions is managed using external credit rating agencies. The above Investment in an associate
+due from banks and other financial institution balances are neither past due nor impaired classified in stage 1.
+The Bank owns 22.5% (31 December 2019: 22.5%) shares of Al Rajhi Company for Cooperative Insurance, a Saudi Joint Stock Company.
+
+===========================================================================
+YEAR: 2021
+FILE: Al_Rajhi_2021_Annual_Report.pdf
+PDF PAGE: 176
+MATCHED HEADINGS: ['174 investments in terms of duration, credit confidentiality and integrity of the Bank’s']
+===========================================================================
+Overview
+Risk Context
+Business in Perspective
+Management ESG Report
+Corporate Governance
+Financial Statements
+Supplementary
+Operational risk Security risk
+In 2021, The Board of Directors approved The Risk Group initiated a number
+the Bank’s existing enterprise Operational of major developments to mitigate
+Risk Management Policy with no significant cybersecurity risk during the year
+changes to ensure that an adequate under review by rolling out the ARB
+control environment exists across its Information Security Management (ISM)
+businesses and functions to maintain an programme. Maintaining complete
+acceptable level of residual risk for the compliance with SAMA as well as the
+year under review. The policy encompasses National Cybersecurity Authority (NCA),
+the implementation of operational risk the ISM programme adheres to globally
+tools designed to reduce or mitigate the adopted standards and systems for
+failure of people, processes, systems and cybersecurity management such as ISO
+associated operational incidents and losses. 27001, the Payment Card Industry Data
+Security Standard (PCI-DSS) and electronic
+interbank fund transfer systems such as
+Market risk
+SWIFT and SARIE.
+With underlying economic factors such as
+interest rates, fluctuations in mutual fund During the year under review, the ISM
+products, and especially foreign exchange programme developed and introduced
+rates continuing to pose a risk to earnings, strategies, policies and internal controls
+the Bank focused on diversifying its to further enhance the efficiency,
+174 investments in terms of duration, credit confidentiality and integrity of the Bank’s
+rating as well as geographical distribution, IT operations and monitoring capabilities,
+to be less impacted by and reactive to strengthening the confidence of customers
+sudden market disruptions. In 2021, the and regulators on the quality of ARB’s
+Bank’s key challenge was to reduce its cybersecurity, as well as its ability to
+Foreign Exchange Net Open Position (FX manage confidential data and IT assets.
+NoP), particularly for USD. The year under The ISM programme has enabled the Risk
+review saw a 1.5-fold reduction of the Group to govern the Bank’s cybersecurity
+Bank’s FX NoP, and an impressive 5.5-fold infrastructure, and scale and enforce
+reduction of the Treasury FX NoP achieved security measures across the Bank’s
+by entering currency swaps as well as growing operating verticals.
+initiating outright positions on our own
+book for notional investments.
+Risk management practices
+The Risk Group is headed by the Chief Risk
+Concentration risk
+Officer, and functions within the Bank’s risk
+The Bank’s geographical diversity and the framework and policies approved by the
+loyal patronage of its varied customer Board of Directors to manage risk across
+base – which spans industries, countries, the entirety of the Bank’s operations. The
+and wallet-size – mitigates concentration Group’s reports to the Board and related
+risk by providing greater stability in the committees span credit risks and portfolio
+face of external impacts. The Bank faced asset quality, operational risks, liquidity
+no major concentration risks during the risks, market risks, reputational risks,
+year under review. technology and cybersecurity risks among
+others. The Risk Group continued to
+Al Rajhi Bank | Annual Report 2021
+
+===========================================================================
+YEAR: 2022
+FILE: Al_Rajhi_2022_Annual_Report.pdf
+PDF PAGE: 115
+MATCHED HEADINGS: ['4 Cash and balances with Central Banks 2022 Gross Allowance for Net', '5 Due from banks and other financial institutions, net rating agencies. The above due from banks and other financial institutions balances are neither past']
+===========================================================================
+722
+Al Rajhi Bank | Annual Report 2022 Al Rajhi Bank | Annual Report 2022
+622
+notes to the consolidated notes to the consolidated
+financial statements financial statements
+Overview Overview
+Context Context
+Business in Perspective Business in Perspective
+ESG Report ESG Report
+Corporate Governance Corporate Governance
+Financial Statements Financial Statements
+Supplementary Supplementary
+4 Cash and balances with Central Banks 2022 Gross Allowance for Net
+carrying expected carrying
+amount credit loss amount
+Cash and balances with Saudi Central Bank (“SAMA”) and other central banks comprise of the following:
+(SAR ’000) (SAR ’000) (SAR ’000)
+2022 2021
+Investment grade (credit rating AAA to BBB) 25,104,205 (4,810) 25,099,395
+(SAR ’000) (SAR ’000)
+Non-investment grade (credit rating BB+ to B-) 478,459 – 478,459
+Cash in hand 6,672,064 5,445,994
+Unrated 78,075 – 78,075
+Statutory deposit 32,919,235 28,803,530
+Total 25,660,739 (4,810) 25,655,929
+Balances with central banks (current accounts) 408,197 314,005
+Mutajara with SAMA 2,053,000 5,799,920
+2021 Gross Allowance for Net
+Total 42,052,496 40,363,449
+carrying expected carrying
+amount credit loss amount
+(SAR ’000) (SAR ’000) (SAR ’000)
+In accordance with the Banking Control Law and regulations issued by SAMA, the Group is required
+Investment grade (credit rating AAA to BBB) 25,575,691 (4,275) 25,571,416
+to maintain a statutory deposit with SAMA and other central banks at stipulated percentages of its
+customers’ Demand deposits and call accounts, customers’ time investment and other customers’ Non-investment grade (credit rating BB+ to B-) 462,716 – 462,716
+accounts calculated at the end of each Gregorian month.
+Unrated 31,260 – 31,260
+The above statutory deposits are not available to finance the Group’s day-to-day operations and
+Total 26,069,667 (4,275) 26,065,392
+therefore are not considered as part of cash and cash equivalents (Note 28) when preparing the
+consolidated statement of cash flows.
+The credit quality of due from banks and other financial institutions is managed using external credit
+5 Due from banks and other financial institutions, net rating agencies. The above due from banks and other financial institutions balances are neither past
+due nor impaired and are classified in stage 1. There were no movements in staging during year.
+Due from banks and other financial institutions comprise the following:
+2022 2021
+(SAR ’000) (SAR ’000)
+Current accounts 4,765,889 2,056,541
+Mutajara 20,894,850 24,013,126
+Less: Allowance for expect credit losses (4,810) (4,275)
+Total 25,655,929 26,065,392
+
+===========================================================================
+YEAR: 2022
+FILE: Al_Rajhi_2022_Annual_Report.pdf
+PDF PAGE: 116
+MATCHED HEADINGS: ['6 Investments, net']
+===========================================================================
+922
+Al Rajhi Bank | Annual Report 2022 Al Rajhi Bank | Annual Report 2022
+822
+notes to the consolidated notes to the consolidated
+financial statements financial statements
+Overview Overview
+Context Context
+Business in Perspective Business in Perspective
+ESG Report ESG Report
+Corporate Governance Corporate Governance
+Financial Statements Financial Statements
+Supplementary Supplementary
+All investments held at amortised cost are neither past due nor impaired as of 31 December 2022 and
+6 Investments, net
+2021, and are classified in stage 1. There were no movements in staging during year.
+(a) Investments comprise the following:
+Equity investment securities designated as at FVOCI
+2022 2021
+The Group has designated investment in equity securities designated at FVOCI. The FVOCI designation
+(SAR ’000) (SAR ’000)
+was made because the investments are expected to be held for the long-term for strategic purposes.
+Investments held at amortised cost
+(b) The analysis of the composition of investments as of 31 December is as follows:
+Murabaha with Saudi Government and SAMA 22,696,693 22,611,987
+Sukuk 70,608,347 48,102,603 2022 Quoted Unquoted Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+Structured products 1,033,894 1,000,000
+Less: Impairment (Stage 1) (43,294) (31,824) Murabaha with Saudi Government and SAMA – 22,696,693 22,696,693
+Total investments held at amortised cost 94,295,640 71,682,766 Structured products – 1,882,883 1,882,883
+Investments held as FVIS Sukuk 64,708,089 9,308,347 74,016,436
+Mutual funds 2,214,056 2,650,605 Equities 491,018 24,339 515,357
+Structured products 737,551 788,765 Mutual Funds 1,879,549 334,507 2,214,056
+Sukuk 159,591 32,680 Total 67,078,656 34,246,769 101,325,425
+Equity investments 156,613 –
+Total FVIS investments 3,267,811 3,472,050
+2021 Quoted Unquoted Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+FVOCI investments
+Murabaha with Saudi Government and SAMA – 22,611,987 22,611,987
+Equity investments 358,744 5,148,946
+Structured products – 1,788,765 1,788,765
+Structured Products 111,438 –
+Sukuk 45,951,396 5,986,443 51,937,839
+Sukuk* 3,292,010 3,834,641
+Equities 5,124,587 24,359 5,148,946
+Less: Impairment (Stage 1) (218) (261)
+Mutual Funds 2,415,228 235,377 2,650,605
+Total FVOCI investments 3,761,974 8,983,326
+Total 53,491,211 30,646,931 84,138,142
+Investments, net 101,325,425 84,138,142
+The Bank, under repurchase agreements, pledges with other banks Sukuk securities that include
+government Sukuk. The fair values of those Sukuk pledged as collateral with financial institutions as at
+31 December 2022 is SAR 53,956 Mn. and the related balances of the repurchase agreements pledge is
+SAR 57,119 Mn.
+*The Group holds SAR 2,828 Mn. (31 December 2021: 2,339 Mn.) million in Tier I Sukuk out of the total
+FVOCI Sukuk.
+The designated FVIS investments included above are designated upon initial recognition as FVIS and
+are in accordance with the documented risk management strategy of the Group.
+
+===========================================================================
+YEAR: 2022
+FILE: Al_Rajhi_2022_Annual_Report.pdf
+PDF PAGE: 124
+MATCHED HEADINGS: ['8 Investments in associates']
+===========================================================================
+542
+Al Rajhi Bank | Annual Report 2022 Al Rajhi Bank | Annual Report 2022
+442
+notes to the consolidated notes to the consolidated
+financial statements financial statements
+Overview Overview
+Context Context
+Business in Perspective Business in Perspective
+ESG Report ESG Report
+Corporate Governance Corporate Governance
+Financial Statements Financial Statements
+Supplementary Supplementary
+(2) Corporate segment: (k) Installment sale under financing includes finance lease receivables,
+which are as follows:
+Credit loss allowance as of 31 December 2022
+Corporate Stage 1 Stage 2 Stage 3 Total 2022 2021
+(12-months ECL) (lifetime (lifetime ECL for (SAR ’000) (SAR ’000)
+ECL for SICR) credit impaired)
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Gross receivables from finance leases 32,827,255 27,020,295
+ECL allowances for Less than 1 year 1,946,998 6,286
+impairment of financing
+1 to 5 years 21,269,416 17,532,469
+At 1 January 2022 1,411,392 1,309,042 1,276,289 3,996,723
+Over 5 years 9,610,841 9,481,540
+Transfers:
+32,827,255 27,020,295
+Transfer to 12-month ECL 21,110 (12,969) (8,141) –
+Unearned future finance income on finance leases (4,096,161) (3,404,832)
+Transfer to Lifetime ECL not credit impaired (30,639) 47,291 (16,652) –
+Expect credit loss from finance leases (782,783) (571,116)
+Transfer to Lifetime ECL credit impaired (14,362) (238,375) 252,737 –
+Write-offs – – (1,797,275) (1,797,275) Net receivables from finance leases 27,948,311 23,044,347
+Net charge for the period 1,988 (282,892) 1,304,730 1,023,826
+At 31 December 2022 1,389,489 822,097 1,011,688 3,223,274
+8 Investments in associates
+Investment in associate 2022 2021
+Credit loss allowance as of 31 December 2021
+(SAR ’000) (SAR ’000)
+Corporate Stage 1 Stage 2 Stage 3 Total
+(12-months ECL) (lifetime (lifetime ECL for Balance at the beginning of the year 295,253 239,179
+ECL for SICR) credit impaired)
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) Investment made during the year 513,288 –
+Dividends during the year (2,952) –
+ECL allowances for
+impairment of financing Share in earnings, net 15,128 56,074
+At 1 January 2021 556,000 1,191,236 1,382,559 3,129,795 Balance at end of the year 820,717 295,253
+Transfers:
+Transfer to 12-month ECL 15,018 (15,018) – –
+The Group owns 35% (31 December 2021: 22.5%) shares of Al Rajhi Company for Cooperative Insurance,
+Transfer to Lifetime ECL not credit impaired (3,942) 3,949 (7) – a Saudi Joint Stock Company.
+Transfer to Lifetime ECL credit impaired (23,147) (6,097) 29,244 –
+Write-offs – – (296,435) (296,435)
+Net charge for the period 867,463 134,972 160,928 1,163,363
+At 31 December 2021 1,411,392 1,309,042 1,276,289 3,996,723
+
+===========================================================================
+YEAR: 2023
+FILE: Al_Rajhi_2023_Annual_Report.pdf
+PDF PAGE: 268
+MATCHED HEADINGS: ['4 Cash and balances with Central Banks', '5 Due from banks and other financial institutions, net']
+===========================================================================
+662 notes to the consolidated
+financial statements
+Overview
+Context
+Business in Perspective
+ESG Report
+Corporate Governance
+Financial Statements
+Supplementary
+4 Cash and balances with Central Banks
+Cash and balances with Saudi Central Bank (“SAMA”) and other central banks comprise of the following:
+2023 2022
+(SAR ’000) (SAR ’000)
+Cash in hand 6,502,729 6,672,064
+Statutory deposit 35,008,098 32,919,235
+Balances with central banks (current accounts) 256,814 408,197
+Mutajara with SAMA – 2,053,000
+Total 41,767,641 42,052,496
+In accordance with the Banking Control Law and regulations issued by SAMA, the Group is required
+to maintain a statutory deposit with SAMA and other central banks at stipulated percentages of its
+deposits liabilities calculated on monthly averages at the end of reporting period.
+The above statutory deposits are not available to finance the Group’s day-to-day operations and
+therefore are not considered as part of cash and cash equivalents (Note 29) when preparing the
+consolidated statement of cash flows.
+All these balances are stage 1.
+5 Due from banks and other financial institutions, net
+Due from banks and other financial institutions comprise the following:
+2023 2022
+(SAR ’000) (SAR ’000)
+Current accounts 3,179,877 4,765,889
+Mutajara 6,331,071 20,894,850
+Less: Allowance for expect credit losses (4,275) (4,810)
+Total 9,506,673 25,655,929
+annual report 2023
+
+===========================================================================
+YEAR: 2023
+FILE: Al_Rajhi_2023_Annual_Report.pdf
+PDF PAGE: 270
+MATCHED HEADINGS: ['6 Investments, net']
+===========================================================================
+862 notes to the consolidated
+financial statements
+Overview
+Context
+Business in Perspective
+ESG Report
+Corporate Governance
+Financial Statements
+Supplementary
+6 Investments, net
+(a) Investments comprise the following:
+2023 2022
+(SAR ’000) (SAR ’000)
+Investments held at amortised cost
+Murabaha with Saudi Government and SAMA 20,067,953 22,696,693
+Sukuk 87,962,033 70,608,347
+Structured products 2,941,573 1,033,894
+Less: Impairment (70,234) (43,294)
+Total investments held at amortised cost 110,901,325 94,295,640
+Investments held as FVIS
+Mutual funds 2,525,681 2,214,056
+Sukuk 122,374 159,591
+Structured products 785,242 737,551
+Equity investments 118,803 156,613
+Total FVIS investments 3,552,100 3,267,811
+FVOCI investments
+Sukuk 14,535,530 2,132,880
+Structured products 1,106,286 111,438
+Equity investments* 3,282,168 1,517,874
+Less: Impairment (1,844) (218)
+Total FVOCI investments 18,922,140 3,761,974
+Investments, net 133,375,565 101,325,425
+The Bank, under repurchase agreements, pledges with other banks Sukuk securities that include
+government Sukuk. The fair values of those Sukuk pledged as collateral with financial institutions as at
+31 December 2023 is SAR 78,556 Mn. (31 December 2022 – SAR 71,567 Mn.) and the related balances of the
+repurchase agreements pledge is SAR 33,345 Mn. (31 December 2022 – SAR 52,269 Mn.).
+The designated FVIS investments included above are designated upon initial recognition as FVIS and
+are in accordance with the documented risk management strategy of the Group.
+*The Group holds SAR 2,360 Mn. (31 December 2022 – 1,159 Mn.) in investments in Tier I Sukuk out of the
+total Equity investments.
+annual report 2023
+
+===========================================================================
+YEAR: 2023
+FILE: Al_Rajhi_2023_Annual_Report.pdf
+PDF PAGE: 286
+MATCHED HEADINGS: ['8 Investments in associates']
+===========================================================================
+482 notes to the consolidated
+financial statements
+Overview
+Context
+Business in Perspective
+ESG Report
+Corporate Governance
+Financial Statements
+Supplementary
+(k) Installment sale under financing includes finance lease receivables,
+which are as follows:
+2023 2022
+(SAR ’000) (SAR ’000)
+Gross receivables from finance leases
+Less than 1 year 252,224 1,946,998
+1 to 5 years 25,318,310 21,269,416
+Over 5 years 10,285,552 9,610,841
+35,856,086 32,827,255
+Unearned future finance income on finance leases (4,641,683) (4,096,161)
+Expect credit loss from finance leases (823,840) (782,783)
+Net receivables from finance leases 30,390,563 27,948,311
+8 Investments in associates
+Investment in associate 2023 2022
+(SAR ’000) (SAR ’000)
+Balance at the beginning of the year 820,717 295,253
+Investment made during the year – 506,863
+Dividends during the year (3,870) (2,952)
+Share in earnings, net 106,199 21,553
+Balance at end of the year 923,046 820,717
+The Group owns 35% (31 December 2022 – 35%) shares of Al Rajhi Company for Cooperative Insurance,
+a Saudi Joint Stock Company. The market value as of 31 December 2023 is SAR 799 Mn.
+The Group owns 32.7% (31 December 2022 – 32.7%) shares of Versatile Solutions Company Limited.
+annual report 2023
+
+===========================================================================
+YEAR: 2024
+FILE: Al_Rajhi_2024_Annual_Report.pdf
+PDF PAGE: 319
+MATCHED HEADINGS: ['4 Cash and balances with Central Banks']
+===========================================================================
+713
+community development: customer engagement sustainable corporate financial
+supplementary
+driving impact and responsible banking financing governance statements
+notes to the consolidated financial statements
+4 Cash and balances with Central Banks
+Cash and balances with Saudi Central Bank (“SAMA”) and other central banks comprise of
+the following:
+2024 2023
+(SAR ’000) (SAR ’000)
+Cash in hand 6,681,225 6,502,729
+Statutory deposit 40,258,314 35,008,098
+Balances with central banks (current accounts) 195,171 256,814
+Mutajara with SAMA 6,110,000 –
+Total 53,244,710 41,767,641
+In accordance with the Banking Control Law and regulations issued by SAMA, the Group is required
+to maintain a statutory deposit with SAMA and other central banks at stipulated percentages of
+its deposits liabilities calculated on monthly averages at the end of reporting period.
+The above statutory deposits are not available to finance the Group’s day-to-day operations
+and therefore are not considered as part of cash and cash equivalents (note 34) when preparing
+the consolidated statement of cash flows.
+All these balances are stage 1.
+
+===========================================================================
+YEAR: 2024
+FILE: Al_Rajhi_2024_Annual_Report.pdf
+PDF PAGE: 320
+MATCHED HEADINGS: ['5 Due from banks and other financial institutions, net']
+===========================================================================
+813
+business in sustainable environmental stewardship cultivating a future
+overview context
+perspective development & climate action forward workforce
+notes to the consolidated financial statements
+5 Due from banks and other financial institutions, net
+Due from banks and other financial institutions comprise the following:
+2024 2023
+(SAR ’000) (SAR ’000)
+Current accounts 1,639,015 3,179,877
+Mutajara 17,892,806 6,331,071
+Less: Allowance for expected credit losses (2,094) (4,275)
+Total 19,529,727 9,506,673
+2024 Gross Allowance for Net
+carrying expected carrying
+amount credit loss amount
+(SAR ’000) (SAR ’000) (SAR ’000)
+Investment grade
+(credit rating AAA to BBB) 19,389,226 (942) 19,388,284
+Non-investment grade
+(credit rating BB+ to B-) 142,595 (1,152) 141,443
+Total 19,531,821 (2,094) 19,529,727
+2023 Gross Allowance for Net
+carrying expected carrying
+amount credit loss amount
+(SAR ’000) (SAR ’000) (SAR ’000)
+Investment grade
+(credit rating AAA to BBB) 8,920,952 (1,810) 8,919,142
+Non-investment grade
+(credit rating BB+ to B-) 589,996 (2,465) 587,531
+Total 9,510,948 (4,275) 9,506,673
+The credit quality of due from banks and other financial institutions is managed using external
+credit rating agencies. The above due from banks and other financial institutions balances
+are neither past due nor impaired and are classified in stage 1. There were no movements
+in staging during year.
+integrated annual report 2024
+
+===========================================================================
+YEAR: 2024
+FILE: Al_Rajhi_2024_Annual_Report.pdf
+PDF PAGE: 321
+MATCHED HEADINGS: ['6 Investments, net']
+===========================================================================
+913
+community development: customer engagement sustainable corporate financial
+supplementary
+driving impact and responsible banking financing governance statements
+notes to the consolidated financial statements
+6 Investments, net
+(a) Investments comprise the following:
+2024 2023
+(SAR ’000) (SAR ’000)
+Investments held at amortized cost
+Murabaha with Saudi Government and SAMA 15,022,361 20,067,953
+Sukuk 120,971,297 87,962,033
+Structured Products 2,200,651 2,941,573
+Less: Impairment (Stage 1) (47,774) (70,234)
+Total investments held at amortized cost 138,146,535 110,901,325
+Investments held as FVIS
+Mutual funds 2,931,542 2,525,681
+Sukuk 276,612 122,374
+Structured Products 3,012,532 785,242
+Equity investments 258,890 118,803
+Total FVIS investments 6,479,576 3,552,100
+FVOCI investments
+Sukuk 19,208,062 14,535,530
+Structured Products 2,618,781 1,106,286
+Equity investments* 8,584,420 3,282,168
+Less: Impairment (Stage 1) (3,787) (1,844)
+Total FVOCI investments 30,407,476 18,922,140
+Investments, net 175,033,587 133,375,565
+The Bank, under repurchase agreements, pledges with other banks sukuk securities that
+include government sukuk. The fair values of those sukuk pledged as collateral with financial
+institutions as at 31 December 2024 is SAR 78,538 million. (31 December 2023: 78,556 million)
+and the related balances of the repurchase agreements pledge is SAR 49,596 million
+(31 December 2023: 33,345 million).
+The designated FVIS investments included above are designated upon initial recognition as
+FVIS and are in accordance with the documented risk management strategy of the Group.
+* The Group holds SAR 6,800 million (31 December 2023: 2,360 million) in investments in Tier I Sukuk out of the total
+Equity investments.
+
+===========================================================================
+YEAR: 2024
+FILE: Al_Rajhi_2024_Annual_Report.pdf
+PDF PAGE: 342
+MATCHED HEADINGS: ['10 Investments in associates']
+===========================================================================
+043
+business in sustainable environmental stewardship cultivating a future
+overview context
+perspective development & climate action forward workforce
+notes to the consolidated financial statements
+10 Investments in associates
+Investment in associate 2024 2023
+(SAR ’000) (SAR ’000)
+Balance at the beginning of the year 923,046 820,717
+Dividends during the year – (3,870)
+Reclassified to disposal group classified as held for sale (27,488) –
+Share in earnings, net 138,704 106,199
+Balance at end of the Year 1,034,262 923,046
+The Group owns 35% (31 December 2023: 35%) shares of Al Rajhi Company for Cooperative
+Insurance, a Saudi Joint Stock Company. The market value as of 31 December 2024 is
+SAR 6,006 million (31 December 2023: 2,503 million).
+11 Investment properties, net
+Land Buildings Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+Cost
+At 1 January 2023 894,424 651,810 1,546,234
+Additions – 23,587 23,587
+Disposals – (327) (327)
+At 31 December 2023 894,424 675,070 1,569,494
+Additions – 16,714 16,714
+Disposals – – –
+At 31 December 2024 894,424 691,784 1,586,208
+Accumulated depreciation
+At 1 January 2023 – 181,376 181,376
+Charge for the year – 25,460 25,460
+At 31 December 2023 – 206,836 206,836
+Charge for the year – 20,734 20,734
+At 31 December 2024 – 227,570 227,570
+Net book value
+At 31 December 2024 894,424 464,214 1,358,638
+At 31 December 2023 894,424 468,234 1,362,658
+The fair value of the investment properties as at 31 December 2024 is SAR 1.5 billion
+(31 December 2023: SAR 1.5 billion)
+integrated annual report 2024

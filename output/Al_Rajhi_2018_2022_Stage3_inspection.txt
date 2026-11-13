@@ -1,0 +1,2701 @@
+
+=====================================================================================
+YEAR: 2018
+FILE: Al_Rajhi_2018_Annual_Report.pdf
+PDF PAGE: 158
+=====================================================================================
+Notes to the Consolidated Financial Statements
+651
+2017
+Retail Corporate Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+Mutajara 132,645 49,649,779 49,782,424
+Instalment sale 164,893,047 8,259,504 173,152,551
+Murabaha 414,109 14,819,442 15,233,551
+Credit cards 922,257 – 922,257
+Financing, gross 166,362,058 72,728,725 239,090,783
+Less: Allowance for impairment (2,023,434) (3,531,776) (5,555,210)
+Financing, net 164,338,624 69,196,949 233,535,573
+164,338,624 69,196,949 233,535,573
+(c) The table below summarises financing balances at 31 December that are neither past due nor impaired, past due but not
+impaired and impaired, as per the main business segments of the Group:
+2018
+Neither past due Past due but not Impaired Total Allowance for Net financing
+nor impaired impaired impairment
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Retail 170,978,735 276,300 603,457 171,858,492 (4,050,565) 167,807,927
+Corporate 62,082,584 6,267,329 1,686,855 70,036,768 (3,781,906) 66,254,862
+Total 233,061,319 6,543,629 2,290,312 241,895,260 (7,832,471) 234,062,789
+2017
+Neither past due Past due but not Impaired Total Allowance for Net financing
+nor impaired impaired impairment
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Retail 165,405,592 414,018 542,448 166,362,058 (2,023,434) 164,338,624
+Corporate 67,503,558 3,997,436 1,227,731 72,728,725 (3,531,776) 69,196,949
+Total 232,909,150 4,411,454 1,770,179 239,090,783 (5,555,210) 233,535,573
+Financing past due for less than 90 days is not treated as impaired, unless other available information proves otherwise.
+“Neither past due nor impaired” and “past due but not impaired” comprise total performing financing.
+
+=====================================================================================
+YEAR: 2018
+FILE: Al_Rajhi_2018_Annual_Report.pdf
+PDF PAGE: 159
+=====================================================================================
+Notes to the Consolidated Financial Statements
+751 7.2 Allowance for impairment of financing
+(a) The movement in the allowance for impairment of financing for the years ended 31 December is as follows:
+2018
+Retail Corporate Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+Closing allowance as at 31st December 2017 (calculated under IAS 39) 2,023,434 3,531,776 5,555,210
+Amounts restated through opening retained earnings 3A (iii) 1,863,397 1,019,291 2,882,688
+Opening impairment allowance as at 1 January 2018
+(calculated under IFRS 9) 3,886,831 4,551,067 8,437,898
+Charge for the year, net 1,774,673 982,523 2,757,196
+Bad debts written off against provision (1,610,939) (1,751,684) (3,362,623)
+Balance at the end of the year 4,050,565 3,781,906 7,832,471
+167,807,927 66,254,862 234,062,789
+2017
+Retail Corporate Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+Balance at beginning of the year 3,088,691 3,544,010 6,632,701
+Charge for the year, net 1,575,624 1,063,367 2,638,991
+Bad debts written off against provision (2,640,881) (1,075,601) (3,716,482)
+Balance at the end of the year 2,023,434 3,531,776 5,555,210
+164,338,624 69,196,949 233,535,573
+(b) The following table shows reconciliations from the opening to the closing balance of the impairment allowance for
+financings to customers at amortised cost.
+2018
+12 month Lifetime ECL not Lifetime ECL Total
+ECL credit impaired credit impaired
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Financings to customers at amortised cost
+Balance at 1 January 2018 2,643,679 4,094,076 1,700,143 8,437,898
+Transfer to 12 month ECL 411,893 (411,893) – –
+Transfer to Lifetime ECL not credit impaired (38,177) 112,134 (73,957) –
+Transfer to Lifetime ECL credit impaired (8,766) (329,629) 338,395 –
+Charge for the period 138,418 361,338 2,468,622 2,968,378
+Write-offs (497,701) (465,137) (2,399,785) (3,362,623)
+Balance as at 31 December 2018 2,649,346 3,360,889 2,033,418 8,043,653
+3,360,889 2,033,418 8,043,653
+Closing balance as at 31 December 2018 includes impairment allowance related to off balance amounting to SAR 211 Mn. which
+is accounted for in other liabilities. Closing balance of Lifetime ECL credit impaired differs from total reported Non-Performing
+Loans (NPL) due to IFRS 9 implementation.
+
+=====================================================================================
+YEAR: 2018
+FILE: Al_Rajhi_2018_Annual_Report.pdf
+PDF PAGE: 160
+=====================================================================================
+Notes to the Consolidated Financial Statements
+851 7.3 Impairment charge movement
+The details of the impairment charge on financing for the year recorded in the consolidated statement of income is as follows:
+2018 2017
+(SAR ’000) (SAR ’000)
+Charge for the year for on balance sheet 2,968,378 2,638,991
+Charge for the year for off balance sheet (211,182) –
+Recovery of written off financing, net (1,226,250) (1,091,414)
+Allowance for impairment, net 1,530,946 1,547,577
+7.4 Financing include finance lease receivables, which are as follows:
+2018 2017
+(SAR ’000) (SAR ’000)
+Gross receivables from finance lease 30,551,173 33,802,769
+Less than 1 year 4,485 1,234,258
+1 to 5 years 22,201,101 24,357,231
+Over 5 years 8,345,587 8,211,280
+30,551,173 33,802,769
+Unearned future finance income on finance lease (4,593,105) (4,903,943)
+Net receivables from finance lease 25,958,068 28,898,826
+
+=====================================================================================
+YEAR: 2018
+FILE: Al_Rajhi_2018_Annual_Report.pdf
+PDF PAGE: 161
+=====================================================================================
+Notes to the Consolidated Financial Statements
+951
+8 Property and Equipment, Net
+Property and equipment, net comprises the following as of 31 December:
+Land Buildings Leasehold land Equipment and Total
+and buildings furniture 2018
+improvements
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Cost
+At 1 January 2017 2,009,863 3,219,265 932,383 4,533,276 10,694,787
+Additions 310,996 459,651 9,288 1,034,027 1,813,962
+Disposals (263) (429) – (39,284) (39,976)
+At 31 December 2017 2,320,596 3,678,487 941,671 5,528,019 12,468,773
+Additions 23,229 502,482 34,242 959,949 1,519,902
+Disposals – – (26,159) (35,391) (61,550)
+At 31 December 2018 2,343,825 4,180,969 949,754 6,452,577 13,927,125
+Accumulated depreciation
+At 1 January 2017 – 352,187 888,632 2,968,806 4,209,625
+Charge for the year – 58,684 14,403 367,479 440,566
+Disposals – (430) – (39,115) (39,545)
+At 31 December 2017 – 410,441 903,035 3,297,170 4,610,646
+Charge for the year – 65,388 13,628 363,155 442,171
+Disposals – – – (23,279) (23,279)
+At 31 December 2018 – 475,829 916,663 3,637,046 5,029,538
+Net book value
+At 31 December 2018 2,343,825 3,705,140 33,091 2,815,531 8,897,587
+At 31 December 2017 2,320,596 3,268,046 38,636 2,230,849 7,858,127
+Buildings include work-in-progress amounting to SAR 2,172 Mn. as at 31 December 2018 (2017: SAR 1,803 Mn.).
+Equipment and furniture includes information technology-related assets having net book value of SAR 2,573 Mn. as at
+31 December 2018 (2017: SAR 2,082 Mn.).
+9 Investment Properties, Net
+Investment properties consist of properties acquired by the Group in the year 2016. The net book value of the investment
+properties approximates the fair value.
+
+=====================================================================================
+YEAR: 2018
+FILE: Al_Rajhi_2018_Annual_Report.pdf
+PDF PAGE: 162
+=====================================================================================
+Notes to the Consolidated Financial Statements
+061
+10 Other Assets, Net
+Other assets, net comprise the following as of 31 December:
+2018 2017
+(SAR ’000) (SAR ’000)
+Receivables, net 879,916 1,270,554
+Prepaid expenses 393,317 714,996
+Assets in transit subject to financing 574,905 574,921
+Accrued income 273,846 497,979
+Cheques under collection 324,636 494,009
+Advance payments 266,634 407,982
+Other real estate 72,106 147,106
+Others, net 843,885 907,917
+Total 3,629,245 5,015,464
+11 Due to Banks and Other Financial Institutions
+Due to banks and other financial institutions comprise the following as of 31 December:
+2018 2017
+(SAR ’000) (SAR ’000)
+Current accounts 925,945 1,066,474
+Banks’ time investments 6,363,679 4,456,093
+Total 7,289,624 5,522,567
+12 Customers’ Deposits
+Customers’ deposits by type comprise the following as of 31 December:
+2018 2016
+(SAR ’000) (SAR ’000)
+Demand deposits 268,416,842 251,729,768
+Customers’ time investments 18,689,225 15,917,263
+Other customer accounts 6,803,058 5,409,414
+Total 293,909,125 273,056,445
+The balance of the other customers’ accounts includes margins on letters of credit and guarantees, cheques under clearance
+and transfers.
+
+=====================================================================================
+YEAR: 2018
+FILE: Al_Rajhi_2018_Annual_Report.pdf
+PDF PAGE: 181
+=====================================================================================
+Notes to the Consolidated Financial Statements
+971 These parameters are generally derived from internally For Retail portfolio, bank uses internal LGD models to arrive
+developed statistical models and other historical data. at the LGD estimates. For Corporate portfolio, bank used
+They are adjusted to reflect forward-looking information as supervisory estimates of LGD.
+described above.
+EAD represents the expected exposure in the event of a
+PD estimates are estimates at a certain date, which are default. The Bank derives the EAD from the current exposure
+calculated based on statistical rating models, and assessed to the counterparty and potential changes to the current
+using rating tools tailored to the various categories of amount allowed under the contract including amortisation.
+counterparties and exposures. These statistical models The EAD of a financial asset is its gross carrying amount.
+are based on internally compiled data comprising both For lending commitments and financial guarantees, the
+quantitative and qualitative factors. If a counterparty or EAD includes the amount drawn, as well as potential future
+exposure migrates between ratings classes, then this will amounts that may be drawn under the contract, which are
+lead to a change in the estimate of the associated PD. PDs estimated based on historical observations and forward-
+are estimated considering the contractual maturities of looking forecasts.
+exposures and estimated prepayment rates.
+The period of exposure limits the period over which possible
+defaults are considered and thus affects the determination
+of PDs and measurement of ECLs (especially for Stage 2
+accounts with lifetime ECL).
+(x) Credit quality analysis
+(a) The following table sets out information about the credit quality of Financings measured at amortised cost.
+2018
+12 month Life time ECL not Lifetime ECL Total
+ECL credit impaired credit impaired
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Carrying amount distribution by Grades
+Grade 1-3/(Aaa - A3) 8,322,229 – – 8,322,229
+Grade (4-6)/(Baa1 - B3) 44,981,511 12,217,422 – 57,198,933
+Grade 7- Watch list/(Caa1 – C) – 2,918,751 – 2,918,751
+Non-performing – – 1,686,855 1,686,855
+Total Corporate and non-performing 53,213,740 15,136,173 1,686,855 70,036,768
+Total Retail (un-rated) 168,182,212 3,072,823 603,457 171,858,492
+Total Carrying amount 221,395,952 18,208,996 2,290,312 241,895,260
+
+=====================================================================================
+YEAR: 2018
+FILE: Al_Rajhi_2018_Annual_Report.pdf
+PDF PAGE: 183
+=====================================================================================
+Notes to the Consolidated Financial Statements
+181 (b) The tables below set out the aging of financing past due but not impaired as of 31 December:
+2018
+Age Mutajara Instalment Credit cards Total
+(SAR ’000) sale (SAR ’000)
+(SAR ’000) (SAR ’000)
+up to 30 days 5,640,509 180,122 – 5,820,631
+31-60 days 338,418 40,829 12,700 391,947
+61-90 days 288,367 26,209 16,475 331,051
+Total 6,267,294 247,160 29,175 6,543,629
+Fair value of collateral 485,726 – – 485,726
+2017
+Age Mutajara Instalment Credit cards Total
+(SAR ’000) sale (SAR ’000)
+(SAR ’000) (SAR ’000)
+up to 30 days 2,645,513 256,582 – 2,902,095
+31-60 days 437,734 82,667 10,627 531,028
+61-90 days 914,189 51,569 12,573 978,331
+Total 3,997,436 390,818 23,200 4,411,454
+Fair value of collateral 594,752 – – 594,752
+The Banks in the ordinary course of lending activities hold (c) The table below sets out gross balances of individually
+collaterals as security to mitigate credit risk in financings . impaired financing, together with the fair value of related
+These collaterals mostly include time, demand, and other collateral held by the Group as at 31 December:
+cash deposits, financial guarantees, local and international
+equities, real estate and other fixed assets. Real estate 2018
+collaterals against financing are considered as held for sale
+Retail Corporate Total
+and included in other assets. (SAR ’000) (SAR ’000) (SAR ’000)
+The collaterals are held mainly against commercial and Individually
+consumer loans and are managed against relevant impaired financing 603,457 1,686,855 2,290,312
+exposures at their net realisable values. For financial assets Fair value of collateral – 485,726 485,726
+that are credit impaired at the reporting period, quantitative
+information about the collateral held as security is needed
+to the extent that such collateral mitigates credit risk.
+2017
+Retail Corporate Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+Individually
+impaired financing 542,448 1,227,731 1,770,179
+Fair value of collateral – 594,752 594,752
+
+=====================================================================================
+YEAR: 2018
+FILE: Al_Rajhi_2018_Annual_Report.pdf
+PDF PAGE: 184
+=====================================================================================
+Notes to the Consolidated Financial Statements
+281 (d) The table below stratify credit exposures from corporate The monitoring and management of credit risk associated
+financing by ranges of loan-to-value (LTV) ratio. LTV is with these financing are made by setting approved credit
+calculated as the ratio of the gross amount of the financing limits. The Bank manages limits and controls concentrations
+or the amount committed for loan commitments to the of credit risk wherever they are identified - in particular,
+value of the collateral. The gross amounts exclude any to individual customers and groups, and to industries and
+impairment allowance. countries.
+Concentrations of credit risks arise when a number of
+2018 2017
+(SAR ’000) (SAR ’000) customers are engaged in similar business activities,
+activities in the same geographic region, or have similar
+Less than 50% 7,368,209 2,965,647 economic features that would cause their ability to meet
+51-70% 12,531,682 5,490,525 contractual obligations to be similarly affected by changes
+71-90% 20,630,702 8,113,447 in economic, political or other conditions. Concentrations
+91-100% 17,198,582 35,060,621 of credit risks indicate the relative sensitivity of the Bank’s
+performance to developments affecting a particular industry
+More than 100% 2,492,999 986,265
+or geographical location.
+Total exposure 60,222,174 52,616,505
+The Bank seeks to manage its credit risk exposure through
+diversification of its financing to ensure there is no undue
+(b) Settlement risk concentration of risks with to individuals or groups of
+customers in specific geographical locations or economic
+The Bank is also exposed to settlement risk in its dealings
+sectors.
+with other financial institutions. This risk arises when the
+Bank pays its side of the transaction to the other bank or
+The Bank manages credit risk by placing limits on the
+counterparty before receiving payment from the third party.
+amount of risk accepted in relation to individual customers
+The risk is that the third party may not pay its obligation.
+and groups, and to geographic and economic segments.
+While these exposures are short in duration but they can be
+Such risks are monitored on a regular basis and are subject
+significant. The risk is mitigated by dealing with highly rated
+to an annual or more frequent review, when considered
+counterparties, holding collateral and limiting the size of the
+necessary. Limits on the level of credit risk by product,
+exposures according to the risk rating of the counterparty.
+economic sector and by country are reviewed at least
+annually by the executive committee.
+(c) Risk limit control and mitigation policies
+The responsibility for credit risk management is Exposure to credit risk is also managed through regular
+enterprise-wide in scope. Strong risk management is analysis on the ability of customers and potential customers
+integrated into daily processes, decision making and to meet financial and contractual repayment obligations
+strategy setting, thereby making the understanding and and by revising credit limits where appropriate.
+management of credit risk the responsibility of every
+business segment. The following business units within the
+Bank assist in the credit control process:
+ Corporate Credit Unit
+ Credit Administration, Monitoring and Control Unit
+ Remedial Unit
+ Credit Policy Unit
+ Retail Credit Unit
+
+=====================================================================================
+YEAR: 2018
+FILE: Al_Rajhi_2018_Annual_Report.pdf
+PDF PAGE: 185
+=====================================================================================
+Notes to the Consolidated Financial Statements
+381 Some other specific control and mitigation measures are Commitments to extend credit represent unused portions
+outlined below: of authorisations to extend credit in the form of further
+financing products, guarantees or letters of credit. With
+c.1 Collateral
+respect to credit risk on commitments to extend credit,
+The Bank implements guidelines on the level and quality the Bank is potentially exposed to loss in an amount equal
+of specific classes of collateral, The principal collateral to the total unused commitments. However, the likely
+types are: amount of loss is less than the total unused commitments,
+as most commitments to extend credit are contingent upon
+ Mortgages over residential and commercial properties. customers maintaining specific credit standards.
+ Cash, shares, and general assets for customer.
+ Shares for Murabaha (collateralised share trading) (d) Impairment and provisioning policies
+transactions.
+Allowance for impairment is recognised for financial
+reporting purposes only for stage 3 losses that have been
+The primary purpose of these instruments is to ensure that
+incurred at the statement of financial position date based
+funds are available to a customer as required. Guarantees
+on objective evidence of impairment, and management
+and standby letters of credit carry the same credit risk as
+judgment.
+traditional banking products of the Bank.
+The table below sets out the maximum exposure to credit
+Documentary and commercial letters of credit – which are
+risk at the reporting date without considering collateral or
+written undertakings by the Bank on behalf of a customer
+other credit enhancements and includes the off-balance
+authorising a third party to draw drafts on the Bank up to a
+sheet financial instruments involving credit risks as at
+stipulated amount under specific terms and conditions, are
+31 December:
+collateralised by the underlying goods to which they relate,
+and therefore, risk is partially mitigated.
+2018 2017
+(SAR ’000) (SAR ’000)
+On-balance sheet items Investments:
+Murabaha with Saudi Government and SAMA 22,477,145 23,452,869
+Sukuk 18,195,957 10,605,139
+Due from banks and other financial institutions 30,808,011 10,709,795
+Financing, net
+Corporate 66,254,862 69,196,949
+Retail 167,807,927 164,338,624
+Total on-balance sheet items 305,543,902 278,303,376
+Off-balance sheet items:
+Letters of credit and acceptances 1,452,658 1,608,712
+Letters of guarantee 4,877,161 4,969,355
+Irrevocable commitments to extend credit 6,482,436 6,989,368
+Total off-balance sheet items 12,812,255 13,567,435
+Maximum exposure to credit risk 318,356,157 291,870,811
+The above table represents a worst case scenario of credit risk exposure to the Bank at 31 December 2018 and 2017, without
+taking account of any collateral held or other credit enhancements attached. For on-balance-sheet assets, the exposures set out
+above are based on net carrying amounts as reported in the consolidated statement of financial position.
+
+=====================================================================================
+YEAR: 2018
+FILE: Al_Rajhi_2018_Annual_Report.pdf
+PDF PAGE: 186
+=====================================================================================
+Notes to the Consolidated Financial Statements
+481 27.2 Liquidity risk The tables below summarise the maturity profile of the
+Bank’s assets and liabilities, on the basis of the remaining
+Liquidity risk is the risk that the Bank will be unable to
+maturity as of the consolidated statement of financial
+meet its payment obligations associated with its financial
+position date to the contractual maturity date.
+liabilities when they fall due and to replace funds when they
+are withdrawn. The consequence may be the failure to meet
+Management monitors the maturity profile to ensure that
+obligations to repay deposits and financing parties and
+adequate liquidity is maintained, Assets available to meet
+fulfil financing commitments. Liquidity risk can be caused
+all of the liabilities and to cover outstanding financing
+by market disruptions or by credit downgrades, which may
+commitments include cash, balances with SAMA and due
+cause certain sources of funding to become unavailable
+from banks. Further, in accordance with the Banking Control
+immediately. Diverse funding sources available to the Bank
+Law and Regulations issued by SAMA, the Bank maintains
+help mitigate this risk. Assets are managed with liquidity in
+a statutory deposit equal to a sum not less than 7% of
+mind, maintaining a conservative balance of cash and cash
+total customers’ deposits, and 4% of total other customers’
+equivalents.
+accounts. In addition to the statutory deposit, the Bank
+maintains a liquid reserve of not less than 20% of the
+Liquidity risk management process
+deposit liabilities, in the form of cash, gold or assets which
+The Bank’s liquidity management process is as monitored by can be converted into cash within a period not exceeding
+the Bank’s Asset and Liabilities Committee (ALCO), includes: 30 days. Also, the Bank has the ability to raise additional
+funds through special financing arrangements with SAMA
+ Day-to-day funding, managed by Treasury to ensure that
+including deferred sales transactions.
+requirements can be met and this includes replenishment
+of funds as they mature or are invested;
+The contractual maturities of financial assets and liabilities
+ Monitoring balance sheet liquidity ratios against internal as of 31 December based on discounted cash flows are as
+and regulatory requirements; follows. The table below reflect the expected cash flows
+ Managing the concentration and profile of debt indicated by the deposit retention history of the Group.
+maturities; Management monitors rolling forecast of the Group’s
+liquidity position and cash and cash equivalents on the basis
+ Maintain diversified funding sources; and
+of expected cash flows. This is carried out in accordance
+ Liquidity management and asset and liability
+with practice and limits set by the Group and based on the
+mismatching.
+pattern of historical deposit movement. In addition, the
+Group’s liquidity management policy involves projecting
+Monitoring and reporting take the form of analysing cash
+cash flows in major currencies and considering the level of
+flows of items with both contractual and non-contractual
+liquid assets necessary to meet these, monitoring balance
+maturities. The net cash flows are measured and ensured
+sheet liquidity ratios against internal and external regulatory
+that they are within acceptable ranges. The Treasury/
+requirements and maintaining debt financing plans.
+ALCO also monitors, the level and type of undrawn lending
+commitments, usage of overdraft facilities and the potential
+impact of contingent liabilities such as standby letters of
+credit and guarantees may have on the Bank’s liquidity
+position.
+
+=====================================================================================
+YEAR: 2019
+FILE: Al_Rajhi_2019_Annual_Report.pdf
+PDF PAGE: 63
+=====================================================================================
+7. FINANCING, NET The table below depicts the categories of financing as per main business segments at 31 December:
+7–1 Financing
+Retail Corporate Total
+2019 (SAR’000) (SAR’000) (SAR’000)
+a. Net financing as of 31 December comprises the following:
+Mutajara 811,429 43,808,144 44,619,573
+Installment sale 185,766,580 5,767,617 191,534,197
+Allowance for Murabaha 801,720 16,571,140 17,372,860
+Performing Non-performing impairment Net financing Credit cards 3,175,771 - 3,175,771
+2019 (SAR‘000) (SAR‘000) (SAR‘000) (SAR‘000)
+Financing, gross 190,555,500 66,146,901 256,702,401
+Mutajara 42,932,499 1,687,074 (3,042,329) 41,577,244
+Less: Allowance for impairment (3,832,473) (3,187,123) (7,019,596)
+Installment sale 190,952,220 581,977 (3,810,196) 187,724,001
+Financing, net 186,723,027 62,959,778 249,682,805
+Murabaha 17,372,860 - (144,794) 17,228,066
+Credit cards 3,128,029 47,742 (22,277) 3,153,494
+Total 254,385,608 2,316,793 (7,019,596) 249,682,805 Retail Corporate Total
+2018 (SAR’000) (SAR’000) (SAR’000)
+Mutajara 320,987 45,960,476 46,281,463
+Allowance for
+Performing Non-performing impairment Net financing Installment sale 168,453,798 6,820,809 175,274,607
+2018 (SAR‘000) (SAR‘000) (SAR‘000) (SAR‘000) Murabaha 373,612 15,675,735 16,049,347
+Mutajara 45,257,143 1,024,320 (2,562,159) 43,719,304 Credit cards 1,985,260 - 1,985,260
+Installment sale 174,683,066 591,541 (4,024,656) 171,249,951 Financing, gross 171,133,657 68,457,020 239,590,677
+Murabaha 15,386,777 662,570 (1,219,747) 14,829,600 Less: Allowance for impairment (4,050,565) (3,781,906) (7,832,471)
+Credit cards 1,973,379 11,881 (25,909) 1,959,351
+Financing, net 167,083,092 64,675,114 231,758,206
+Total 237,300,365 2,290,312 (7,832,471) 231,758,206
+The table below summarizes financing balances at 31 December that are neither past due nor impaired, past due but not impaired and
+impaired, as per the main business segments of the Group:
+b. The net financing by location, inside and outside the Kingdom of Saudi Arabia, as of 31 December is as follows:
+2019 Neither past due Past due but Allowance for
+nor impaired not impaired Impaired Total impairment Net financing
+Installment
+2019 (SAR’000) (SAR’000) (SAR’000) (SAR’000) (SAR’000) (SAR’000)
+Mutajara sale Murabaha Credit cards Total
+Description (SAR‘000) (SAR‘000) (SAR‘000) (SAR‘000) (SAR‘000) Retail 189,591,885 333,896 629,719 190,555,500 (3,832,473) 186,723,027
+Inside the Kingdom of Saudi Arabia 44,619,573 187,029,236 11,580,210 3,168,653 246,397,672 Corporate 60,203,638 4,256,189 1,687,074 66,146,901 (3,187,123) 62,959,778
+Outside the Kingdom of Saudi Arabia - 4,504,961 5,792,650 7,118 10,304,729 Total 249,795,523 4,590,085 2,316,793 256,702,401 (7,019,596) 249,682,805
+Gross financing 44,619,573 191,534,197 17,372,860 3,175,771 256,702,401
+Allowance for impairment (3,042,329) (3,810,196) (144,794) (22,277) (7,019,596)
+Neither past due Past due but Allowance for
+Net financing 41,577,244 187,724,001 17,228,066 3,153,494 249,682,805 nor impaired not impaired Impaired Total impairment Net financing
+2018 (SAR’000) (SAR’000) (SAR’000) (SAR’000) (SAR’000) (SAR’000)
+2018 Retail 169,473,152 276,300 603,457 170,352,909 (4,050,565) 166,302,344
+Installment Corporate 61,283,584 6,267,329 1,686,855 69,237,768 (3,781,906) 65,455,862
+Mutajara sale Murabaha Credit cards Total
+Total 230,756,736 6,543,629 2,290,312 239,590,677 (7,832,471) 231,758,206
+Description (SAR‘000) (SAR‘000) (SAR‘000) (SAR‘000) (SAR‘000)
+Inside the Kingdom of Saudi Arabia 46,281,463 170,890,940 11,824,165 1,978,461 230,975,029
+Outside the Kingdom of Saudi Arabia - 4,383,667 4,225,182 6,799 8,615,648 Financing past due for less than 90 days is not treated as impaired, unless other available information proves otherwise. ‘Neither past
+due nor impaired’ and ‘past due but not impaired’ comprise total performing financing.
+Gross financing 46,281,463 175,274,607 16,049,347 1,985,260 239,590,677
+Allowance for impairment (2,562,159) (4,024,656) (1,219,747) (25,909) (7,832,471)
+Net financing 43,719,304 171,249,951 14,829,600 1,959,351 231,758,206
+124 | BANK OF THE FUTURE Annual Report 2019 | 125
+Strategic
+Report
+Corporate
+Governance
+Financial
+Statements
+
+=====================================================================================
+YEAR: 2019
+FILE: Al_Rajhi_2019_Annual_Report.pdf
+PDF PAGE: 64
+=====================================================================================
+7-2 Allowance for impairment of financing: Closing balance as at 31 December 2019, includes impairment 7-3 Impairment charge movement
+allowance related to off balance sheet items amounting to SAR The details of the impairment charge on financing for the year
+a. The movement in the allowance for impairment of financing for the years ended 31 December is as follows (included 368 million (2018: SAR 211 million) which is accounted for in other recorded in the consolidated statement of income is as follows:
+in is the write-off amount of SAR 260 million which was written off against other financial assets). liabilities. Closing balance of Lifetime ECL credit impaired differs
+from total reported Non Performing financing (NPL) due to IFRS 9
+implementation.
+Retail Corporate Total
+2019 (SAR’000) (SAR’000) (SAR’000)
+2019 2018
+Balance at beginning of the year 4,050,565 3,781,906 7,832,471 (SAR‘000) (SAR‘000)
+Gross charge for the year 1,828,948 1,011,379 2,840,327
+Provided for the year for on balance sheet 2,840,327 2,757,196
+Bad debts written off against provision (2,047,040) (1,606,162) (3,653,202)
+Provided for the year for off balance sheet 157,187 211,182
+Balance at the end of the year 3,832,473 3,187,123 7,019,596
+Recovery of written off financing, net (1,225,249) (1,437,432)
+Allowance for financing impairment, net 1,772,265 1,530,946
+Retail Corporate Total
+2018 (SAR’000) (SAR’000) (SAR’000)
+Closing allowance as at 31 December 2017 (calculated under IAS 39) 2,023,434 3,531,776 5,555,210
+7-4 Installment sale under financing includes finance lease receivables, which are as follows:
+Amounts restated through opening retained earnings 1,863,397 1,019,291 2,882,688
+Opening impairment allowance as at 1 January 2018
+3,886,831 4,551,067 8,437,898 2019 2018
+(calculated under IFRS 9)
+(SAR‘000) (SAR‘000)
+Gross charge for the year 1,563,491 1,193,705 2,757,196
+Gross receivables from finance leases 25,261,591 30,551,173
+Bad debts written off against provision (1,399,757) (1,962,866) (3,362,623)
+Less than 1 year 367,707 4,485
+Balance at the end of the year 4,050,565 3,781,906 7,832,471
+1 to 5 years 17,072,183 22,201,101
+Over 5 years 7,821,701 8,345,587
+b. The following table shows reconciliations from the opening to the closing balance of the impairment allowance for
+25,261,591 30,551,173
+financings to customers at amortized cost
+Unearned future finance income on finance leases (3,690,399) (4,593,105)
+Lifetime ECL not Lifetime ECL Net receivables from finance leases 21,571,192 25,958,068
+12 month ECL credit impaired credit impaired Total
+2019 (SAR ‘000’) (SAR ‘000’) (SAR ‘000’) (SAR ‘000’)
+Financings to customers at amortized cost
+Balance at 1 January 2019 2,649,346 3,360,889 2,033,418 8,043,653
+Transfer to 12 month ECL 721,178 (721,178) - -
+Transfer to Lifetime ECL not credit impaired (41,307) 95,244 (53,937) -
+Transfer to Lifetime ECL credit impaired (9,290) (273,097) 282,387 -
+Charge for the year (334,105) 639,699 2,691,920 2,997,514
+Write-offs (469,302) (354,013) (2,569,887) (3,393,202)
+Balance as at 31 December 2019 2,516,520 2,747,544 2,383,901 7,647,965
+Lifetime ECL not Lifetime ECL
+12 month ECL credit impaired credit impaired Total
+2018 (SAR ‘000’) (SAR ‘000’) (SAR ‘000’) (SAR ‘000’)
+Financings to customers at amortized cost
+Balance at 1 January 2018 2,643,679 4,094,076 1,700,143 8,437,898
+Transfer to 12 month ECL 411,893 (411,893) - -
+Transfer to Lifetime ECL not credit impaired (38,177) 112,134 (73,957) -
+Transfer to Lifetime ECL credit impaired (8,766) (329,629) 338,395 -
+Charge for the period 138,418 361,338 2,468,622 2,968,378
+Write-offs (497,701) (465,137) (2,399,785) (3,362,623)
+Balance as at 31 December 2018 2,649,346 3,360,889 2,033,418 8,043,653
+126 | BANK OF THE FUTURE Annual Report 2019 | 127
+Strategic
+Report
+Corporate
+Governance
+Financial
+Statements
+
+=====================================================================================
+YEAR: 2019
+FILE: Al_Rajhi_2019_Annual_Report.pdf
+PDF PAGE: 65
+=====================================================================================
+8. PROPERTY AND EQUIPMENT, NET 9. INVESTMENT PROPERTIES, NET
+Property and equipment, net comprises the following as of 31 December:
+The net book value of the investment properties approximates the fair value.
+Leasehold land Equipment
+& buildings and Investment properties, net comprises the following as of 31 December:
+Land Buildings improvements furniture Total
+COST
+Land Buildings Total
+At 1 January 2018 2,320,596 3,827,002 941,671 5,379,504 12,468,773 (SAR‘000) (SAR‘000) (SAR‘000)
+Additions 23,229 502,482 34,242 959,949 1,519,902 COST
+Disposals - - (26,159) (35,391) (61,550) Balance at 1 January 2018 811,670 538,329 1,349,999
+At 31 December 2018 2,343,825 4,329,484 949,754 6,304,062 13,927,125 Additions - 447 447
+Additions 156 1,884,315 383,707 562,168 2,830,346 At 31 December 2018 811,670 538,776 1,350,446
+Disposals (6,096) - - (32,190) (38,286) Additions 82,753 20,727 103,480
+At 31 December 2019 2,337,885 6,213,799 1,333,461 6,834,040 16,719,185 At 31 December 2019 894,423 559,503 1,453,926
+ACCUMULATED DEPRECIATION ACCUMULATED DEPRECIATION
+At 1 January 2018, as reported previously - 410,441 903,036 3,297,169 4,610,646 Balance at 1 January 2018 - (35,994) (35,994)
+Restatement (note 37) - 2,982 441 83,764 87,187 Charge for the year - (16,862) (16,862)
+Restated balance at 1 January 2018 (note 37) - 413,423 903,477 3,380,933 4,697,833 At 31 December 2018 - (52,856) (52,856)
+Restated charge for the year (note 37) - 70,818 15,745 516,573 603,136 Charge for the year - (17,221) (17,221)
+Disposals - - - (23,279) (23,279) At 31 December 2019 - (70,077) (70,077)
+At 31 December 2018 - 484,241 919,222 3,874,227 5,277,690 NET BOOK VALUE
+Charge for the year - 373,782 77,624 608,176 1,059,582 At 31 December 2019 894,423 489,426 1,383,849
+Disposals - - - (25,334) (25,334) At 31 December 2018 811,670 485,920 1,297,590
+At 31 December 2019 - 858,023 996,846 4,457,069 6,311,938 At 1 January 2018 811,670 502,335 1,314,005
+NET BOOK VALUE
+At 31 December 2019 2,337,885 5,355,776 336,615 2,376,971 10,407,247
+At 31 December 2018 (Note 37) 2,343,825 3,845,243 30,532 2,429,835 8,649,435 10. OTHER ASSETS, NET
+At 1 January 2018 2,320,596 3,413,579 38,194 1,998,571 7,770,940 Other assets, net comprise the following as of 31 December:
+2019 2018
+Buildings include work-in-progress amounting to SAR 159 million Equipment and furniture includes information technology-
+(SAR‘000) (SAR‘000)
+as at 31 December 2019 (2018: SAR 1,595 million), and technology- related assets having net book value of SAR 2,053 million as at
+Receivables, net 1,125,228 879,916
+related assets include work-in-progress amounting to SAR 608 31 December 2019 (2018: SAR 1,372 million).
+Prepaid expenses 498,690 393,317
+million as of December 2019 (2018: SAR 419 million)
+Included in the above line items are right-of-use assets as of Assets in transit subject to financing 1,289,212 574,905
+31 December 2019 of SAR 1,290 million. (2018: SAR nil). Accrued income 294,421 273,846
+Cheques under collection 392,958 324,636
+Advance payments 386,032 266,634
+Movement in right-of-use-assets for the year ended 31 December 2019
+Other real estate 60,420 72,106
+Others, net 370,803 843,885
+Building
+(SAR‘000) Total 4,417,764 3,629,245
+Right of use asset recognised as of 1 January 2019 1,352,361
+Additions 177,738
+Amortization (239,837)
+Balance at the end of the year 1,290,262
+128 | BANK OF THE FUTURE Annual Report 2019 | 129
+Strategic
+Report
+Corporate
+Governance
+Financial
+Statements
+
+=====================================================================================
+YEAR: 2019
+FILE: Al_Rajhi_2019_Annual_Report.pdf
+PDF PAGE: 66
+=====================================================================================
+11. DUE TO BANKS AND OTHER FINANCIAL INSTITUTIONS 14. SHARE CAPITAL 15. STATUTORY AND OTHER RESERVES
+Due to banks and other financial institutions comprise the following as of 31 December: The authorized, issued and fully paid share capital of the Bank The Banking Control Law in Saudi Arabia and the By-Laws of
+consists of 2,500 million shares of SAR 10 each (2018: 1,625 the Bank require a transfer to statutory reserve at a minimum
+million shares of SAR 10 each). of 25% of the annual net income for the year. Such transfers
+2019 2018
+continue until the reserve equals the paid up share capital. This
+(SAR‘000) (SAR‘000)
+On the 4th of April 2019, the Bank’s extraordinary general reserve is presently not available for distribution.
+Current accounts 545,572 925,945
+assembly approved to increase the share capital from SAR
+Banks’ time investments 1,674,032 6,363,679
+16,250 million to SAR 25,000 million through issuance of stock Other reserves includes FVOCI investments reserve, foreign
+Total 2,219,604 7,289,624 dividends (7 shares for every 13 shares held). The amount of the currency translation reserve and employee share plan reserve.
+capital increase was transferred from retained earnings.
+The movements in FVOCI investments, foreign currency
+12. CUSTOMERS’ DEPOSITS Basic and diluted earnings per share for the year ended reserves, and employee share plan reserve are summarized as
+Customers’ deposits by type comprise the following as of 31 December: 31 December 2019 and 2018 is calculated by dividing the follows:
+net income for the year by 2,500 million shares to give a
+retrospective effect of the change in the number of shares
+2019 2018 increased as a result of the bonus shares issued. The diluted
+(SAR‘000) (SAR‘000) earnings per share is the same as the basic earnings per share.
+Demand deposits 284,299,851 268,416,842
+Customers’ time investments 22,126,226 18,689,225 Foreign Employee Re-measurement
+Other customer accounts 5,979,746 6,803,058 FVOCI currency share of employees’ end
+investments translation Plan reserve of service benefits Total
+Total 312,405,823 293,909,125
+2019 (SAR‘000) (SAR‘000) (SAR‘000) (SAR‘000) (SAR‘000)
+Balance at beginning of the year (259,717) (126,948) 37,110 - (349,555)
+Net change in fair value 178,773 - - - 178,773
+The balance of the other customers’ accounts includes margins on letters of credit and guarantees, cheques under clearance and
+Exchange difference on translation of
+transfers. - 6,371 - - 6,371
+foreign operations
+Re-measurement of employees’ end of
+Customers’ deposits by currency comprise the following as of 31 December: - - - (51,630)
+service benefits (note 25) (51,630)
+Balance at the end of the year (80,944) (120,577) 37,110 (51,630) (216,041)
+2019 2018
+(SAR‘000) (SAR‘000)
+Saudi Arabian Riyals 298,569,853 282,460,829 Foreign Employee Re-measurement
+FVOCI currency share of employees’ end
+Foreign currencies 13,835,970 11,448,296
+investments translation Plan reserve of service benefits Total
+Total 312,405,823 293,909,125
+2018 (SAR‘000) (SAR‘000) (SAR‘000) (SAR‘000) (SAR‘000)
+Balance at beginning of the year (80,130) (74,311) 37,110 - (117,331)
+Impact of adopting IFRS 9 (129,789) - - - (129,789)
+13. OTHER LIABILITIES
+Net change in fair value (49,798) - - - (49,798)
+Other liabilities comprise the following as of 31 December:
+Exchange difference on translation of
+- (52,637) - - (52,637)
+foreign operations
+2019 2018
+Balance at the end of the year (259,717) (126,948) 37,110 - (349,555)
+(SAR‘000) (SAR‘000)
+Accounts payable 4,225,376 2,877,770
+Employees’ end of service benefits liabilities (note 25) 980,304 901,970
+Accrued expenses 1,243,720 974,599
+Charities (note 32) 10,994 56,350
+Zakat payable 4,627,204 6,338,103
+Lease liability 1,294,689 -
+Other 5,887,205 3,377,437
+Total 18,269,492 14,526,229
+130 | BANK OF THE FUTURE Annual Report 2019 | 131
+Strategic
+Report
+Corporate
+Governance
+Financial
+Statements
+
+=====================================================================================
+YEAR: 2019
+FILE: Al_Rajhi_2019_Annual_Report.pdf
+PDF PAGE: 71
+=====================================================================================
+b) The Group’s credit exposure by business segments as of 31 December is as follows: ii) Credit risk grades Based on consideration of a variety of external actual and
+For corporate exposures, the Bank allocates each exposure to forecast information from published sources, the Bank
+a credit risk grade based on a variety of data that is determined formulates a forward looking adjustment to PD term structures
+Investment
+services and to be predictive of the risk of default and applying experienced to arrive at forward looking PD estimates across the lifetime
+Retail Corporate Treasury brokerage credit judgment. Credit risk grades are defined using qualitative using macroeconomic models.
+segment segment segment segment Total and quantitative factors that are indicative of risk of default.
+2019 (SAR’000) (SAR’000) (SAR’000) (SAR’000) (SAR’000) These factors vary depending on the nature of the exposure and Risk Rating 1
+Consolidated balance sheet assets 166,049,907 55,905,791 100,797,864 2,730,512 325,484,074 the type of borrower. Exceptional - Obligors of unquestioned credit standing at the
+pinnacle of credit quality.
+Commitments and contingencies excluding
+- 6,092,269 - - 6,092,269
+irrevocable commitments to extend credit Credit risk grades are defined and calibrated such that the risk
+of default occurring increases exponentially as the credit risk Risk Rating 2
+deteriorates so, for example, the difference in risk of default Excellent - Obligors of the highest quality, presently and
+Investment
+services and between credit risk grades 1 and 2 is smaller than the difference prospectively. Virtually no risk in lending to this class, Cash
+Retail Corporate Treasury brokerage between credit risk grades 2 and 3. flows reflect exceptionally large and stable margins of
+segment segment segment segment Total protection. Projected cash flows including anticipated credit
+2018 (SAR’000) (SAR’000) (SAR’000) (SAR’000) (SAR’000) Each corporate exposure is allocated to a credit risk grade at extensions indicate strong liquidity levels and debt service
+Consolidated balance sheet assets 155,728,107 52,268,997 94,240,742 2,552,885 304,790,731 initial recognition based on available information about the coverage. Balance Sheet parameters are strong, with excellent
+Commitments and contingencies excluding borrower. Exposures are subject to ongoing monitoring, which asset quality in terms of value and liquidity.
+- 6,329,819 - - 6,329,819
+irrevocable commitments to extend credit may result in an exposure being moved to a different credit risk
+grade. The monitoring of corporate exposure involves use of the Risk Rating 3
+following data. Superior - Typically obligors at the lower end of the high quality
+27. FINANCIAL RISK MANAGEMENT financing (credit facilities provided to customers) and from cash range with excellent prospects. Very good asset quality and
+•
+The Bank’s activities expose it to a variety of financial risks and and deposits held with other banks. Further, there is credit risk Information obtained during periodic review of customer liquidity. Consistently strong debt capacity and coverage. There
+those activities involve the analysis, evaluation, acceptance in certain off-balance sheet financial instruments, including files – e.g. audited financial statements, management could however be some elements, which with a low likelihood
+and management of some degree of risk or combination of guarantees relating to purchase and sale of foreign currencies, accounts, budgets and projections. might impair performance in the future.
+•
+risks. Taking risk is core to the banking business, and these letters of credit, acceptances and commitments to extend Data from credit reference agencies, press articles, changes
+risks are an inevitable consequence of participating in financial credit. Credit risk monitoring and control is performed by the in external credit ratings Risk Rating 4
+•
+markets. The Bank’s aim is therefore to achieve an appropriate CRMG, which sets parameters and thresholds for the Bank’s Actual and expected significant changes in the political, Good - Typically obligors in the high end of the medium range
+balance between risk and return and minimize potential financing activities. regulatory and technological environment of the borrower who are definitely sound with minor risk characteristics.
+adverse effects on the Bank’s financial performance. or in its business activities Elements of strength are present in such areas as liquidity,
+a) Credit risk measurement stability of margins, cash flows, diversity of assets, and lack of
+The Bank’s risk management policies, procedures and systems Credit risk grades are a primary input into the determination dependence on one type of business.
+are designed to identify and analyze these risks and to set i) Financing of the term structure of PD for exposures. The Bank collects
+appropriate risk mitigants and controls. The Bank reviews its The Bank has structured a number of financial products performance and default information about its customers Risk Rating 5
+risk management policies and systems on an ongoing basis which are in accordance with Sharia law in order to meet analyzed by segment as well as by credit risk grading. Satisfactory - These are obligors with smaller margins of debt
+to reflect changes in markets, products and emerging best the customers demand. These products are all classified as service coverage and with some elements of reduced strength.
+practices. financing assets in the Bank’s consolidated statement of iii) Generating the term structure of PD Satisfactory asset quality, liquidity, and good debt capacity and
+financial position. In measuring credit risk of financing at The Bank employs analytical techniques incorporating internal coverage. A loss year or declining earnings trend may occur, but
+Risk management is performed by the Credit and Risk a counterparty level, the Bank considers the overall credit default estimates backed by transition matrices published by the borrowers have sufficient strength and financial flexibility
+Management Group (“CRMG”) under policies approved by the worthiness of the customer based on a proprietary risk external agencies to construct PD term structures that can be to offset these issues.
+Board of Directors. The CRMG identifies and evaluates financial methodology. applied to each exposure based on the its remaining lifetime.
+risks in close co-operation with the Bank’s operating units. These PD term structures are then adjusted to incorporate the Risk Rating 6
+The most important types of risks identified by the Bank are This risk rating methodology utilizes a 10 point scale based on impact of macroeconomic outlook to arrive at a forward looking Adequate - Obligors with declining earnings, strained cash flow,
+credit risk, liquidity risk and market risk. Market risk includes quantitative and qualitative factors with seven performing estimate of PD across the lifetime. increasing leverage and/ or weakening market fundamentals
+currency risk, profit rate risk, operational risk and price risk. categories (rated 1 to 7) and three non-performing categories that indicate above average risk, such borrowers have limited
+(rated 8-10). The risk rating process is intended to advise the For retail exposure, borrower and loan specific information additional debt capacity, modest coverage, average or below
+27-1 Credit risk various independent approval authorities of the inherent risks collected at the time of application, repayment behavior etc. average asset quality and market share. Present borrower
+Credit risk is considered to be the most significant and associated with the counterparty and assist in determining are used to construct risk based segmentation using Chi- performance is satisfactory, but could be adversely affected by
+pervasive risk for the Bank. The Bank takes on exposure to suitable pricing commensurate with the associated risk. square Automatic Interaction Detection (CHAID) (or Decision developing collateral quality/ adequacy etc.
+credit risk, which is the risk that the counter-party to a financial Tree) technique. Risk segments are constructed to identify and
+transaction will fail to discharge an obligation causing the aggregate customers with similar risk characteristics. For each
+Bank to incur a financial loss. Credit risk arises principally from risk segment thus formed, PD term structures are constructed
+using historical data that can be applied to each exposure
+based on its remaining lifetime.
+140 | BANK OF THE FUTURE Annual Report 2019 | 141
+Strategic
+Report
+Corporate
+Governance
+Financial
+Statements
+
+=====================================================================================
+YEAR: 2019
+FILE: Al_Rajhi_2019_Annual_Report.pdf
+PDF PAGE: 72
+=====================================================================================
+•
+Risk Rating 7 watch-list accounts, whereby the Bank’s assessment is based Stage 1: for financial instruments where there has not been the borrower is past due more than 90 days on any material
+Very high risk - Generally undesirable business constituting on counterparty. Significant increase in credit risk assessment a significant increase in credit risk since initial recognition credit obligation to the Bank.
+an undue and unwarranted credit risk but not to the point for retail loans is carried out at customer level within same and that are not credit-impaired on origination, the Bank
+of justifying a substandard classification. No loss of principal product family. All the exposures which are considered to have recognises an allowance based on the 12-month ECL. All Overdrafts are considered as being past due once the customer
+or profit has taken place. Potential weakness might include significantly increased in credit risk are subject to lifetime ECL. accounts at origination would be classified as Stage 1. has breached an advised limit or been advised of a limit smaller
+a weakening financial condition, an unrealistic repayment than the current amount outstanding.
+program, inadequate sources of funds, or a lack of adequate The Bank considers all investment grade debt securities Stage 2: for financial instruments where there has been a
+collateral, credit information or documentation. The entity is issued by sovereigns including Gulf Corporation Council (GCC) significant increase in credit risk since initial recognition but In assessing whether a borrower is in default. the Bank
+undistinguished and mediocre. No new or incremental credits countries to have low credit risk. they are not credit-impaired, the Bank recognises an allowance considers indicators that are:
+will generally be considered for this category. for the lifetime ECL for all financings categorized in this stage
+v) Determining whether credit risk has increased based on the actual / expected behavioral maturity profile • qualitative- e.g. breaches of covenant;
+Risk Rating 8 significantly including restructuring or rescheduling of facilities. • quantitative- e.g. overdue status and non-payment on
+Substandard - Obligors in default and 90 Days Past Due on In determining whether credit risk has increased significantly another obligation of the same issuer to the Bank; and
+•
+repayment of their obligations. Unacceptable business credit. since initial recognition, the Bank uses its internal credit risk Stage 3: for credit-impaired financial instruments, the Bank based on data developed internally and obtained from
+Normal repayment is in jeopardy, and there exists well defined grading system, external risk ratings, quantitative changes in recognises the lifetime ECL. Default identification process i.e. external sources.
+weakness in support of the same. The asset is inadequately PDs , delinquency status of accounts, expert credit judgement DPD of 90 or more is assumed to be stage 3.
+protected by the current net worth and paying capacity of the and, where possible, relevant historical experience. Inputs into the assessment of whether a financial instrument
+obligor or pledged collateral. Specific provision raised as an vi) Modified financial assets is in default and their significance may vary over time to reflect
+estimate of potential loss. The credit risk of a particular exposure is deemed to have The contractual terms of a loan may be modified for a number changes in circumstances.
+increased significantly since initial recognition based on of reasons, including changing market conditions, customer
+Risk Rating 9 quantitative assessment and / or using its expert credit retention and other factors not related to a current or potential The definition of default largely aligns with that applied for the
+Doubtful - Obligors in default and 180 Days Past Due (DPD) judgment and, where possible, relevant historical experience, credit deterioration of the customer. An existing loan whose bank for regulatory purposes.
+on their contracted obligations, however in the opinion of the Bank may determine that an exposure has undergone a terms have been modified may be derecognized and the
+the management recovery/ salvage value against corporate significant increase in credit risk based on particular qualitative renegotiated loan recognized as a new loan at fair value in viii) Incorporation of forward looking information
+and real estate obligors is a possibility, and hence write-off indicators that it considers are indicative of such and whose accordance with the accounting policy. The Bank incorporates forward-looking information into both
+should be deferred. Full repayment questionable. Serious effect may not otherwise be fully reflected in its quantitative its assessment of whether the credit risk of an instrument
+problems exist to the point where a partial loss of principle analysis on a timely basis. The Bank renegotiates loans to customers in financial has increased significantly since its initial recognition and
+is likely. Weaknesses are so pronounced that on the basis of difficulties (referred to as ‘forbearance activities’ to maximize its measurement of ECL. Based on consideration of a variety
+current information, conditions and values, collection in full As a backstop, the Bank considers that a significant increase in collection opportunities and minimize the risk of default. Under of external actual and forecast information from published
+is highly improbable. Specific provision raised as an estimate credit risk occurs no later than when an asset is more than 30 the Bank’s forbearance policy, loan forbearance is granted on sources, the Bank formulates a forward looking adjustment to
+of potential loss. However, for retail obligors (except real days past due. Days past due are determined by counting the a selective basis if the debtor is currently in default on its debt PD term structures to arrive at forward looking PD estimates
+estate) and credit cards, total loss is expected. A 100% Specific number of days since the earliest elapsed due date in respect or if there is a high risk of default, there is evidence that the across the lifetime using macroeconomic models.
+Provisioning must be triggered followed by the write-off process of which full payment has not been received. Due dates are debtor made all reasonable efforts to pay under the original
+should be effected as per Al Rajhi Bank write-off policy. determined without considering any grace period that might be contractual terms and the debtor is expected to be able to meet The Bank considers scenarios in range of 3-5 years horizon
+available to the borrower. the revised terms. (consistent with forecasts available from public sources),
+Risk Rating 10 beyond which the long term average macroeconomic
+Loss - Obligors in default and 360 Days Past Due (DPD) on their The Bank monitors the effectiveness of the criteria used to The revised terms usually include extending the maturity, conditions prevail. Externally available macroeconomic
+obligations. Total loss is expected. An uncollectible assets identify significant increases in credit risk by regular reviews to changing the timing of profit payments and amending the forecasts from International Monetary Fund (IMF) and Saudi
+which does not warrant classification as an active asset. A 100% confirm that: terms of loan covenants. Both retail and corporate loans are Arabian Monetary Authority (SAMA) are used for making the
+Specific Provisioning must be triggered followed by the write-off subject to the forbearance policy. base case forecast. For other scenarios, adjustments are made
+•
+process should be effected as per Al Rajhi Bank write-off policy. the criteria are capable of identifying significant increases to base case forecasts based on expert judgement.
+in credit risk before an exposure is in default; Forbearance is a qualitative indicator of a significant increase
+iv) ECL - Significant increase in credit risk • the criteria do not align with the point in time when an in credit risk, and an expectation of forbearance may constitute
+When determining whether the risk of default on a financial asset becomes 30 days past due; and evidence that an exposure is credit-impaired/in default. A
+•
+instrument has increased significantly since initial recognition, there is no unwarranted volatility in loss allowance from customer needs to demonstrate consistently good payment
+the Bank considers reasonable and supportable information transfers between 12-month PD (stage 1) and lifetime PD behavior over a period of 12 months before the exposure is no
+that is relevant and available without undue cost or effort. This (stage 2). longer considered to be credit-impaired/ in default.
+includes both quantitative and qualitative information and
+analysis, based on the Bank’s historical experience and expert The Bank classifies its financial instruments into stage 1, stage 2 vii) Definition of ‘Default’
+credit assessment and including forward-looking information. and stage 3, based on the applied impairment methodology, as The Bank considers a financial asset to be in default when:
+described below: -
+•
+For Corporate portfolio, the Bank’s assessment of significant the borrower is unlikely to pay its credit obligations to the
+increase in credit risk is based on facility level except for Bank in full, without recourse by the Bank to actions such
+as realizing security (if any is held); or
+142 | BANK OF THE FUTURE Annual Report 2019 | 143
+Strategic
+Report
+Corporate
+Governance
+Financial
+Statements
+
+=====================================================================================
+YEAR: 2019
+FILE: Al_Rajhi_2019_Annual_Report.pdf
+PDF PAGE: 73
+=====================================================================================
+The base case represents a most-likely outcome as published by external sources. The other scenarios represent more optimistic and Life time ECL not Lifetime ECL
+more pessimistic outcomes. 12 month ECL credit impaired credit impaired Total
+2018 (SAR’000) (SAR’000) (SAR’000) (SAR’000)
+Weightage Carrying amount distribution by Grades
+Economic Indicators 2019 2018 Grade 1-3 / (Aaa - A3) 8,322,229 - - 8,322,229
+GDP growth rate 55.44% 56.29% Grade (4-6) / (Baa1 - B3) 44,092,511 12,217,422 - 56,309,933
+Government expenditure to GDP 44.56% 43.71% Grade 7- Watch list / (Caa1 – C) - 2,918,751 - 2,918,751
+Non-performing - - 1,686,855 1,686,855
+Total Corporate performing and non-performing 52,414,740 15,136,173 1,686,855 69,237,768
+Predicted relationships between the key indicators and default are based on internally compiled data comprising both Total Retail (un-rated) 166,676,629 3,072,823 603,457 170,352,909
+and loss rates on various portfolios of financial assets have been quantitative and qualitative factors. If a counterparty or Total Carrying amount 219,091,369 18,208,996 2,290,312 239,590,677
+developed based on analyzing historical data. exposure migrates between ratings classes, then this will
+lead to a change in the estimate of the associated PD. PDs are
+ix) Measurement of ECL estimated considering the contractual maturities of exposures xi) Financings
+The Bank measures an ECL at an individual instrument level and estimated prepayment rates. a) The net financing concentration risks and the related provision, by major economic sectors at 31 December are as follows:
+taking into account the projected cash flows, PD, LGD, CCF and
+discount rate. For Retail portfolio, bank uses internal LGD models to arrive Non- Allowance for
+at the LGD estimates. For Corporate portfolio, bank used 2019 Performing Performing impairment Net financing
+The key inputs into the measurement of ECL are the term supervisory estimates of LGD. Description (SAR’000) (SAR’000) (SAR’000) (SAR’000)
+structure of the following variables: Commercial 19,661,771 590,056 (424,883) 19,826,944
+EAD represents the expected exposure in the event of a default.
+Industrial 26,775,778 375,395 (283,941) 26,867,232
+1. probability of default (PD); The Bank derives the EAD from the current exposure to the
+Building and construction 2,031,147 573,757 (401,434) 2,203,470
+2. loss given default (LGD); counterparty and potential changes to the current amount
+3. exposure at default (EAD). allowed under the contract including amortization. The EAD Consumer 192,926,177 674,114 (532,585) 193,067,706
+of a financial asset is its gross carrying amount. For lending Services 12,336,880 103,471 (70,882) 12,369,469
+These parameters are generally derived from internally commitments and financial guarantees, the EAD includes Agriculture and fishing 340,974 - - 340,974
+developed statistical models and other historical data. They are the amount drawn, as well as potential future amounts that
+Others 312,881 - - 312,881
+adjusted to reflect forward-looking information as described may be drawn under the contract, which are estimated based
+Total 254,385,608 2,316,793 (1,713,725) 254,988,676
+above. on historical observations and forward-looking forecasts.
+12 month and life time ECL not credit impaired - - (5,305,871) (5,305,871)
+The period of exposure limits the period over which possible
+PD estimates are estimates at a certain date, which are defaults are considered and thus affects the determination of Balance 254,385,608 2,316,793 (7,019,596) 249,682,805
+calculated based on statistical rating models, and assessed PDs and measurement of ECLs (especially for Stage 2 accounts
+using rating tools tailored to the various categories of with lifetime ECL).
+Non- Allowance for
+counterparties and exposures. These statistical models
+2018 Performing Performing impairment Net financing
+Description (SAR’000) (SAR’000) (SAR’000) (SAR’000)
+Commercial 17,365,910 746,180 (618,139) 17,493,951
+x) Credit quality analysis
+Industrial 28,007,663 774,347 (696,112) 28,085,898
+a) The following table sets out information about the credit quality of financings measured at amortized cost as at 31 December :
+Building and construction 3,442,028 71,682 (82,411) 3,431,299
+Consumer 171,255,069 603,423 (470,400) 171,388,092
+Life time ECL not Lifetime ECL
+Services 16,295,853 80,751 (75,584) 16,301,020
+12 month ECL credit impaired credit impaired Total
+2019 (SAR’000) (SAR’000) (SAR’000) (SAR’000) Agriculture and fishing 467,960 - - 467,960
+Carrying amount distribution by Grades Others 465,882 13,929 (6) 479,805
+Grade 1-3 / (Aaa - A3) 13,547,133 - - 13,547,133 Total 237,300,365 2,290,312 (1,942,652) 237,648,025
+Grade (4-6) / (Baa1 - B3) 44,673,584 3,134,911 - 47,808,495 12 month and life time ECL not credit impaired - - (5,889,819) (5,889,819)
+Grade 7- Watch list / (Caa1 – C) - 3,104,199 - 3,104,199 Balance 237,300,365 2,290,312 (7,832,471) 231,758,206
+Non-performing - - 1,687,074 1,687,074
+Total Corporate performing and non-performing 58,220,717 6,239,110 1,687,074 66,146,901
+Total Retail (un-rated) 187,409,069 2,516,712 629,719 190,555,500
+Total Carrying amount 245,629,786 8,755,822 2,316,793 256,702,401
+144 | BANK OF THE FUTURE Annual Report 2019 | 145
+Strategic
+Report
+Corporate
+Governance
+Financial
+Statements
+
+=====================================================================================
+YEAR: 2019
+FILE: Al_Rajhi_2019_Annual_Report.pdf
+PDF PAGE: 74
+=====================================================================================
+b) The tables below set out the aging of financing past due but not impaired as at 31 December: d) The table below stratifies credit exposures from corporate or the amount committed for loan commitments to the value
+financing by ranges of loan-to-value (LTV) ratio. LTV is of the collateral. The gross amounts exclude any impairment
+calculated as the ratio of the gross amount of the financing allowance.
+Mutajara Installment sale Credit cards Total
+2019 (SAR’000) (SAR’000) (SAR’000) (SAR’000)
+Age 2019 2018
+(SAR’000) (SAR’000)
+up to 30 days 2,825,036 191,728 - 3,016,764
+Less than 50% 61,167,858 65,100,456
+31-60 days 781,204 58,130 22,802 862,136
+51-70% 480,738 835,193
+61-90 days 649,949 36,366 24,870 711,185
+71-90% 428,167 1,382,614
+Total 4,256,189 286,224 47,672 4,590,085
+91-100% - -
+Fair value of collateral 2,737,767 114,208 - 2,851,975
+More than 100% 4,070,138 1,919,505
+Total exposure 66,146,901 69,237,768
+Mutajara Installment sale Credit cards Total
+2018 (SAR’000) (SAR’000) (SAR’000) (SAR’000)
+Age
+b) Settlement risk obligations to be similarly affected by changes in economic,
+up to 30 days 5,640,509 180,122 - 5,820,631
+The Bank is also exposed to settlement risk in its dealings with political or other conditions. Concentrations of credit risks
+31-60 days 338,418 40,829 12,700 391,947
+other financial institutions. This risk arises when the Bank pays indicate the relative sensitivity of the Bank’s performance to
+61-90 days 288,367 26,209 16,475 331,051 its side of the transaction to the other bank or counterparty developments affecting a particular industry or geographical
+Total 6,267,294 247,160 29,175 6,543,629 before receiving payment from the third party. The risk is location. The Bank seeks to manage its credit risk exposure
+that the third party may not pay its obligation. While these through diversification of its financing to ensure there is no
+Fair value of collateral 1,835,781 81,014 - 1,916,795
+exposures are short in duration, they can be significant. The undue concentration of risks with to individuals or groups
+risk is mitigated by dealing with highly rated counterparties, of customers in specific geographical locations or economic
+holding collateral and limiting the size of the exposures sectors.
+The Group in the ordinary course of lending activities hold The collaterals are held mainly against commercial and according to the risk rating of the counterparty.
+collaterals as security to mitigate credit risk in financings. consumer loans and are managed against relevant exposures The Bank manages credit risk by placing limits on the amount
+These collaterals mostly include time, demand, and other cash at their net realizable values. For financial assets that are credit c) Risk limit control and mitigation policies of risk accepted in relation to individual customers and groups,
+deposits, financial guarantees, local and international equities, impaired at the reporting period, quantitative information The responsibility for credit risk management is enterprise- and to geographic and economic segments. Such risks are
+real estate and other fixed assets. Real estate collaterals against about the collateral held as security is needed to the extent that wide in scope. Strong risk management is integrated into monitored on a regular basis and are subject to an annual
+financing are considered as held for sale and included in other such collateral mitigates credit risk. daily processes, decision making and strategy setting, thereby or more frequent review, when considered necessary. Limits
+assets. making the understanding and management of credit risk the on the level of credit risk by product, economic sector and
+responsibility of every business segment. by country are reviewed at least annually by the executive
+committee.
+c) The table below sets out gross balances of individually impaired financing, together with the fair value of related collateral held The following business units within the Bank assist in the credit
+by the Group as at 31 December: control process: Exposure to credit risk is also managed through regular analysis
+on the ability of customers and potential customers to meet
+Retail Corporate Total • Corporate Credit Unit. financial and contractual repayment obligations and by
+2019 (SAR’000) (SAR’000) (SAR’000) • Credit Administration, Monitoring and Control Unit. revising credit limits where appropriate.
+Individually impaired financing 629,719 1,687,074 2,316,793 • Remedial Unit.
+•
+Fair value of collateral 214,921 522,084 737,005 Credit Policy Unit. Some other specific control and mitigation measures are
+•
+Retail Credit Unit. outlined below:
+Retail Corporate Total
+The monitoring and management of credit risk associated with i) Collateral
+2018 (SAR’000) (SAR’000) (SAR’000)
+these financing are made by setting approved credit limits. The Bank implements guidelines on the level and quality of
+Individually impaired financing 603,457 1,686,855 2,290,312
+The Bank manages limits and controls concentrations of credit specific classes of collateral. The principal collateral types are:
+Fair value of collateral 176,992 1,971,724 2,148,716
+risk wherever they are identified - in particular, to individual
+•
+customers and groups, and to industries and countries. Mortgages over residential and commercial properties.
+•
+Cash, shares, and general assets for customer.
+•
+Concentrations of credit risks arise when a number of Shares for Murabaha (collateralized share trading)
+customers are engaged in similar business activities, activities transactions.
+in the same geographic region, or have similar economic
+features that would cause their ability to meet contractual
+146 | BANK OF THE FUTURE Annual Report 2019 | 147
+Strategic
+Report
+Corporate
+Governance
+Financial
+Statements
+
+=====================================================================================
+YEAR: 2019
+FILE: Al_Rajhi_2019_Annual_Report.pdf
+PDF PAGE: 75
+=====================================================================================
+The primary purpose of these instruments is to ensure that products, guarantees or letters of credit. With respect to credit Monitoring and reporting take the form of analyzing cash flows addition to the statutory deposit, the Bank maintains a liquid
+funds are available to a customer as required. Guarantees and risk on commitments to extend credit, the Bank is potentially of items with both contractual and non-contractual maturities. reserve of not less than 20% of the deposit liabilities, in the
+standby letters of credit carry the same credit risk as traditional exposed to loss in an amount equal to the total unused The net cash flows are measured to ensure that they are within form of cash, gold or assets which can be converted into cash
+banking products of the Bank. commitments. However, the likely amount of loss is less than acceptable ranges. The Treasury / ALCO also monitors the level within a period not exceeding 30 days. Also, the Bank has the
+the total unused commitments, as most commitments to and type of undrawn lending commitments, usage of overdraft ability to raise additional funds through special financing
+Documentary and commercial letters of credit - which are extend credit are contingent upon customers maintaining facilities and the potential impact of contingent liabilities such arrangements with SAMA including deferred sales transactions.
+written undertakings by the Bank on behalf of a customer specific credit standards as standby letters of credit and guarantees may have on the
+authorizing a third party to draw drafts on the Bank up to a Bank’s liquidity position. The contractual maturities of financial assets and liabilities as
+stipulated amount under specific terms and conditions, are d) Impairment and provisioning policies of 31 December based on discounted cash flows are as follows.
+collateralized by the underlying goods to which they relate, and The table below sets out the maximum exposure to credit risk at The tables below summarize the maturity profile of the Bank’s The table below reflects the expected cash flows indicated
+therefore, risk is partially mitigated. the reporting date without considering collateral or other credit assets and liabilities, on the basis of the remaining maturity as by the deposit retention history of the Group. Management
+enhancements and includes the off-balance sheet financial of the consolidated statement of financial position date to the monitors a rolling forecast of the Group’s liquidity position and
+Commitments to extend credit represent unused portions of instruments involving credit risks as at 31 December: contractual maturity date. cash and cash equivalents on the basis of expected cash flows.
+authorizations to extend credit in the form of further financing This is carried out in accordance with practice and limits set
+Management monitors the maturity profile to ensure that by the Group and based on the pattern of historical deposit
+adequate liquidity is maintained. Assets available to meet movements. In addition, the Group’s liquidity management
+2019 2018 liabilities and to cover outstanding financing commitments policy involves projecting cash flows in major currencies and
+On-balance sheet items (SAR‘000) (SAR‘000) include cash, balances with SAMA and due from banks. considering the level of liquid assets necessary to meet these,
+Investments, net: Further, in accordance with the Banking Control Law and monitoring balance sheet liquidity ratios against internal
+Murabaha with Saudi Government and SAMA 24,991,978 22,477,145 Regulations issued by SAMA, the Bank maintains a statutory and external regulatory requirements and maintaining debt
+deposit equal to a sum not less than 7% of total customers’ financing plans.
+Sukuk 18,751,109 18,167,620
+deposits, and 4% of total other customers’ accounts. In
+Due from banks and other financial institutions 32,058,182 32,387,760
+Financing, net
+Corporate 62,959,778 65,455,862 Less than 3 3 to 12 Over 5 No Fixed
+months months 1 to 5 years years Maturity Total
+Retail 186,723,027 166,302,344
+2019 (SAR’000) (SAR’000) (SAR’000) (SAR’000) (SAR’000) (SAR’000)
+Total on-balance sheet items 325,484,074 304,790,731
+Assets
+Off-balance sheet items:
+Cash and balance with SAMA and other central banks 10,855,000 - - - 28,439,099 39,294,099
+Letters of credit and acceptances 1,118,090 1,452,658
+Due from banks and other financial institutions 11,494,160 6,575,839 13,988,183 - - 32,058,182
+Letters of guarantee 4,974,179 4,877,161
+Financing, net
+Irrevocable commitments to extend credit 11,636,094 6,482,436
+Mutajara 13,875,181 11,750,437 12,908,065 3,043,561 - 41,577,244
+Total off-balance sheet items 17,728,363 12,812,255 Installment sale 12,151,486 29,194,865 97,755,730 48,621,920 - 187,724,001
+Maximum exposure to credit risk 343,212,437 317,602,986 Murabaha 3,771,541 4,221,613 3,878,893 5,356,019 - 17,228,066
+Credit cards 1,447,050 731,273 975,171 - - 3,153,494
+The exposures set out above are based on net carrying Liquidity risk management process Investments, net
+amounts as reported in the consolidated statement of The Bank’s liquidity management process is as monitored Investment in an associate - - - - 196,235 196,235
+financial position. by the Bank’s Asset and Liabilities Committee (ALCO), and
+Investments held at amortized cost 2,566,987 - 16,089,945 24,286,155 - 42,943,087
+includes:
+FVSI investments - - 800,000 - 1,230,711 2,030,711
+27-2 Liquidity risks
+• FVOCI investments - - - - 1,672,597 1,672,597
+Liquidity risk is the risk that the Bank will be unable to Day-to-day funding, managed by Treasury to ensure
+meet its payment obligations associated with its financial that requirements can be met, and this includes Other assets, net - - - - 16,208,860 16,208,860
+liabilities when they fall due and to replace funds when replenishment of funds as they mature or are invested; Total Liabilities 56,161,405 52,474,027 146,395,987 81,307,655 47,747,502 384,086,576
+•
+they are withdrawn. The consequence may be the failure to Monitoring balance sheet liquidity ratios against internal Due to banks and other financial institutions 1,885,035 - - - 334,569 2,219,604
+meet obligations to repay deposits and financing parties and and regulatory requirements;
+Demand deposits - - - - 284,299,851 284,299,851
+•
+fulfill financing commitments. Liquidity risk can be caused Managing the concentration and profile of debt
+Customers' time investments 17,095,711 4,578,411 450,331 1,773 - 22,126,226
+by market disruptions or by credit downgrades, which may maturities;
+cause certain sources of funding to become unavailable • Maintaining diversified funding sources; and Other customer accounts 1,569,561 2,072,232 2,337,953 - - 5,979,746
+immediately. Diverse funding sources available to the Bank • Liquidity management and asset and liability Other liabilities - - - - 18,269,492 18,269,492
+help mitigate this risk. Assets are managed with liquidity in mismatching. Total Liabilities 20,550,307 6,650,643 2,788,284 1,773 302,903,912 332,894,919
+mind, maintaining a conservative balance of cash and cash
+Gap 35,611,098 45,823,384 143,607,703 81,305,882 (255,156,410) 51,191,657
+equivalents.
+148 | BANK OF THE FUTURE Annual Report 2019 | 149
+Strategic
+Report
+Corporate
+Governance
+Financial
+Statements
+
+=====================================================================================
+YEAR: 2020
+FILE: Al_Rajhi_2020_Annual_Report.pdf
+PDF PAGE: 87
+=====================================================================================
+Notes to the Consolidated Financial Statements Financial Statements Financial Statements Notes to the Consolidated Financial Statements
+861 961
+(e) The following is an analysis of foreign investments according to investment categories as at 31 December:
+2020 2019 2019
+(SAR ’000) (SAR ’000)
+Performing Non-performing Allowance for Net financing
+impairment
+Investments held at amortised cost (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Sukuk 3,766,053 1,128,857
+Mutajara 42,932,499 1,687,074 (3,042,329) 41,577,244
+FVOCI investments
+Instalment sale 190,952,220 581,977 (3,810,196) 187,724,001
+Sukuk 604,332 –
+Murabaha 17,372,860 – (144,794) 17,228,066
+Equity investments 21,309 21,274
+Credit cards 3,128,029 47,742 (22,277) 3,153,494
+Investments held as FVSI
+Total 254,385,608 2,316,793 (7,019,596) 249,682,805
+Mutual funds 190,843 13,409
+Total 4,582,537 1,163,540
+(b) The net financing by location, inside and outside the Kingdom of Saudi Arabia, as of 31 December is as follows:
+2020
+(f) The following is an analysis of investments according to counterparties as at 31 December:
+Mutajara Instalment sale Murabaha Credit cards Total
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+2020 2019
+(SAR ’000) (SAR ’000)
+Description
+Government and quasi government 45,718,805 41,780,947 Inside the Kingdom of Saudi Arabia 40,227,228 255,124,933 14,595,825 3,345,758 313,293,744
+Banks and other financial institutions 5,091,120 800,000 Outside the Kingdom of Saudi Arabia – 4,753,506 5,130,002 6,205 9,889,713
+Companies 6,956,445 3,053,242
+Gross financing 40,227,228 259,878,439 19,725,827 3,351,963 323,183,457
+Mutual funds 2,545,864 1,230,711
+Allowance for impairment (2,995,894) (4,398,923) (55,734) (20,805) (7,471,356)
+Less: Impairment (Stage 1) (26,962) (22,270)
+Net financing 37,231,334 255,479,516 19,670,093 3,331,158 315,712,101
+Net investments 60,285,272 46,842,630
+2019
+7 Financing, Net
+Mutajara Instalment sale Murabaha Credit cards Total
+7.1 Financing
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+(a) Net financing as of 31 December comprises the following:
+Description
+2020 Inside the Kingdom of Saudi Arabia 44,619,573 187,029,236 11,580,210 3,168,653 246,397,672
+Performing Non-performing Allowance for Net financing Outside the Kingdom of Saudi Arabia – 4,504,961 5,792,650 7,118 10,304,729
+impairment
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) Gross financing 44,619,573 191,534,197 17,372,860 3,175,771 256,702,401
+Allowance for impairment (3,042,329) (3,810,196) (144,794) (22,277) (7,019,596)
+Mutajara 38,536,363 1,690,865 (2,995,894) 37,231,334
+Net financing 41,577,244 187,724,001 17,228,066 3,153,494 249,682,805
+Instalment sale 259,150,038 728,401 (4,398,923) 255,479,516
+Murabaha 19,725,827 – (55,734) 19,670,093
+Credit cards 3,326,115 25,848 (20,805) 3,331,158
+Total 320,738,343 2,445,114 (7,471,356) 315,712,101
+
+=====================================================================================
+YEAR: 2020
+FILE: Al_Rajhi_2020_Annual_Report.pdf
+PDF PAGE: 88
+=====================================================================================
+Notes to the Consolidated Financial Statements Financial Statements Financial Statements Notes to the Consolidated Financial Statements
+071 171
+The table below depicts the categories of financing as per main business segments at 31 December:
+2020 2019
+Retail Corporate Total Neither past due Past due but not Impaired Total Allowance for Net financing
+(SAR ’000) (SAR ’000) (SAR ’000) nor impaired impaired impairment
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Mutajara 1,202,886 39,024,342 40,227,228
+Retail 187,434,532 2,491,249 629,719 190,555,500 (3,832,473) 186,723,027
+Instalment sale 250,470,267 9,408,172 259,878,439
+Corporate 58,325,789 6,134,038 1,687,074 66,146,901 (3,187,123) 62,959,778
+Murabaha – 19,725,827 19,725,827
+Credit cards 3,351,963 – 3,351,963 Total 245,760,321 8,625,287 2,316,793 256,702,401 (7,019,596) 249,682,805
+Financing, gross 255,025,116 68,158,341 323,183,457
+Less: Allowance for impairment (4,365,761) (3,105,595) (7,471,356) Financing past due for less than 90 days is not treated as impaired, unless other available information proves otherwise.
+“Neither past due nor impaired” and “past due but not impaired” comprise total performing financing.
+Financing, net 250,659,355 65,052,746 315,712,101
+7.2 Allowance for impairment of financing
+2019 (a) The movement in the allowance for impairment of financing for the years ended 31 December is as follows (included in the
+write-off on amount of SAR 260 Mn. which was written off against other financial assets):
+Retail Corporate Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+2020
+Mutajara 811,429 43,808,144 44,619,573 Retail Corporate Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+Instalment sale 185,766,580 5,767,617 191,534,197
+Murabaha 801,720 16,571,140 17,372,860
+Balance at beginning of the year 3,832,473 3,187,123 7,019,596
+Credit cards 3,175,771 – 3,175,771
+Gross charge for the year 2,209,585 1,008,710 3,218,295
+Financing, gross 190,555,500 66,146,901 256,702,401 Bad debts written off against provision (1,676,297) (1,090,238) (2,766,535)
+Less: Allowance for impairment (3,832,473) (3,187,123) (7,019,596) Balance at the end of the year 4,365,761 3,105,595 7,471,356
+Financing, net 186,723,027 62,959,778 249,682,805
+2019
+(c) The table below summarises financing balances at 31 December that are neither past due nor impaired, past due but not
+Retail Corporate Total
+impaired and impaired, as per the main business segments of the Group:
+(SAR ’000) (SAR ’000) (SAR ’000)
+2020
+Balance at beginning of the year 4,050,565 3,781,906 7,832,471
+Neither past due Past due but not Impaired Total Allowance for Net financing Gross charge for the year 1,828,948 1,011,379 2,840,327
+nor impaired impaired impairment
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) Bad debts written off against provision (2,047,040) (1,606,162) (3,653,202)
+Balance at the end of the year 3,832,473 3,187,123 7,019,596
+Retail 250,651,757 3,619,110 754,249 255,025,116 (4,365,761) 250,659,355
+Corporate 60,624,852 5,842,624 1,690,865 68,158,341 (3,105,595) 65,052,746
+Total 311,276,609 9,461,734 2,445,114 323,183,457 (7,471,356) 315,712,101
+
+=====================================================================================
+YEAR: 2020
+FILE: Al_Rajhi_2020_Annual_Report.pdf
+PDF PAGE: 89
+=====================================================================================
+Notes to the Consolidated Financial Statements Financial Statements Financial Statements Notes to the Consolidated Financial Statements
+271 371
+(b) The following table shows reconciliations from the opening to the closing balance of the impairment allowance for financings
+to customers at amortised cost.
+2020 2020
+12 month Lifetime ECL not Lifetime ECL Total Retail 12 month Lifetime ECL not Lifetime ECL Total
+ECL credit impaired credit impaired ECL credit impaired credit impaired
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Financings to customers at amortised cost Financings to customers at amortised cost
+Balance at 1 January 2020 2,224,089 3,090,301 2,333,575 7,647,965 Balance at 1 January 2020 1,656,406 1,662,188 773,878 4,092,472
+Transfer to 12 month ECL 256,884 (256,884) – – Transfer to 12 month ECL 206,493 (206,493) – –
+Transfer to Lifetime ECL not credit impaired (65,311) 118,509 (53,198) – Transfer to Lifetime ECL not credit impaired (53,588) 106,625 (53,037) –
+Transfer to Lifetime ECL credit impaired (15,473) (247,993) 263,466 – Transfer to Lifetime ECL credit impaired (10,890) (60,716) 71,606 –
+Charge for the year 349,924 415,810 2,652,691 3,418,425 Charge for the year 400,113 371,282 1,438,190 2,209,585
+Write-offs (345,799) (309,824) (2,371,249) (3,026,872) Write-offs (345,799) (309,824) (1,280,673) (1,936,296)
+Balance as at 31 December 2020 2,404,314 2,809,919 2,825,285 8,039,518 Balance as at 31 December 2020 1,852,735 1,563,062 949,964 4,365,761
+2019 2019
+12 month Lifetime ECL not Lifetime ECL Total Retail 12 month Lifetime ECL not Lifetime ECL Total
+ECL credit impaired credit impaired ECL credit impaired credit impaired
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Financings to customers at amortised cost Financings to customers at amortised cost
+Balance at 1 January 2019 2,630,470 3,570,795 1,842,389 8,043,653 Balance at 1 January 2019 2,242,794 1,115,136 692,635 4,050,565
+Transfer to 12 month ECL 713,995 (713,995) – – Transfer to 12 month ECL 236,154 (236,154) – –
+Transfer to Lifetime ECL not credit impaired (38,929) 71,051 (32,122) – Transfer to Lifetime ECL not credit impaired (32,913) 65,035 (32,122) –
+Transfer to Lifetime ECL credit impaired (9,902) (252,175) 262,077 – Transfer to Lifetime ECL credit impaired (6,986) (71,995) 78,981 –
+Charge for the year (602,243) 768,639 2,831,119 2,997,515 Charge for the year (313,340) 1,144,178 998,110 1,828,948
+Write-offs (469,302) (354,013) (2,569,887) (3,393,203) Write-offs (469,302) (354,013) (963,726) (1,787,041)
+Balance as at 31 December 2019 2,224,089 3,090,301 2,333,575 7,647,965 Balance as at 31 December 2019 1,656,407 1,662,187 773,878 4,092,472
+Closing balance as at 31 December 2020 includes impairment allowance related to off balance sheet items amounting to
+SAR 568 Mn. (2019: SAR 368 Mn.) which is accounted for in other liabilities. Closing balance of Lifetime ECL credit impaired differs
+from total reported Non-Performing Loans (NPL) due to IFRS 9 implementation.
+
+=====================================================================================
+YEAR: 2020
+FILE: Al_Rajhi_2020_Annual_Report.pdf
+PDF PAGE: 90
+=====================================================================================
+Notes to the Consolidated Financial Statements Financial Statements Financial Statements Notes to the Consolidated Financial Statements
+471 571
+2020 2020
+Corporate 12 month Lifetime ECL not Lifetime ECL Total 12 month Lifetime ECL not Lifetime ECL Total
+ECL credit impaired credit impaired ECL credit impaired credit impaired
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Financings to customers at amortised cost Financings to customers at amortised cost
+Balance at 1 January 2020 567,683 1,428,113 1,559,697 3,555,493 Balance at 1 January 2020 244,233,853 9,730,883 2,737,665 256,702,401
+Transfer to 12 month ECL 50,391 (50,391) – – Transfer to 12 month ECL 1,449,420 (1,449,420) – –
+Transfer to Lifetime ECL not credit impaired (11,723) 11,884 (161) – Transfer to Lifetime ECL not credit impaired (3,152,175) 3,257,063 (104,888) –
+Transfer to Lifetime ECL credit impaired (4,582) (187,278) 191,860 – Transfer to Lifetime ECL credit impaired (612,722) (743,352) 1,356,074 –
+Charge for the year (50,190) 44,529 1,214,502 1,208,841 Write-offs (345,799) (309,824) (2,371,249) (3,026,872)
+Write-offs – – (1,090,577) (1,090,577) New Business/Movement 65,885,808 1,787,599 1,834,522 69,507,929
+Balance as at 31 December 2020 551,579 1,246,857 1,875,321 3,673,757 Balance as at 31 December 2020 307,458,385 12,272,949 3,452,124 323,183,458
+2019 2019
+Corporate 12 month Lifetime ECL not Lifetime ECL Total 12 month Lifetime ECL not Lifetime ECL Total
+ECL credit impaired credit impaired ECL credit impaired credit impaired
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Financings to customers at amortised cost Financings to customers at amortised cost
+Balance at 1 January 2019 387,676 2,455,658 1,149,754 3,993,088 Balance at 1 January 2019 230,756,736 6,543,629 2,290,312 239,590,677
+Transfer to 12 month ECL 477,841 (477,841) – – Transfer to 12 month ECL 3,473,536 (3,473,536) – –
+Transfer to Lifetime ECL not credit impaired (6,016) 6,016 – – Transfer to Lifetime ECL not credit impaired (1,427,741) 1,480,118 (52,377) –
+Transfer to Lifetime ECL credit impaired (2,916) (180,181) 183,096 – Transfer to Lifetime ECL credit impaired (175,895) (679,980) 855,875 –
+Charge for the year (288,903) (375,539) 1,833,009 1,168,567 Write-offs (469,302) (354,013) (2,569,887) (3,393,202)
+Write-offs – – (1,606,162) (1,606,162) New Business/Movement 12,076,518 6,214,665 2,213,743 20,504,926
+Balance as at 31 December 2019 567,683 1,428,113 1,559,697 3,555,493 Balance as at 31 December 2019 244,233,852 9,730,883 2,737,666 256,702,401
+For Corporate opening balance will be higher by SAR 211 Mn. for off balance provision and the closing will be higher by
+SAR 368 Mn. for off balance provision in 2019. For 2020 the total includes off balance sheet provision of SAR 568 Mn.
+
+=====================================================================================
+YEAR: 2020
+FILE: Al_Rajhi_2020_Annual_Report.pdf
+PDF PAGE: 99
+=====================================================================================
+Notes to the Consolidated Financial Statements Financial Statements Financial Statements Notes to the Consolidated Financial Statements
+291 391
+2019 2019
+Retail segment Corporate Treasury Investment Total Retail segment Corporate Treasury Investment services Total
+segment segment services and segment segment and brokerage
+brokerage segment
+segment (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Consolidated balance sheet assets 186,723,027 62,959,778 73,070,757 2,730,512 325,484,074
+Total assets 208,945,668 59,406,741 112,968,906 2,765,261 384,086,576
+Commitments and contingencies
+Total liabilities 289,628,309 34,753,212 8,376,081 137,317 332,894,919 excluding irrevocable commitments
+to extend credit – 6,189,104 – – 6,189,104
+Gross financing and investments income
+from external customers 11,115,534 3,329,362 2,493,337 24,350 16,962,583
+Inter-segment operating income/(expense) 1,432,229 (1,117,680) (314,549) – –
+27 Financial Risk Management (a) Credit risk measurement
+Gross financing and investment income 12,547,763 2,211,682 2,178,788 24,350 16,962,583
+The Bank’s activities expose it to a variety of financial risks and (i) Financing
+Return on customers’, banks’ and
+those activities involve the analysis, evaluation, acceptance and
+financial institutions’ time investments (221,657) (127,114) (186,089) – (534,860) The Bank has structured a number of financial products
+management of some degree of risk or combination of risks.
+which are in accordance with Sharia law in order to meet
+Net financing and investment income 12,326,106 2,084,568 1,992,699 24,350 16,427,723 Taking risk is core to the banking business, and these risks are
+the customers demand. These products are all classified as
+an inevitable consequence of participating in financial markets.
+Fees from banking services, net 971,089 366,932 252,103 397,243 1,987,367 financing assets in the Bank’s consolidated statement of
+The Bank’s aim is therefore to achieve an appropriate balance
+Exchange income, net 159,805 67,405 546,886 – 774,096 financial position. In measuring credit risk of financing at
+between risk and return and minimise potential adverse effects
+a counterparty level, the Bank considers the overall credit
+Other operating income, net 133,815 13,017 106,661 41,785 295,278 on the Bank’s financial performance.
+worthiness of the customer based on a proprietary risk
+Total operating income 13,590,815 2,531,922 2,898,349 463,378 19,484,464 methodology. This risk rating methodology utilises a 10 point
+The Bank’s risk management policies, procedures and systems
+scale based on quantitative and qualitative factors with seven
+Depreciation and amortisation (983,974) (14,234) (54,958) (6,416) (1,059,582) are designed to identify and analyse these risks and to set
+performing categories (rated 1 to 7) and three non-performing
+appropriate risk mitigants and controls. The Bank reviews its risk
+Impairment charge for financing and categories (rated 8-10). The risk rating process is intended to
+management policies and systems on an ongoing basis to reflect
+other financial assets, net (1,713,370) (61,373) 2,478 – (1,772,265) advise the various independent approval authorities of the
+changes in markets, products and emerging best practices.
+Other operating expenses (4,467,064) (305,892) (407,238) (146,065) (5,326,259) inherent risks associated with the counterparty and assist
+in determining suitable pricing commensurate with the
+Total operating expenses (7,164,408) (381,499) (459,718) (152,481) (8,158,106) Risk management is performed by the Credit and Risk
+associated risk.
+Management Group (“CRMG”) under policies approved by the
+Income before Zakat 6,426,407 2,150,423 2,438,631 310,897 11,326,358 Board of Directors. The CRMG identifies and evaluates financial
+(ii) Credit risk grades
+risks in close co-operation with the Bank’s operating units. The
+most important types of risks identified by the Bank are credit For corporate exposures, the Bank allocates each exposure to a
+(b) The Group’s credit exposure by business segments as of 31 December is as follows: risk, liquidity risk and market risk. Market risk includes currency credit risk grade based on a variety of data that is determined
+risk, profit rate risk, operational risk and price risk. to be predictive of the risk of default and applying experienced
+2020 credit judgment. Credit risk grades are defined using qualitative
+27.1 Credit risk and quantitative factors that are indicative of risk of default.
+Retail segment Corporate Treasury Investment services Total
+segment segment and brokerage Credit risk is considered to be the most significant and These factors vary depending on the nature of the exposure
+segment and the type of borrower.
+pervasive risk for the Bank. The Bank takes on exposure to
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+credit risk, which is the risk that the counter-party to a financial
+Credit risk grades are defined and calibrated such that the
+transaction will fail to discharge an obligation causing the
+Consolidated balance sheet assets 250,659,355 65,052,746 79,241,453 3,337,170 398,290,724 risk of default occurring increases exponentially as the credit
+Bank to incur a financial loss. Credit risk arises principally from
+risk deteriorates so, for example, the difference in risk of
+Commitments and contingencies financing (credit facilities provided to customers) and from cash
+default between credit risk grades 1 and 2 is smaller than the
+excluding irrevocable commitments and deposits held with other banks. Further, there is credit risk
+difference between credit risk grades 2 and 3.
+to extend credit – 8,493,389 – – 8,493,389 in certain off-balance sheet financial instruments, including
+guarantees relating to purchase and sale of foreign currencies,
+letters of credit, acceptances and commitments to extend
+credit. Credit risk monitoring and control is performed by the
+CRMG which sets parameters and thresholds for the Bank’s
+financing activities.
+
+=====================================================================================
+YEAR: 2020
+FILE: Al_Rajhi_2020_Annual_Report.pdf
+PDF PAGE: 100
+=====================================================================================
+Notes to the Consolidated Financial Statements Financial Statements Financial Statements Notes to the Consolidated Financial Statements
+491 591
+Each corporate exposure is allocated to a credit risk grade at Risk rating 1 Risk rating 7 (iv) ECL – Significant increase in credit risk
+initial recognition based on available information about the Exceptional – Obligors of unquestioned credit standing at the Very high risk – Generally undesirable business constituting When determining whether the risk of default on a financial
+borrower. Exposures are subject to ongoing monitoring, which pinnacle of credit quality. an undue and unwarranted credit risk but not to the point instrument has increased significantly since initial recognition,
+may result in an exposure being moved to a different credit risk of justifying a substandard classification. No loss of principal the Bank considers reasonable and supportable information
+grade. The monitoring of corporate exposure involves use of Risk rating 2 or profit has taken place. Potential weakness might include that is relevant and available without undue cost or effort. This
+the following data. Excellent – Obligors of the highest quality, presently and a weakening financial condition, an unrealistic repayment includes both quantitative and qualitative information and
+prospectively. Virtually no risk in lending to this class, Cash program, inadequate sources of funds, or a lack of adequate analysis, based on the Bank’s historical experience and expert
+y Information obtained during periodic review of customer flows reflect exceptionally large and stable margins of collateral, credit information or documentation. The entity is credit assessment and including forward-looking information.
+files – e.g. audited financial statements, management protection. Projected cash flows including anticipated credit undistinguished and mediocre. No new or incremental credits
+accounts, budgets and projections. extensions indicate strong liquidity levels and debt service will generally be considered for this category. For Corporate portfolio, the Bank’s assessment of significant
+y Data from credit reference agencies, press articles, changes coverage. Balance Sheet parameters are strong, with excellent increase in credit risk is based on facility level except for
+in external credit ratings. asset quality in terms of value and liquidity. Risk rating 8 watch-list accounts, whereby the Bank’s assessment is based
+y Actual and expected significant changes in the political, Substandard – Obligors in default and 90 Days Past Due on on counterparty. Significant increase in credit risk assessment
+regulatory and technological environment of the borrower or Risk rating 3 repayment of their obligations. Unacceptable business credit. for retail loans is carried out at customer level within same
+in its business activities. Superior – Typically obligors at the lower end of the high Normal repayment is in jeopardy, and there exists well defined product family. All the exposures which are considered to have
+quality range with excellent prospects. Very good asset quality weakness in support of the same. The asset is inadequately significantly increased in credit risk are subject to lifetime ECL.
+Credit risk grades are a primary input into the determination and liquidity. Consistently strong debt capacity and coverage. protected by the current net worth and paying capacity of the
+of the term structure of PD for exposures. The Bank collects There could however be some elements, which with a low obligor or pledged collateral. Specific provision raised as an The Bank considers all investment grade debt securities issued
+performance and default information about its customers likelihood might impair performance in the future. estimate of potential loss. by sovereigns including Gulf Corporation Council (GCC)
+analysed by segment as well as by credit risk grading. countries to have low credit risk.
+Risk rating 4 Risk rating 9
+(iii) Generating the term structure of PD Good – Typically obligors in the high end of the medium Doubtful – Obligors in default and 180 Days Past Due (DPD) (v) Determining whether credit risk has increased
+The Bank employs analytical techniques incorporating internal range who are definitely sound with minor risk characteristics. on their contracted obligations, however in the opinion of the significantly
+default estimates backed by transition matrices published by Elements of strength are present in such areas as liquidity, management recovery/salvage value against corporate and In determining whether credit risk has increased significantly
+external agencies to construct PD term structures that can be stability of margins, cash flows, diversity real estate obligors is a possibility, and hence write-off should since initial recognition, the Bank uses its internal credit risk
+applied to each exposure based on the its remaining lifetime. of assets, and lack of dependence on one type of business. be deferred. Full repayment questionable. Serious problems grading system, external risk ratings, quantitative changes in
+exist to the point where a partial loss of principle is likely.
+These PD tern structures are then adjusted to incorporate PDs, delinquency status of accounts, expert credit judgement
+the impact of macroeconomic outlook to arrive at a forward Risk rating 5 Weaknesses are so pronounced that on the basis of current and, where possible, relevant historical experience.
+information, conditions and values, collection in full is highly
+looking estimate of PD across the lifetime. Satisfactory – These are obligors with smaller margins of debt
+improbable. Specific provision raised as an estimate of potential
+service coverage and with some elements of reduced strength. The credit risk of a particular exposure is deemed to have
+loss. However, for retail obligors (except real estate) and credit
+For retail exposure, borrower and loan specific information Satisfactory asset quality, liquidity, and good debt capacity increased significantly since initial recognition base on
+cards, total loss is expected. A 100% Specific Provisioning
+collected at the time of application, repayment behaviour and coverage. A loss year or declining earnings trend may quantitative assessment and/or using its expert credit
+must be triggered followed by the write-off process should be
+etc. are used to construct risk based segmentation using occur, but the borrowers have sufficient strength and financial judgment and, where possible, relevant historical experience,
+effected as per Al Rajhi Bank write-off policy.
+Chi-square Automatic Interaction Detection (CHAID) flexibility to offset these issues. the Bank may determine that an exposure has undergone a
+(or Decision Tree) technique. Risk segments are constructed significant increase in credit risk based on particular qualitative
+Risk rating 10
+to identify and aggregate customer with similar risk Risk rating 6 indicators that it considers are indicative of such and whose
+characteristics. For each risk segment thus formed, PD term Loss – Obligors in default and 360 Days Past Due (DPD) effect may not otherwise be fully reflected in its quantitative
+Adequate – Obligors with declining earnings, strained
+structures are constructed using historical data that can be on their obligations. Total loss is expected. An uncollectible analysis on a timely basis.
+cash flow, increasing leverage and/or weakening market
+applied to each exposure based on its remaining lifetime. assets which does not warrant classification as an active asset.
+fundamentals that indicate above average risk, such borrowers
+A 100% Specific Provisioning must be triggered followed by As a backstop, the Bank considers that a significant increase in
+have limited additional debt capacity, modest coverage, average
+Based on consideration of a variety of external actual and the write-off process should be effected as per Al Rajhi Bank credit risk occurs no later than when an asset is more than 30
+or below average asset quality and market share. Present
+forecast information from published sources, the Bank write-off policy. days past due. Days past due are determined by counting the
+borrower performance is satisfactory, but could be adversely
+formulates a forward looking adjustment to PD term structures number of days since the earliest elapsed due date in respect
+affected by developing collateral quality/adequacy etc.
+to arrive at forward looking PD estimates across the lifetime of which full payment has not been received. Due dates are
+using macro economic models. determined without considering any grace period that might
+be available to the borrower.
+
+=====================================================================================
+YEAR: 2020
+FILE: Al_Rajhi_2020_Annual_Report.pdf
+PDF PAGE: 101
+=====================================================================================
+Notes to the Consolidated Financial Statements Financial Statements Financial Statements Notes to the Consolidated Financial Statements
+691 791
+The Bank monitors the effectiveness of the criteria used to The Bank renegotiates loans to customers in financial (viii) Incorporation of forward looking information
+identify significant increases in credit risk by regular reviews to difficulties (referred to as ‘forbearance activities’ to maximise Economic Indicators Weightage
+The Bank incorporates forward-looking information into both 2020
+confirm that: collection opportunities and minimise the risk of default. Under
+its assessment of whether the credit risk of an instrument (%)
+the Bank’s forbearance policy, loan forbearance is granted on
+y The criteria are capable of identifying significant increases in a selective basis if the debtor is currently in default on its debt has increased significantly since its initial recognition and
+credit risk before an exposure is in default; or if there is a high risk of default, there is evidence that the its measurement of ECL. Based on consideration of a variety National Savings as Pct of GDP 55.44
+of external actual and forecast information from published
+y The criteria do not align with the point in time when an asset debtor made all reasonable efforts to pay under the original Government expenditure to GDP 44.56
+sources, the Bank formulates a forward looking adjustment to
+becomes 30 days past due; and contractual terms and the debtor is expected to be able to
+PD term structures to arrive at forward looking PD estimates
+meet the revised terms.
+y There is no unwarranted volatility in loss allowance from across the lifetime using macroeconomic models.
+Economic Indicators Weightage
+transfers between 12-month PD (stage 1) and lifetime
+The revised terms usually include extending the maturity, 2019
+PD (stage 2). The Bank considers scenarios in range of 3-5 years horizon (%)
+changing the timing of profit payments and amending the
+(consistent with forecast available from public sources) beyond
+terms of loan covenants. Both retail and corporate loans are
+The Bank classifies its financial instruments into stage 1, stage 2 subject to the forbearance policy. which long term average macroeconomic conditions prevail. National Savings as Pct of GDP 55.44
+and stage 3, based on the applied impairment methodology, as Externally available macroeconomic forecast from International
+Government expenditure to GDP 44.56
+described below: Monetary Fund (IMF) and Saudi Arabian Monetary Authority
+Forbearance is a qualitative indicator of a significant increase
+(SAMA) are used for making base case forecast. For other
+Stage for financial instruments where there has not been in credit risk and an expectation of forbearance may constitute
+scenarios, adjustment are made to base case forecast based on The Bank has identified and documented key drivers of credit
+1 a significant increase in credit risk since initial evidence that an exposure is credit-impaired/in default. A
+expert judgement. risk and credit losses for each portfolio of financial instruments
+recognition and that are not credit-impaired on customer needs to demonstrate consistently good payment
+and, using an analysis of historical data, has estimated
+origination, the Bank recognises an allowance based behaviour over a period of 12 months before the exposure is
+The base case represents a most-likely outcome as published relationships between macro-economic variables and credit
+on the 12-month ECL. All accounts at origination no longer considered to be credit-impaired/in default.
+by external sources. The other scenarios represent more risk and credit losses. The economic scenarios used as at
+would be classified as Stage 1.
+optimistic and more pessimistic outcomes. 31 December included the following ranges of key indicators.
+(vii) Definition of “Default”
+Stage for financial instruments where there has been
+2 a significant increase in credit risk since initial The Bank considers a financial asset to be in default when:
+recognition but they are not credit-impaired, the Economic Indicators Scenarios 2020 2019
+y The borrower is unlikely to pay its credit obligations to the
+Bank recognises an allowance for the lifetime ECL (%) (%)
+Bank in full, without recourse by the Bank to actions such as
+for all financings categorised in this stage based on
+realising security (if any is held); or
+the actual/expected behavioural maturity profile Gross National Savings Pct of GDP Upside 25.06 30.67
+including restructuring or rescheduling y The borrower is past due more than 90 days on any material
+Base (Most Likely) 17.57 24.07
+of facilities. credit obligation to the Bank.
+Downside 13.54 17.46
+Stage for credit-impaired financial instruments, the Bank Overdrafts are considered as being past due once the customer
+3 recognises the lifetime ECL. Default identification has breached an advised limit or been advised of a limit smaller Government Expenditure to GDP Upside 38.92 39.19
+process i.e. DPD of 90 or more is assumed to be than the current amount outstanding.
+Base (Most Likely) 35.76 37.19
+stage 3.
+Downside 34.06 35.19
+In assessing whether a borrower is in default. the Bank
+considers indicators that are:
+(vi) Modified financial assets
+To account for the impact of COVID-19, the Bank has used below base case near term forecast in its ECL model, which is based on
+y Qualitative – e.g. breaches of covenant;
+The contractual terms of a loan may be modified for a number updated information available as at the reporting date:
+y Quantitative – e.g. overdue status and non-payment on
+of reasons, including changing market conditions, customer
+another obligation of the same issuer to the Bank; and
+retention and other factors not related to a current or potential Economic Indicators Forecast calendar years used in 2020 ECL model Forecast calendar years used in 2019 ECL model
+credit deterioration of the customer. An existing loan whose y Based on data developed internally and obtained from
+2021 2022 2023 2019 2020 2021
+terms have been modified may be derecognised and the external sources.
+(%) (%) (%) (%) (%) (%)
+renegotiated loan recognised as a new loan at fair value in
+accordance with the accounting policy. Inputs into the assessment of whether a financial instrument is
+Gross National Savings Pct of GDP 16.65 16.97 17.12 23.71 22.65 21.82
+in default and their significance may vary over time to reflect
+changes in circumstances. Government Expenditure to GDP 33.87 31.86 31.09 36.14 35.83 34.87
+The definition of default largely aligns with that applied for the
+bank for regulatory purposes.
+
+=====================================================================================
+YEAR: 2020
+FILE: Al_Rajhi_2020_Annual_Report.pdf
+PDF PAGE: 102
+=====================================================================================
+Notes to the Consolidated Financial Statements Financial Statements Financial Statements Notes to the Consolidated Financial Statements
+891 991
+The table below shows the sensitivity of change in economic indicators to the ECL computed under three different scenarios used (x) Credit quality analysis
+by Bank:
+(a) The following table sets out information about the credit quality of Financings measured at amortised cost as at 31 December.
+31 December 2020 Due from Investment Financing Letters of Letters of Irrevocable Total
+Bank and guarantee credit commitments 2020
+other to extend
+12 month Life time ECL not Lifetime ECL Total
+financial credit
+ECL credit impaired credit impaired
+institutions
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Carrying amount distribution by Grades
+Most likely (Base case) 73,144 26,962 7,398,212 340,617 191,253 9,330 8,039,518
+Grade 1-3/(Aaa – A3) 10,218,303 – – 10,218,303
+More optimistic (Upside) 56,419 20,715 6,497,871 334,362 187,367 5,709 7,102,443
+Grade (4-6)/(Baa1 – B3) 49,883,949 3,698,775 – 53,582,724
+More pessimistic
+(Downside) 93,093 33,266 8,043,601 348,052 195,038 12,782 8,725,832 Grade 7-Watch list/(Caa1 – C) – 2,666,449 – 2,666,449
+Non-performing – – 1,690,865 1,690,865
+Total Corporate performing and non-performing 60,102,252 6,365,224 1,690,865 68,158,341
+Predicted relationships between the key indicators and default These parameters are generally derived from internally
+Total Retail (un-rated) 247,356,133 5,907,725 1,761,259 255,025,117
+and loss rates on various portfolios of financial assets have developed statistical models and other historical data. They are
+been developed based on analysing historical data. adjusted to reflect forward-looking information as described Total Carrying amount 307,458,385 12,272,949 3,452,124 323,183,458
+above.
+The table below illustrates the sensitivity of ECL to key factors
+used in determining it as at the year end: PD estimates are estimates at a certain date, which are
+calculated based on statistical rating models, and assessed 2019
+ECL Impact (2020) using rating tools tailored to the various categories of 12 month Life time ECL not Lifetime ECL Total
+Increase/(Decrease) counterparties and exposures. These statistical models ECL credit impaired credit impaired
+are based on internally compiled data comprising both (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Assumptions sensitised quantitative and qualitative factors. If a counterparty or
+Macro-economic factors: exposure migrates between ratings classes, then this will lead Carrying amount distribution by Grades
+to a change in the estimate of the associated PD. PDs are
+National Savings as Pct of Grade 1-3/(Aaa – A3) 13,547,133 – – 13,547,133
+estimated considering the contractual maturities of exposures
+GDP increase by 10% (207,622,144) and estimated prepayment rates. Grade (4-6)/(Baa1 – B3) 44,502,283 3,306,212 – 47,808,495
+National Savings as Pct of Grade 7-Watch list/(Caa1 – C) – 3,104,199 – 3,104,199
+GDP decrease by 10% 151,999,029 For Retail portfolio, bank uses internal LGD models to arrive Non-performing – – 1,687,074 1,687,074
+Government expenditure to at the LGD estimates. For Corporate portfolio, bank used
+Total Corporate performing and non-performing 58,049,416 6,410,411 1,687,074 66,146,901
+GDP increase by 10% (497,277,032) supervisory estimates of LGD.
+Total Retail (un-rated) 186,184,436 3,320,472 1,050,591 190,555,499
+Government expenditure to
+EAD represents the expected exposure in the event of a
+GDP decrease by 10% 364,053,780 Total Carrying amount 244,233,852 9,730,883 2,737,665 256,702,400
+default. The Bank derives the EAD from the current exposure to
+the counterparty and potential changes to the current amount
+(ix) Measurement of ECL allowed under the contract including amortisation. The EAD
+of a financial asset is its gross carrying amount. For lending
+The Bank measures an ECL at an individual instrument level
+commitments and financial guarantees, the EAD includes the
+taking into account the projected cash flows, PD, LGD, CCF
+amount drawn, as well as potential future amounts that may
+and discount rate.
+be drawn under the contract, which are estimated based on
+historical observations and forward-looking forecasts.
+The key inputs into the measurement of ECL are the term
+The period of exposure limits the period over which possible
+structure of the following variables:
+defaults are considered and thus affects the determination of
+PDs and measurement of ECLs (especially for Stage 2 accounts
+i. Probability of Default (PD);
+with lifetime ECL).
+ii. Loss Given Default (LGD);
+iii. Exposure At Default (EAD).
+
+=====================================================================================
+YEAR: 2020
+FILE: Al_Rajhi_2020_Annual_Report.pdf
+PDF PAGE: 103
+=====================================================================================
+Notes to the Consolidated Financial Statements Financial Statements Financial Statements Notes to the Consolidated Financial Statements
+002 102
+(xi) Financings (b) The tables below set out the aging of financing past due but not impaired as of 31 December:
+(a) The net financing concentration risks and the related provision, by major economic sectors at 31 December are as follows:
+2020
+2020
+Age Mutajara Instalment Credit cards Total
+sale
+Description Performing Non- Allowance for Net financing
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Performing impairment
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+up to 30 days 5,515,679 2,333,363 108,052 7,957,094
+Commercial 20,831,819 654,288 (527,116) 20,958,991 31-60 days 162,091 715,777 18,448 896,316
+Industrial 27,896,009 229,237 (138,592) 27,986,654 61-90 days 164,854 431,730 11,740 608,324
+Building and construction 1,396,185 636,587 (604,646) 1,428,126
+Total 5,842,624 3,480,870 138,240 9,461,734
+Consumer 254,270,868 754,249 (642,253) 254,382,864
+Fair value of collateral 1,847,413 2,261,408 – 4,108,821
+Services 13,936,713 170,055 (105,083) 14,001,685
+Agriculture and fishing 539,561 – – 539,561
+Others 1,867,188 698 (7,122) 1,860,764
+2019
+Total 320,738,343 2,445,114 (2,024,812) 321,158,645
+Age Mutajara Instalment Credit cards Total
+12 month and life time ECL not credit impaired – – (5,446,544) (5,446,544) sale
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Balance 320,738,343 2,445,114 (7,471,356) 315,712,101
+up to 30 days 5,567,429 1,436,316 91,568 7,095,313
+31-60 days 243,767 612,747 16,978 873,492
+2019 61-90 days 322,842 323,959 9,681 656,482
+Description Performing Non- Allowance for Net financing Total 6,134,038 2,373,022 118,227 8,625,287
+Performing impairment
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) Fair value of collateral 2,737,767 114,208 – 2,851,975
+Commercial 19,661,771 590,056 (424,883) 19,826,944
+The Group in the ordinary course of lending activities hold collaterals as security to mitigate credit risk in financings. These
+Industrial 26,775,778 375,395 (283,941) 26,867,232
+collaterals mostly include time, demand, and other cash deposits, financial guarantees, local and international equities, real estate
+Building and construction 2,031,147 573,757 (401,434) 2,203,470
+and other fixed assets. Real estate collaterals against financing are considered as held for sale and included in other assets.
+Consumer 192,926,177 674,114 (532,585) 193,067,706
+Services 12,336,880 103,471 (70,882) 12,369,469 The collaterals are held mainly against commercial and consumer loans and are managed against relevant exposures at their net
+realisable values. For financial assets that are credit impaired at the reporting period, quantitative information about the collateral
+Agriculture and fishing 340,974 – – 340,974
+held as security is needed to the extent that such collateral mitigates credit risk.
+Others 312,881 – – 312,881
+Total 254,385,608 2,316,793 (1,713,725) 254,988,676 (c) The table below sets out gross balances of individually impaired financing, together with the fair value of related collateral held
+by the Group as at 31 December:
+12 month and life time ECL not credit impaired – – (5,305,871) (5,305,871)
+Balance 254,385,608 2,316,793 (7,019,596) 249,682,805 2020
+Retail Corporate Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+Individually impaired financing 754,249 1,690,865 2,445,114
+Fair value of collateral 573,602 453,208 1,026,810
+
+=====================================================================================
+YEAR: 2021
+FILE: Al_Rajhi_2021_Annual_Report.pdf
+PDF PAGE: 230
+=====================================================================================
+Overview
+Notes to the Consolidated Context
+Business in Perspective
+Financial Statements ESG Report
+Corporate Governance
+Financial Statements
+Supplementary
+(c) The table below depicts the categories of financing as per main business segments
+at 31 December:
+2021
+Retail Corporate Total
+(SAR’000) (SAR’000) (SAR’000)
+Mutajara 2,820,209 66,852,154 69,672,363
+Installment sale 364,418,308 7,559,932 371,978,240
+Murabaha – 16,661,608 16,661,608
+Credit cards 3,712,263 4,337 3,716,600
+Gross financing 370,950,780 91,078,031 462,028,811
+Less: Allowance for impairment (5,201,431) (3,996,723) (9,198,154)
+Financing, net 365,749,349 87,081,308 452,830,657
+2020
+228
+Retail Corporate Total
+(SAR’000) (SAR’000) (SAR’000)
+Mutajara 1,202,886 39,024,342 40,227,228
+Installment sale 250,470,267 9,408,172 259,878,439
+Murabaha – 19,725,827 19,725,827
+Credit cards 3,351,963 – 3,351,963
+Gross financing 255,025,116 68,158,341 323,183,457
+Less: Allowance for impairment (4,341,561) (3,129,795) (7,471,356)
+Financing, net 250,683,555 65,028,546 315,712,101
+Al Rajhi Bank | Annual Report 2021
+
+=====================================================================================
+YEAR: 2021
+FILE: Al_Rajhi_2021_Annual_Report.pdf
+PDF PAGE: 231
+=====================================================================================
+Overview
+Context Notes to the Consolidated
+Business in Perspective
+ESG Report Financial Statements
+Corporate Governance
+Financial Statements
+Supplementary
+(d) The table below summarises financing balances at 31 December that are neither
+past due nor impaired, past due but not impaired and impaired, as per the main
+business segments of the Group:
+2021
+Neither past Past due Impaired Total Allowance Net financing
+due nor but not for
+impaired impaired impairment
+(SAR’000) (SAR’000) (SAR’000) (SAR’000) (SAR’000) (SAR’000)
+Retail 361,318,535 8,132,148 1,500,097 370,950,780 (5,201,431)365,749,349
+Corporate 88,335,265 1,232,763 1,510,003 91,078,031 (3,996,723) 87,081,308
+Total 449,653,800 9,364,911 3,010,100 462,028,811 (9,198,154)452,830,657
+2020
+Neither past Past due Impaired Total Allowance Net financing
+due nor but not for
+impaired impaired impairment
+229
+(SAR’000) (SAR’000) (SAR’000) (SAR’000) (SAR’000) (SAR’000)
+Retail 249,438,952 4,831,915 754,249 255,025,116 (4,341,561) 250,683,555
+Corporate 65,880,738 586,738 1,690,865 68,158,341 (3,129,795) 65,028,546
+Total 315,319,690 5,418,653 2,445,114 323,183,457 (7,471,356) 315,712,101
+Financing past due for less than 90 days is not treated as impaired, unless other
+available information proves otherwise. ‘Neither past due nor impaired’ and ‘past due
+but not impaired’ comprise total performing financing.
+Al Rajhi Bank | Annual Report 2021
+
+=====================================================================================
+YEAR: 2021
+FILE: Al_Rajhi_2021_Annual_Report.pdf
+PDF PAGE: 232
+=====================================================================================
+Overview
+Notes to the Consolidated Context
+Business in Perspective
+Financial Statements ESG Report
+Corporate Governance
+Financial Statements
+Supplementary
+(e) The movements of the three credit quality stages for the gross carrying amount of
+financing facilities held at amortised cost:
+2021
+12 month Lifetime ECL Lifetime Total
+ECL not credit ECL credit
+impaired impaired
+(SAR ‘000’) (SAR ‘000’) (SAR ‘000’) (SAR ‘000’)
+Financings to customers at
+amortised cost
+Balance at 1 January 2021 311,275,457 8,460,233 3,447,767 323,183,457
+Transfer to 12 month ECL 1,538,438 (1,534,491) (3,947) –
+Transfer to Lifetime ECL not
+credit impaired (3,669,318) 3,836,110 (166,792) –
+Transfer to Lifetime ECL credit impaired (687,863) (271,691) 959,554 –
+Write–offs – – (2,075,430) (2,075,430)
+New Business/Movement 139,837,595 (932,283) 2,015,472 140,920,784
+230
+Balance as at 31 December 2021 448,294,309 9,557,878 4,176,624 462,028,811
+2020
+12 month Lifetime ECL Lifetime Total
+ECL not credit ECL credit
+impaired impaired
+(SAR ‘000’) (SAR ‘000’) (SAR ‘000’) (SAR ‘000’)
+Financings to customers at
+amortised cost
+Balance at 1 January 2020 244,233,852 9,730,884 2,737,665 256,702,401
+Transfer to 12 month ECL 1,449,420 (1,449,420) – –
+Transfer to Lifetime ECL not
+credit impaired (3,152,174) 3,257,062 (104,888) –
+Transfer to Lifetime ECL credit impaired (612,721) (743,353) 1,356,074 –
+Write–offs – – (2,766,535) (2,766,535)
+New Business/Movement 69,357,080 (2,334,940) 2,225,451 69,247,591
+Balance as at 31 December 2020 311,275,457 8,460,233 3,447,767 323,183,457
+Closing balance of Lifetime ECL credit impaired differs from total reported Non–
+Performing financing due to IFRS 9 implementation.
+Al Rajhi Bank | Annual Report 2021
+
+=====================================================================================
+YEAR: 2021
+FILE: Al_Rajhi_2021_Annual_Report.pdf
+PDF PAGE: 233
+=====================================================================================
+Overview
+Context Notes to the Consolidated
+Business in Perspective
+ESG Report Financial Statements
+Corporate Governance
+Financial Statements
+Supplementary
+(f) The movements of the three credit quality stages of carrying amount of financing
+held at amortised cost allocated by:
+1. Retail segment:
+2021
+12 month ECL Lifetime ECL Lifetime Total
+not credit ECL credit
+impaired impaired
+(SAR ‘000) (SAR ‘000) (SAR ‘000) (SAR ‘000)
+Financings to customers at
+amortised cost
+Balance at 1 January 2021 250,650,984 2,617,230 1,756,902 255,025,116
+Transfer to 12 month ECL 1,411,781 (1,407,834) (3,947) –
+Transfer to Lifetime ECL not
+credit impaired (2,920,325) 3,087,106 (166,781) –
+Transfer to Lifetime ECL credit impaired (571,770) (242,959) 814,729 –
+Write–offs – – (1,778,995) (1,778,995)
+231
+New Business/Movement 115,364,802 295,144 2,044,713 117,704,659
+Balance as at 31 December 2021 363,935,472 4,348,687 2,666,621 370,950,780
+2020
+12 month ECL Lifetime ECL Lifetime Total
+not credit ECL credit
+impaired impaired
+(SAR ‘000) (SAR ‘000) (SAR ‘000) (SAR ‘000)
+Financings to customers at
+amortised cost
+Balance at 1 January 2020 186,184,436 3,320,473 1,050,591 190,555,500
+Transfer to 12 month ECL 820,807 (820,807) – –
+Transfer to Lifetime ECL not
+credit impaired (2,018,928) 2,123,816 (104,888) –
+Transfer to Lifetime ECL credit impaired (422,408) (144,054) 566,462 –
+Write–offs – – (1,676,297) (1,676,297)
+New Business/Movement 66,087,077 (1,862,198) 1,921,034 66,145,913
+Balance as at 31 December 2020 250,650,984 2,617,230 1,756,902 255,025,116
+Al Rajhi Bank | Annual Report 2021
+
+=====================================================================================
+YEAR: 2021
+FILE: Al_Rajhi_2021_Annual_Report.pdf
+PDF PAGE: 234
+=====================================================================================
+Overview
+Notes to the Consolidated Context
+Business in Perspective
+Financial Statements ESG Report
+Corporate Governance
+Financial Statements
+Supplementary
+2. Corporate segment:
+2021
+12 month ECL Lifetime ECL Lifetime Total
+not credit ECL credit
+impaired impaired
+(SAR ‘000) (SAR ‘000) (SAR ‘000) (SAR ‘000)
+Financings to customers at
+amortised cost
+Balance at 1 January 2021 60,624,473 5,843,003 1,690,865 68,158,341
+Transfer to 12 month ECL 126,657 (126,657) – –
+Transfer to Lifetime ECL not
+credit impaired (748,993) 749,004 (11) –
+Transfer to Lifetime ECL credit impaired (116,093) (28,732) 144,825 –
+Write–offs – – (296,435) (296,435)
+New Business/Movement 24,472,793 (1,227,427) (29,241) 23,216,125
+232 Balance as at 31 December 2021 84,358,837 5,209,191 1,510,003 91,078,031
+2020
+12 month ECL Lifetime ECL Lifetime Total
+not credit ECL credit
+impaired impaired
+(SAR ‘000) (SAR ‘000) (SAR ‘000) (SAR ‘000)
+Financings to customers at
+amortised cost
+Balance at 1 January 2020 58,049,416 6,410,411 1,687,074 66,146,901
+Transfer to 12 month ECL 628,613 (628,613) – –
+Transfer to Lifetime ECL not
+credit impaired (1,133,246) 1,133,246 – –
+Transfer to Lifetime ECL credit impaired (190,313) (599,299) 789,612 –
+Write–offs – – (1,090,238) (1,090,238)
+New Business/Movement 3,270,003 (472,742) 304,417 3,101,678
+Balance as at 31 December 2020 60,624,473 5,843,003 1,690,865 68,158,341
+Al Rajhi Bank | Annual Report 2021
+
+=====================================================================================
+YEAR: 2021
+FILE: Al_Rajhi_2021_Annual_Report.pdf
+PDF PAGE: 235
+=====================================================================================
+Overview
+Context Notes to the Consolidated
+Business in Perspective
+ESG Report Financial Statements
+Corporate Governance
+Financial Statements
+Supplementary
+7.2 Allowance for impairment of financing:
+(a) The movement in the allowance for impairment of financing for the years ended
+31 December is as follows:
+2021
+Retail Corporate Total
+(SAR’000) (SAR’000) (SAR’000)
+Balance at beginning of the year 4,341,561 3,129,795 7,471,356
+Gross charge for the year 2,638,865 1,163,363 3,802,228
+Bad debts written off against provision (1,778,995) (296,435) (2,075,430)
+Balance at the end of the year 5,201,431 3,996,723 9,198,154
+2020
+Retail Corporate Total
+(SAR’000) (SAR’000) (SAR’000)
+233
+Balance at beginning of the year 3,808,273 3,211,323 7,019,596
+Gross charge for the year 2,209,585 1,008,710 3,218,295
+Bad debts written off against provision (1,676,297) (1,090,238) (2,766,535)
+Balance at the end of the year 4,341,561 3,129,795 7,471,356
+Al Rajhi Bank | Annual Report 2021
+
+=====================================================================================
+YEAR: 2021
+FILE: Al_Rajhi_2021_Annual_Report.pdf
+PDF PAGE: 266
+=====================================================================================
+Overview
+Notes to the Consolidated Context
+Business in Perspective
+Financial Statements ESG Report
+Corporate Governance
+Financial Statements
+Supplementary
+The Group has used below base case near term forecast in its ECL model, which is based
+on updated information available as at the reporting date:
+Economic indicators Forecast calendar years used in 2021 ECL model
+2022 2023 2024
+Yearly Growth in Oil Price -5.9% -3.8% -2.1%
+General Government Net Lending (% of GDP) -2.5% -2.0% -1.4%
+Investment (% of GDP) 28.4% 28.5% 28.3%
+Current Account Balance to GDP 1.9% 0.5% -0.2%
+Crude Oil Production Average Daily (million barrel) 9.8 10 10.1
+Gross National Savings to GDP (YoY) Growth -1.0% -4.3% -2.9%
+General Government Revenue (% of GDP) 28.9% 28.9% 28.9%
+The table below shows the change in economic indicators to the ECL computed under
+three different scenarios used by the Group:
+264
+31 December 2021 Due from Bank Investment Financing Off-balance Total
+and other sheet items
+financial
+institutions
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Most likely (Base case) 4,275 31,824 9,198,154 415,591 9,649,844
+More optimistic (Upside) 2,892 21,069 8,314,379 404,118 8,742,458
+More pessimistic (Downside) 5,633 42,382 9,984,351 441,607 10,473,973
+(ix) Measurement of ECL
+The Group measures an ECL at an individual instrument level taking into account the
+projected cash flows, PD, LGD, CCF and discount rate.
+The key inputs into the measurement of ECL are the term structure of the following
+variables:
+(i) Probability of Default (PD);
+(ii) Loss given Default (LGD);
+(iii) Exposure at Default (EAD).
+These parameters are generally derived from internally developed statistical models
+and other historical data. They are adjusted to reflect forward-looking information as
+described above.
+Al Rajhi Bank | Annual Report 2021
+
+=====================================================================================
+YEAR: 2021
+FILE: Al_Rajhi_2021_Annual_Report.pdf
+PDF PAGE: 267
+=====================================================================================
+Overview
+Context Notes to the Consolidated
+Business in Perspective
+ESG Report Financial Statements
+Corporate Governance
+Financial Statements
+Supplementary
+PD estimates are estimates at a certain EAD represents the expected exposure in
+date, which are calculated based on the event of a default. The Group derives
+statistical rating models, and assessed the EAD from the current exposure to the
+using rating tools tailored to the counterparty and potential changes to
+various categories of counterparties the current amount allowed under the
+and exposures. These statistical models contract including amortisation. The EAD
+are based on internally compiled data of a financial asset is its gross carrying
+comprising both quantitative and amount. For financing commitments and
+qualitative factors. If a counterparty financial guarantees, the EAD includes
+or exposure migrates between ratings the amount drawn, as well as potential
+classes, then this will lead to a change in future amounts that may be drawn
+the estimate of the associated PD. PDs are under the contract, which are estimated
+estimated considering the contractual based on historical observations and
+maturities of exposures and estimated forward-looking forecasts. The period
+prepayment rates. of exposure limits the period over which
+possible defaults are considered and
+For Corporate and Retail portfolio, Bank thus affects the determination of PDs and
+uses internal LGD models to arrive at the measurement of ECLs (especially for Stage
+LGD estimates. 2 accounts with lifetime ECL).
+(x) Credit quality analysis
+265
+The following table sets out information about the credit quality of financings measured
+at amortised cost as at 31 December:
+2021 12 month ECL Life time ECL Lifetime Total
+not credit ECL credit
+impaired impaired
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Carrying amount distribution by Grades
+Grade 1-3/(Aaa – A3) 10,983,194 – – 10,983,194
+Grade (4-6)/(Baa1 - B3) 73,375,643 2,358,621 – 75,734,264
+Grade 7 – Watch list/(Caa1 – C) – 2,850,570 – 2,850,570
+Non-performing – – 1,510,003 1,510,003
+Total Corporate performing and
+non-performing 84,358,837 5,209,191 1,510,003 91,078,031
+Total Retail (un-rated) 363,935,472 4,348,687 2,666,621 370,950,780
+Total Carrying amount 448,294,309 9,557,878 4,176,624 462,028,811
+Al Rajhi Bank | Annual Report 2021
+
+=====================================================================================
+YEAR: 2021
+FILE: Al_Rajhi_2021_Annual_Report.pdf
+PDF PAGE: 268
+=====================================================================================
+Overview
+Notes to the Consolidated Context
+Business in Perspective
+Financial Statements ESG Report
+Corporate Governance
+Financial Statements
+Supplementary
+2020 12 month ECL Life time ECL Lifetime Total
+not credit ECL credit
+impaired impaired
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Carrying amount distribution by Grades
+Grade 1-3/(Aaa – A3) 10,218,303 – – 10,218,303
+Grade (4-6)/(Baa1 - B3) 50,406,170 3,176,554 – 53,582,724
+Grade 7 – Watch list/(Caa1 – C) – 2,666,449 – 2,666,449
+Non-performing – – 1,690,865 1,690,865
+Total Corporate performing and
+non-performing 60,624,473 5,843,003 1,690,865 68,158,341
+Total Retail (un-rated) 250,650,984 2,617,230 1,756,902 255,025,116
+Total Carrying amount 311,275,457 8,460,233 3,447,767 323,183,457
+266 (xi) Financings
+A. The net financing concentration risks and the related provision, by major economic
+sectors at 31 December are as follows:
+2021 Performing Non- Allowance for Net financing
+Description performing impairment
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Commercial 32,288,030 544,141 (427,931) 32,404,240
+Industrial 32,577,200 137,392 (104,470) 32,610,122
+Building and construction 3,329,919 709,105 (668,271) 3,370,753
+Consumer 369,450,684 1,500,097 (1,163,714) 369,787,067
+Services 17,747,557 114,092 (71,307) 17,790,342
+Agriculture and fishing 474,037 133 (99) 474,071
+Others 3,151,284 5,140 (4,211) 3,152,213
+Total 459,018,711 3,010,100 (2,440,003)459,588,808
+12 month and life time ECL
+not credit impaired – – (6,758,151) (6,758,151)
+Balance 459,018,711 3,010,100 (9,198,154)452,830,657
+Al Rajhi Bank | Annual Report 2021
+
+=====================================================================================
+YEAR: 2021
+FILE: Al_Rajhi_2021_Annual_Report.pdf
+PDF PAGE: 269
+=====================================================================================
+Overview
+Context Notes to the Consolidated
+Business in Perspective
+ESG Report Financial Statements
+Corporate Governance
+Financial Statements
+Supplementary
+2020 Performing Non- Allowance for Net financing
+Description performing impairment
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Commercial 20,831,819 654,288 (527,116) 20,958,991
+Industrial 27,896,009 229,237 (138,592) 27,986,654
+Building and construction 1,396,185 636,587 (604,646) 1,428,126
+Consumer 254,270,868 754,249 (642,253) 254,382,864
+Services 13,936,713 170,055 (105,083) 14,001,685
+Agriculture and fishing 539,561 – – 539,561
+Others 1,867,188 698 (7,122) 1,860,764
+Total 320,738,343 2,445,114 (2,024,812) 321,158,645
+12 month and life time ECL
+not credit impaired – – (5,446,544) (5,446,544)
+Balance 320,738,343 2,445,114 (7,471,356) 315,712,101
+267
+B. The table below sets out gross balances of individually impaired financing, together
+with the fair value of related collateral held by the Group as at 31 December:
+2021 Retail Corporate Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+Individually impaired financing 1,500,097 1,510,003 3,010,100
+Fair value of collateral 925,297 135,352 1,060,649
+2020 Retail Corporate Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+Individually impaired financing 754,249 1,690,865 2,445,114
+Fair value of collateral 573,602 453,208 1,026,810
+Al Rajhi Bank | Annual Report 2021
+
+=====================================================================================
+YEAR: 2021
+FILE: Al_Rajhi_2021_Annual_Report.pdf
+PDF PAGE: 270
+=====================================================================================
+Overview
+Notes to the Consolidated Context
+Business in Perspective
+Financial Statements ESG Report
+Corporate Governance
+Financial Statements
+Supplementary
+C. The table below stratifies the banks in the ordinary course of financing activities
+hold collaterals as security to mitigate credit risk in the financings. These collaterals
+mostly include time, demand, and other cash deposits, financial guarantees, local
+and international equities, real estate, and other fixed assets. The collaterals are
+held mainly against commercial and consumer financings and are managed
+against relevant exposures at their net realisable values. For financial assets that are
+credit impaired at the reporting year, quantitative information about the collateral
+held as security is needed to the extent that such collateral mitigates credit risk.
+The outstanding credit impaired financing facility balances, that are covered by
+collateral, as of December 31 is as follows:
+2021 2020
+(SAR ’000) (SAR ’000)
+Less than 50% 26,830 21,799
+51-70% 107,023 87,603
+More than 70% 581,717 328,547
+Total exposure 715,570 437,949
+268
+(B) Settlement risk
+The Group is also exposed to settlement risk in its dealings with other financial
+institutions. This risk arises when the Group pays its side of the transaction to the
+other bank or counterparty before receiving payment from the third party. The risk
+is that the third party may not pay its obligation. While these exposures are short in
+duration, they can be significant. The risk is mitigated by dealing with highly rated
+counterparties, holding collateral and limiting the size of the exposures according
+to the risk rating of the counterparty.
+(C) Risk limit control and mitigation policies
+The responsibility for credit risk management is enterprise-wide in scope. Strong risk
+management is integrated into daily processes, decision-making and strategy setting,
+thereby making the understanding and management of credit risk the responsibility of
+every business segment.
+The following business units within the Group assist in the credit control process:
+• Corporate Credit Unit.
+• Credit Administration, Monitoring and Control Unit.
+• Remedial Unit.
+• Credit Policy Unit.
+• Retail Credit Unit.
+Al Rajhi Bank | Annual Report 2021
+
+=====================================================================================
+YEAR: 2022
+FILE: Al_Rajhi_2022_Annual_Report.pdf
+PDF PAGE: 119
+=====================================================================================
+532
+Al Rajhi Bank | Annual Report 2022 Al Rajhi Bank | Annual Report 2022
+432
+notes to the consolidated notes to the consolidated
+financial statements financial statements
+Overview Overview
+Context Context
+Business in Perspective Business in Perspective
+ESG Report ESG Report
+Corporate Governance Corporate Governance
+Financial Statements Financial Statements
+Supplementary Supplementary
+7 Financing, net (b) The net financing by location, inside and outside the Kingdom of Saudi Arabia,
+as of 31 December is as follows:
+(a) Net financing held at amortised cost:
+2022 Mutajara Installment sale Murabaha Credit cards Total
+2022 Performing Non- Allowance for Net (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+performing impairment financing
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) Inside the Kingdom
+of Saudi Arabia 118,343,275 425,184,304 14,938,663 4,993,000 563,459,242
+Mutajara 119,146,700 674,135 (3,214,387) 116,606,448
+Outside the Kingdom
+Installment sale 427,887,058 2,350,467 (4,616,095) 425,621,430 of Saudi Arabia 1,477,560 5,053,221 6,357,415 18,334 12,906,530
+Murabaha 21,264,015 32,063 (56,524) 21,239,554
+Gross financing 119,820,835 430,237,525 21,296,078 5,011,334 576,365,772
+Credit cards 4,983,282 28,052 (140,652) 4,870,682
+Allowance for impairment (3,214,387) (4,616,095) (56,524) (140,652) (8,027,658)
+Total 573,281,055 3,084,717 (8,027,658) 568,338,114
+Net financing 116,606,448 425,621,430 21,239,554 4,870,682 568,338,114
+2021 Performing Non- Allowance for Net
+2021 Mutajara Installment sale Murabaha Credit cards Total
+performing impairment financing
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Inside the Kingdom
+Mutajara 68,203,350 1,469,013 (3,959,756) 65,712,607
+of Saudi Arabia 68,293,335 364,548,182 14,661,090 3,709,899 451,212,506
+Installment sale 367,947,310 1,480,870 (4,978,513) 364,449,667
+Outside the Kingdom
+Murabaha 19,175,148 36,520 (61,718) 19,149,950 of Saudi Arabia 1,379,028 4,879,998 4,550,578 6,701 10,816,305
+Credit cards 3,692,903 23,697 (198,167) 3,518,433 Gross financing 69,672,363 369,428,180 19,211,668 3,716,600 462,028,811
+Total 459,018,711 3,010,100 (9,198,154) 452,830,657 Allowance for impairment (3,959,756) (4,978,513) (61,718) (198,167) (9,198,154)
+Net financing 65,712,607 364,449,667 19,149,950 3,518,433 452,830,657
+
+=====================================================================================
+YEAR: 2022
+FILE: Al_Rajhi_2022_Annual_Report.pdf
+PDF PAGE: 120
+=====================================================================================
+732
+Al Rajhi Bank | Annual Report 2022 Al Rajhi Bank | Annual Report 2022
+632
+notes to the consolidated notes to the consolidated
+financial statements financial statements
+Overview Overview
+Context Context
+Business in Perspective Business in Perspective
+ESG Report ESG Report
+Corporate Governance Corporate Governance
+Financial Statements Financial Statements
+Supplementary Supplementary
+(c) The table below depicts the categories of financing as per main business (d) The table below summarises financing balances at 31 December that are
+segments at 31 December: neither past due nor impaired, past due but not impaired and impaired, as per
+the main business segments of the Group:
+2022 Retail Corporate Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+2022 Neither past Past due Impaired Total Allowance for Net
+due nor but not impairment financing
+Mutajara 5,679,406 114,141,429 119,820,835 impaired impaired
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Installment sale 421,178,939 9,058,586 430,237,525
+Murabaha 2,964,586 18,331,492 21,296,078 Retail 423,157,782 9,766,079 1,896,505 434,820,366 (4,804,384) 430,015,982
+Credit cards 4,997,435 13,899 5,011,334 Corporate 138,848,182 1,509,012 1,188,212 141,545,406 (3,223,274) 138,322,132
+Gross financing 434,820,366 141,545,406 576,365,772 Total 562,005,964 11,275,091 3,084,717 576,365,772 (8,027,658) 568,338,114
+Less: Allowance for impairment (4,804,384) (3,223,274) (8,027,658)
+Total 430,015,982 138,322,132 568,338,114
+2021 Neither past Past due Impaired Total Allowance for Net
+due nor but not impairment financing
+impaired impaired
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+2021 Retail Corporate Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+Retail 361,318,535 8,132,148 1,500,097 370,950,780 (5,201,431) 365,749,349
+Mutajara 2,820,209 66,852,154 69,672,363 Corporate 88,335,265 1,232,763 1,510,003 91,078,031 (3,996,723) 87,081,308
+Installment sale 361,905,463 7,522,717 369,428,180 Total 449,653,800 9,364,911 3,010,100 462,028,811 (9,198,154) 452,830,657
+Murabaha 2,512,845 16,698,823 19,211,668
+Credit cards 3,712,263 4,337 3,716,600 Financing past due for less than 90 days is not treated as impaired, unless other available information
+proves otherwise. “Neither past due nor impaired” and “past due but not impaired” comprise total
+Gross financing 370,950,780 91,078,031 462,028,811
+performing financing.
+Less: Allowance for impairment (5,201,431) (3,996,723) (9,198,154)
+Total 365,749,349 87,081,308 452,830,657
+
+=====================================================================================
+YEAR: 2022
+FILE: Al_Rajhi_2022_Annual_Report.pdf
+PDF PAGE: 121
+=====================================================================================
+932
+Al Rajhi Bank | Annual Report 2022 Al Rajhi Bank | Annual Report 2022
+832
+notes to the consolidated notes to the consolidated
+financial statements financial statements
+Overview Overview
+Context Context
+Business in Perspective Business in Perspective
+ESG Report ESG Report
+Corporate Governance Corporate Governance
+Financial Statements Financial Statements
+Supplementary Supplementary
+(e) The movement in the allowance for impairment of financing is as follows: (g) The movement of financing by stages is as follows:
+Gross carrying amount as of 31 December 2022
+2022 Retail Corporate Total
+(SAR ’000) (SAR ’000) (SAR ’000) Stage 1 Stage 2 Stage 3 Total
+(12-months ECL) (lifetime (lifetime ECL for
+Balance at the beginning of the period 5,201,431 3,996,723 9,198,154 ECL for SICR) credit impaired)
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Provided for the period 2,288,338 1,023,826 3,312,164
+Financing
+Bad debt written off (2,685,385) (1,797,275) (4,482,660)
+At 1 January 2022 448,294,309 9,557,878 4,176,624 462,028,811
+Balance at the end of the year 4,804,384 3,223,274 8,027,658
+Transfers:
+Transfer to 12-month ECL 1,968,259 (1,923,214) (45,045) –
+2021 Retail Corporate Total
+Transfer to Lifetime ECL not credit impaired (5,034,653) 5,268,310 (233,657) –
+(SAR ’000) (SAR ’000) (SAR ’000)
+Transfer to Lifetime ECL credit impaired (1,108,367) (1,664,680) 2,773,047 –
+Balance at the beginning of the period 4,341,561 3,129,795 7,471,356
+Write-offs – – (4,482,660) (4,482,660)
+Provided for the period 2,638,865 1,163,363 3,802,228
+New business/Other movements 117,930,087 (1,661,640) 2,551,174 118,819,621
+Bad debt written off (1,778,995) (296,435) (2,075,430)
+At 31 December 2022 562,049,635 9,576,654 4,739,483 576,365,772
+Balance at the end of the year 5,201,431 3,996,723 9,198,154
+Gross carrying amount as of 31 December 2021
+(f) The Impairment charge movement Stage 1 Stage 2 Stage 3 Total
+(12-months ECL) (lifetime (lifetime ECL for
+The details of the impairment charge on financing and other financial assets for the year recorded in ECL for SICR) credit impaired)
+the consolidated statement of income is as follows: (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+2022 2021 Financing
+(SAR ’000) (SAR ’000)
+At 1 January 2021 311,275,457 8,460,233 3,447,767 323,183,457
+Provided for the year for financing 3,312,164 3,802,228 Transfers:
+Provided for the year for other financing assets Transfer to 12-month ECL 1,538,438 (1,534,491) (3,947) –
+and off balance sheet 36,112 (130,533)
+Transfer to Lifetime ECL not credit impaired (3,669,318) 3,836,110 (166,792) –
+Recovery of written-off financing, net (1,347,017) (1,326,609)
+Transfer to Lifetime ECL credit impaired (687,863) (271,691) 959,554 –
+Allowance for financing impairment, net 2,001,259 2,345,086
+Write-offs – – (2,075,430) (2,075,430)
+New business/Other movements 139,837,595 (932,283) 2,015,472 140,920,784
+At 31 December 2021 448,294,309 9,557,878 4,176,624 462,028,811
+Closing balance of Lifetime ECL credit impaired differs from total reported Non-Performing financing
+due to IFRS 9 implementation.
+
+=====================================================================================
+YEAR: 2022
+FILE: Al_Rajhi_2022_Annual_Report.pdf
+PDF PAGE: 122
+=====================================================================================
+142
+Al Rajhi Bank | Annual Report 2022 Al Rajhi Bank | Annual Report 2022
+042
+notes to the consolidated notes to the consolidated
+financial statements financial statements
+Overview Overview
+Context Context
+Business in Perspective Business in Perspective
+ESG Report ESG Report
+Corporate Governance Corporate Governance
+Financial Statements Financial Statements
+Supplementary Supplementary
+(h) The movements of the three credit quality stages of carrying amount of
+financing held at amortised cost allocated by:
+(1) Retail segment (2) Corporate segment
+Gross carrying amount as of 31 December 2022 Gross carrying amount as of 31 December 2022
+Retail Stage 1 Stage 2 Stage 3 Total Corporate Stage 1 Stage 2 Stage 3 Total
+(12-months ECL) (lifetime (lifetime ECL for (12-months ECL) (lifetime (lifetime ECL for
+ECL for SICR) credit impaired) ECL for SICR) credit impaired)
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Financing Financing
+At 1 January 2022 363,935,472 4,348,687 2,666,621 370,950,780 At 1 January 2022 84,358,837 5,209,191 1,510,003 91,078,031
+Transfers: Transfers:
+Transfer to 12-month ECL 1,799,178 (1,769,873) (29,305) – Transfer to 12-month ECL 169,081 (153,341) (15,740) –
+Transfer to Lifetime ECL not credit impaired (3,877,345) 4,051,418 (174,073) – Transfer to Lifetime ECL not credit impaired (1,157,308) 1,216,892 (59,584) –
+Transfer to Lifetime ECL credit impaired (703,685) (656,966) 1,360,651 – Transfer to Lifetime ECL credit impaired (404,682) (1,007,714) 1,412,396 –
+Write-offs – – (2,685,385) (2,685,385) Write-offs – – (1,797,275) (1,797,275)
+New business/Other movements 65,025,957 (644,267) 2,173,281 66,554,971 New business/Other movements 52,904,130 (1,017,373) 377,893 52,264,650
+At 31 December 2022 426,179,577 5,328,999 3,311,790 434,820,366 At 31 December 2022 135,870,058 4,247,655 1,427,693 141,545,406
+Gross carrying amount as of 31 December 2021 Gross carrying amount as of 31 December 2021
+Retail Stage 1 Stage 2 Stage 3 Total Corporate Stage 1 Stage 2 Stage 3 Total
+(12-months ECL) (lifetime (lifetime ECL for (12-months ECL) (lifetime (lifetime ECL for
+ECL for SICR) credit impaired) ECL for SICR) credit impaired)
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Financing Financing
+At 1 January 2021 250,650,984 2,617,230 1,756,902 255,025,116 At 1 January 2021 60,624,473 5,843,003 1,690,865 68,158,341
+Transfers: Transfers:
+Transfer to 12-month ECL 1,411,781 (1,407,834) (3,947) – Transfer to 12-month ECL 126,657 (126,657) – –
+Transfer to Lifetime ECL not credit impaired (2,920,325) 3,087,106 (166,781) – Transfer to Lifetime ECL not credit impaired (748,993) 749,004 (11) –
+Transfer to Lifetime ECL credit impaired (571,770) (242,959) 814,729 – Transfer to Lifetime ECL credit impaired (116,093) (28,732) 144,825 –
+Write-offs – – (1,778,995) (1,778,995) Write-offs – – (296,435) (296,435)
+New business/Other movements 115,364,802 295,144 2,044,713 117,704,659 New business/Other movements 24,472,793 (1,227,427) (29,241) 23,216,125
+At 31 December 2021 363,935,472 4,348,687 2,666,621 370,950,780 At 31 December 2021 84,358,837 5,209,191 1,510,003 91,078,031
+
+=====================================================================================
+YEAR: 2022
+FILE: Al_Rajhi_2022_Annual_Report.pdf
+PDF PAGE: 123
+=====================================================================================
+342
+Al Rajhi Bank | Annual Report 2022 Al Rajhi Bank | Annual Report 2022
+242
+notes to the consolidated notes to the consolidated
+financial statements financial statements
+Overview Overview
+Context Context
+Business in Perspective Business in Perspective
+ESG Report ESG Report
+Corporate Governance Corporate Governance
+Financial Statements Financial Statements
+Supplementary Supplementary
+(i) The movement in ECL allowances for impairment of financing by stages (j) The ECL movements of the three credit quality stages of financing held at
+is as follows: amortised cost of:
+Credit loss allowance as of 31 December 2022 (1) Retail segment:
+Stage 1 Stage 2 Stage 3 Total
+Credit loss allowance as of 31 December 2022
+(12-months ECL) (lifetime (lifetime ECL for
+ECL for SICR) credit impaired) Retail Stage 1 Stage 2 Stage 3 Total
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (12-months ECL) (lifetime (lifetime ECL for
+ECL for SICR) credit impaired)
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+ECL allowances for
+impairment of financing
+ECL allowances for
+At 1 January 2022 3,712,975 2,326,414 3,158,765 9,198,154 impairment of financing
+Transfers: At 1 January 2022 2,301,583 1,017,372 1,882,476 5,201,431
+Transfer to 12-month ECL 549,956 (527,427) (22,529) – Transfers:
+Transfer to Lifetime ECL not credit impaired (315,415) 433,896 (118,481) – Transfer to 12-month ECL 528,846 (514,458) (14,388) –
+Transfer to Lifetime ECL credit impaired (149,722) (626,937) 776,659 – Transfer to Lifetime ECL not credit impaired (284,776) 386,605 (101,829) –
+Write-offs – – (4,482,660) (4,482,660) Transfer to Lifetime ECL credit impaired (135,360) (388,562) 523,922 –
+Net charge for the period (521,551) 108,845 3,724,870 3,312,164 Write-offs – – (2,685,385) (2,685,385)
+At 31 December 2022 3,276,243 1,714,791 3,036,624 8,027,658 Net charge for the period (523,539) 391,737 2,420,140 2,288,338
+At 31 December 2022 1,886,754 892,694 2,024,936 4,804,384
+Credit loss allowance as of 31 December 2021
+Stage 1 Stage 2 Stage 3 Total
+Credit loss allowance as of 31 December 2021
+(12-months ECL) (lifetime (lifetime ECL for
+ECL for SICR) credit impaired) Retail Stage 1 Stage 2 Stage 3 Total
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (12-months ECL) (lifetime (lifetime ECL for
+ECL for SICR) credit impaired)
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+ECL allowances for
+impairment of financing
+ECL allowances for
+At 1 January 2021 2,944,807 2,030,356 2,496,193 7,471,356 impairment of financing
+Transfers: At 1 January 2021 2,388,807 839,120 1,113,634 4,341,561
+Transfer to 12-month ECL 314,742 (312,458) (2,284) – Transfers:
+Transfer to Lifetime ECL not credit impaired (79,419) 174,580 (95,161) – Transfer to 12-month ECL 299,724 (297,440) (2,284) –
+Transfer to Lifetime ECL credit impaired (47,348) (126,873) 174,221 – Transfer to Lifetime ECL not credit impaired (75,477) 170,631 (95,154) –
+Write-offs – – (2,075,430) (2,075,430) Transfer to Lifetime ECL credit impaired (24,201) (120,776) 144,977 –
+Net charge for the period 580,193 560,809 2,661,226 3,802,228 Write-offs – – (1,778,995) (1,778,995)
+At 31 December 2021 3,712,975 2,326,414 3,158,765 9,198,154 Net charge for the period (287,270) 425,837 2,500,298 2,638,865
+At 31 December 2021 2,301,583 1,017,372 1,882,476 5,201,431
+
+=====================================================================================
+YEAR: 2022
+FILE: Al_Rajhi_2022_Annual_Report.pdf
+PDF PAGE: 124
+=====================================================================================
+542
+Al Rajhi Bank | Annual Report 2022 Al Rajhi Bank | Annual Report 2022
+442
+notes to the consolidated notes to the consolidated
+financial statements financial statements
+Overview Overview
+Context Context
+Business in Perspective Business in Perspective
+ESG Report ESG Report
+Corporate Governance Corporate Governance
+Financial Statements Financial Statements
+Supplementary Supplementary
+(2) Corporate segment: (k) Installment sale under financing includes finance lease receivables,
+which are as follows:
+Credit loss allowance as of 31 December 2022
+Corporate Stage 1 Stage 2 Stage 3 Total 2022 2021
+(12-months ECL) (lifetime (lifetime ECL for (SAR ’000) (SAR ’000)
+ECL for SICR) credit impaired)
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Gross receivables from finance leases 32,827,255 27,020,295
+ECL allowances for Less than 1 year 1,946,998 6,286
+impairment of financing
+1 to 5 years 21,269,416 17,532,469
+At 1 January 2022 1,411,392 1,309,042 1,276,289 3,996,723
+Over 5 years 9,610,841 9,481,540
+Transfers:
+32,827,255 27,020,295
+Transfer to 12-month ECL 21,110 (12,969) (8,141) –
+Unearned future finance income on finance leases (4,096,161) (3,404,832)
+Transfer to Lifetime ECL not credit impaired (30,639) 47,291 (16,652) –
+Expect credit loss from finance leases (782,783) (571,116)
+Transfer to Lifetime ECL credit impaired (14,362) (238,375) 252,737 –
+Write-offs – – (1,797,275) (1,797,275) Net receivables from finance leases 27,948,311 23,044,347
+Net charge for the period 1,988 (282,892) 1,304,730 1,023,826
+At 31 December 2022 1,389,489 822,097 1,011,688 3,223,274
+8 Investments in associates
+Investment in associate 2022 2021
+Credit loss allowance as of 31 December 2021
+(SAR ’000) (SAR ’000)
+Corporate Stage 1 Stage 2 Stage 3 Total
+(12-months ECL) (lifetime (lifetime ECL for Balance at the beginning of the year 295,253 239,179
+ECL for SICR) credit impaired)
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) Investment made during the year 513,288 –
+Dividends during the year (2,952) –
+ECL allowances for
+impairment of financing Share in earnings, net 15,128 56,074
+At 1 January 2021 556,000 1,191,236 1,382,559 3,129,795 Balance at end of the year 820,717 295,253
+Transfers:
+Transfer to 12-month ECL 15,018 (15,018) – –
+The Group owns 35% (31 December 2021: 22.5%) shares of Al Rajhi Company for Cooperative Insurance,
+Transfer to Lifetime ECL not credit impaired (3,942) 3,949 (7) – a Saudi Joint Stock Company.
+Transfer to Lifetime ECL credit impaired (23,147) (6,097) 29,244 –
+Write-offs – – (296,435) (296,435)
+Net charge for the period 867,463 134,972 160,928 1,163,363
+At 31 December 2021 1,411,392 1,309,042 1,276,289 3,996,723
+
+=====================================================================================
+YEAR: 2022
+FILE: Al_Rajhi_2022_Annual_Report.pdf
+PDF PAGE: 125
+=====================================================================================
+742
+Al Rajhi Bank | Annual Report 2022 Al Rajhi Bank | Annual Report 2022
+642
+notes to the consolidated notes to the consolidated
+financial statements financial statements
+Overview Overview
+Context Context
+Business in Perspective Business in Perspective
+ESG Report ESG Report
+Corporate Governance Corporate Governance
+Financial Statements Financial Statements
+Supplementary Supplementary
+9 Property, equipment, and right of use assets, net 10 Goodwill and other intangibles, net
+Property and equipment, net comprises the following as of 31 December: Goodwill Intangibles Total
+(SAR ’000) (SAR ’000) (SAR ’000)
+Land Buildings Leasehold land Equipment Right-of-use Total
+and buildings and assets Cost
+improvements furniture
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) At 1 January 2021 – 364,410 364,410
+Additions – 482,188 482,188
+Cost
+Disposals – – –
+At 1 January 2021 2,350,972 6,181,879 1,593,032 5,786,889 1,550,726 17,463,498
+Additions 106,569 137,327 46,358 1,610,884 3,159 1,904,297 At 31 December 2021 – 846,598 846,598
+Disposals (20,768) (126,856) – (1,154,444) – (1,302,068) Additions 248,733 599,027 847,760
+Disposals – (1,011) (1,011)
+At 31 December 2021 2,436,773 6,192,350 1,639,390 6,243,329 1,553,885 18,065,727
+Additions 179,472 502,188 568 1,698,549 64,936 2,445,713 At 31 December 2022 248,733 1,444,614 1,693,347
+Disposals (1,005) – (23,365) (192,402) (25,353) (242,125)
+Accumulated amortisation
+At 31 December 2022 2,615,240 6,694,538 1,616,593 7,749,476 1,593,468 20,269,315
+At 1 January 2021 – 276,483 276,483
+Charge for the year – 52,004 52,004
+Accumulated
+depreciation Impairment loss – – –
+At 1 January 2021 – 963,193 1,099,049 4,801,820 452,579 7,316,641 Disposals – – –
+Charge for the year – 135,205 61 718,051 210,959 1,064,276 At 31 December 2021 – 328,487 328,487
+Disposals – (1,044) – (461,834) – (462,878) Charge for the year – 111,292 111,292
+At 31 December 2021 – 1,097,354 1,099,110 5,058,037 663,538 7,918,039 Impairment loss – 39,021 39,021
+Charge for the year – 143,588 1,831 741,853 244,865 1,132,137 Disposals – – –
+Disposals – – (5,320) (113,790) (533) (119,643) At 31 December 2022 – 478,800 478,800
+At 31 December 2022 – 1,240,942 1,095,621 5,686,100 907,870 8,930,533
+Net book value
+Net book value At 31 December 2022 248,733 965,814 1,214,547
+At 31 December 2022 2,615,240 5,453,596 520,972 2,063,376 685,598 11,338,782 At 31 December 2021 – 518,111 518,111
+At 31 December 2021 2,436,773 5,094,996 540,280 1,185,292 890,347 10,147,688
+Buildings include work-in-progress amounting to SAR 253 Mn. as at 31 December 2022 (2021: SAR 271 Mn.).
+
+=====================================================================================
+YEAR: 2022
+FILE: Al_Rajhi_2022_Annual_Report.pdf
+PDF PAGE: 135
+=====================================================================================
+762
+Al Rajhi Bank | Annual Report 2022 Al Rajhi Bank | Annual Report 2022
+662
+notes to the consolidated notes to the consolidated
+financial statements financial statements
+Overview Overview
+Context Context
+Business in Perspective Business in Perspective
+ESG Report ESG Report
+Corporate Governance Corporate Governance
+Financial Statements Financial Statements
+Supplementary Supplementary
+2021 Retail Corporate Treasury Investment Total 2021 Retail Corporate Treasury Investment Total
+segment segment segment services and segment segment segment services and
+brokerage brokerage
+segment segment
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Financing and investment income Consolidated balance sheet assets 365,749,350 87,081,308 102,230,559 2,961,252 558,022,469
+from external customers 16,590,307 2,748,795 2,027,436 74,968 21,441,506
+Commitments and contingencies
+Inter-segment operating excluding irrevocable
+income/(expense) (4,549,247) (63,795) 4,613,042 – – commitments to extend credit – 13,802,357 – – 13,802,357
+Gross financing and
+investment income 12,041,060 2,685,000 6,640,478 74,968 21,441,506
+Gross financing and 31 Financial risk management
+investment return (158,337) (695,687) (195,546) – (1,049,570)
+The Group ‘s activities are exposed it to a will fail to discharge an obligation causing
+Net financing and variety of financial risks and those activities the Group to incur a financial loss. Credit risk
+investment income 11,882,723 1,989,313 6,444,932 74,968 20,391,936 involve the analysis, evaluation, acceptance arises principally from financing (credit facilities
+and management of some degree of risk provided to customers) and from cash and
+Fee from banking services, net 1,617,476 749,263 770,608 795,760 3,933,107
+or combination of risks. Taking risk is core to deposits held with other banks. Further, there is
+Exchange income, net 413,470 106,067 268,361 – 787,898 the banking business, and these risks are an credit risk in certain off-balance sheet financial
+inevitable consequence of participating in instruments, including guarantees relating to
+Other operating income, net 136,870 – 363,179 103,408 603,457
+financial markets. The Group’s aim is therefore to purchase and sale of foreign currencies, letters
+Total operating income 14,050,539 2,844,643 7,847,080 974,136 25,716,398 achieve an appropriate balance between risk and of credit, acceptances and commitments to
+return and minimise potential adverse effects on extend credit. Credit risk monitoring and control
+Depreciation and amortisation (1,039,543) (67,795) (23,607) (10,987) (1,141,932) the Group’s financial performance. is performed by the CRMG, which sets parameters
+and thresholds for the Group’s financing
+Impairment charge for financing
+The Group’s risk management policies, activities.
+and other financial assets, net (1,785,410) (566,292) 6,616 – (2,345,086)
+procedures and systems are designed to identify
+Other operating expenses (4,992,399) (393,672) (104,660) (293,859) (5,784,590) and analyse these risks and to set appropriate
+(a) Credit risk measurement
+risk mitigants and controls. The Group reviews
+Total operating expenses (7,817,352) (1,027,759) (121,651) (304,846) (9,271,608)
+its risk management policies and systems on (i) Financing
+an ongoing basis to reflect changes in markets,
+Income before Zakat 6,233,187 1,816,884 7,725,429 669,290 16,444,790 The Group has structured a number of financial
+products and emerging best practices.
+products which are in accordance with Shariah
+law in order to meet the customers demand.
+Risk management is performed by the Credit
+These products are all classified as financing
+(b) The Group’s credit exposure by business segments as of 31 December follows: and Risk Management Group (“CRMG”) under assets in the Group’s consolidated statement
+policies approved by the Board of Directors. The
+of financial position. In measuring credit
+CRMG identifies and evaluates financial risks in
+2022 Retail Corporate Treasury Investment Total risk of financing at a counterparty level, the
+segment segment segment services and close co-operation with the Group’s operating
+Group considers the overall credit worthiness
+brokerage units. The most important types of risks identified
+of the customer based on a proprietary risk
+segment by the Group are credit risk, liquidity risk and
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000) methodology.
+market risk. Market risk includes currency risk,
+profit rate risk, operational risk and price risk.
+Consolidated balance sheet assets 430,015,982 138,322,132 124,251,941 3,927,978 696,518,033 This risk rating methodology utilises a 10 point
+scale based on quantitative and qualitative
+Commitments and contingencies
+(1) Credit risk factors with seven performing categories
+excluding irrevocable
+(rated 1 to 7) and three non-performing
+commitments to extend credit – 24,252,632 – – 24,252,632 Credit risk is considered to be the most significant
+categories (rated 8-10). The risk rating process
+and pervasive risk for the Group. The Group
+is intended to advise the various independent
+takes on exposure to credit risk, which is the risk
+approval authorities of the inherent risks
+that the counter-party to a financial transaction
+
+=====================================================================================
+YEAR: 2022
+FILE: Al_Rajhi_2022_Annual_Report.pdf
+PDF PAGE: 139
+=====================================================================================
+572
+Al Rajhi Bank | Annual Report 2022 Al Rajhi Bank | Annual Report 2022
+472
+notes to the consolidated notes to the consolidated
+financial statements financial statements
+Overview Overview
+Context Context
+Business in Perspective Business in Perspective
+ESG Report ESG Report
+Corporate Governance Corporate Governance
+Financial Statements Financial Statements
+Supplementary Supplementary
+(xi) Credit quality analysis (xii) Financings
+(a) The following table sets out information about the credit quality of financings measured at (a) The net financing concentration risks and the related provision, by major economic sectors at
+amortised cost as at 31 December: 31 December are as follows:
+2022 12 month Life time Life time Total 2022 Performing Non- Allowance for Net
+ECL ECL not credit ECL credit performing impairment financing
+impaired impaired (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Description
+Carrying amount distribution by Grades
+Government 23,936,681 – – 23,936,681
+Grade 1-3/(Aaa – A3) 36,264,588 – – 36,264,588
+Commercial 41,260,020 526,732 (299,207) 41,487,545
+Grade (4-6)/(Baa1 – B3) 99,605,470 2,142,839 – 101,748,309
+Industrial 34,166,854 529,768 (509,390) 34,187,232
+Grade 7 – Watch list/(Caa1 – C) – 2,104,816 – 2,104,816
+Building and construction 6,275,190 5,314 (2,918) 6,277,586
+Credit impaired – – 1,427,693 1,427,693
+Consumer 432,923,861 1,896,504 (1,228,793) 433,591,572
+Total corporate performing and non-performing 135,870,058 4,247,655 1,427,693 141,545,406 Services 17,658,812 125,683 (70,192) 17,714,303
+Total retail (un-rated) 426,179,577 5,328,999 3,311,790 434,820,366 Agriculture and fishing 689,565 112 (65) 689,612
+Finance, Insurance and Investments 13,257,584 210 (115) 13,257,679
+Total carrying amount 562,049,635 9,576,654 4,739,483 576,365,772
+Others 3,112,488 394 (228) 3,112,654
+Total 573,281,055 3,084,717 (2,110,908) 574,254,864
+2021 12 month Life time Life time Total
+12 month and life time ECL not credit impaired – – (5,916,750) (5,916,750)
+ECL ECL not credit ECL credit
+impaired impaired
+Balance 573,281,055 3,084,717 (8,027,658) 568,338,114
+(SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Carrying amount distribution by Grades
+Grade 1-3/(Aaa – A3) 10,983,194 – – 10,983,194 2021 Performing Non- Allowance for Net
+performing impairment financing
+Grade (4-6)/(Baa1 – B3) 73,375,643 2,358,621 – 75,734,264 (SAR ’000) (SAR ’000) (SAR ’000) (SAR ’000)
+Grade 7 – Watch list/(Caa1 – C) – 2,850,570 – 2,850,570
+Description
+Credit impaired – – 1,510,003 1,510,003
+Government 425,234 – – 425,234
+Total corporate performing and non-performing 84,358,837 5,209,191 1,510,003 91,078,031 Commercial 31,876,867 534,425 (418,563) 31,992,729
+Total retail (un-rated) 363,935,472 4,348,687 2,666,621 370,950,780 Industrial 33,155,260 137,392 (104,470) 33,188,182
+Building and construction 3,263,753 709,105 (668,271) 3,304,587
+Total carrying amount 448,294,309 9,557,878 4,176,624 462,028,811
+Consumer 369,450,685 1,500,096 (1,163,714) 369,787,067
+Services 11,808,262 113,321 (70,417) 11,851,166
+Agriculture and fishing 478,209 245 (211) 478,243
+Finance, Insurance and Investments 6,571,766 109 (109) 6,571,766
+Others 1,988,675 15,407 (14,248) 1,989,834
+Total 459,018,711 3,010,100 (2,440,003) 459,588,808
+12 month and life time ECL not credit impaired – – (6,758,151) (6,758,151)
+Balance 459,018,711 3,010,100 (9,198,154) 452,830,657

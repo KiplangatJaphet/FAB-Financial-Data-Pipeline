@@ -1,0 +1,235 @@
+﻿Financial_Year,Report_Year,Column_Position,Category,Amount_SAR_Million_Candidate,PDF_File,PDF_Page,Raw_Line,Review_Flags,Status,Normalised_Line
+2010,2010,1,Interbank_Mutajara,9677.421,Al_Rajhi_2010_Financial_Statements.pdf,15,"Mutajara 9,677,421 13,053,316",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,mutajara
+2009,2010,2,Interbank_Mutajara,13053.316,Al_Rajhi_2010_Financial_Statements.pdf,15,"Mutajara 9,677,421 13,053,316",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,mutajara
+2011,2011,1,Net_Financing,140395.619,Al_Rajhi_2011_Financial_Statements.pdf,29,"Financing, net 6 140,395,619 120,064,667",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2010,2011,2,Net_Financing,120064.667,Al_Rajhi_2011_Financial_Statements.pdf,29,"Financing, net 6 140,395,619 120,064,667",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2011,2011,1,Interbank_Mutajara,13314.329,Al_Rajhi_2011_Financial_Statements.pdf,40,"Mutajara 13,314,329 9,677,421",,CANDIDATE_NOT_VERIFIED,mutajara
+2010,2011,2,Interbank_Mutajara,9677.421,Al_Rajhi_2011_Financial_Statements.pdf,40,"Mutajara 13,314,329 9,677,421",,CANDIDATE_NOT_VERIFIED,mutajara
+2011,2011,1,Government_Murabaha,35524.923,Al_Rajhi_2011_Financial_Statements.pdf,47,"Murabaha with SAMA 35,524,923 25,598,479",,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2010,2011,2,Government_Murabaha,25598.479,Al_Rajhi_2011_Financial_Statements.pdf,47,"Murabaha with SAMA 35,524,923 25,598,479",,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2011,2011,1,Sukuk,1310.097,Al_Rajhi_2011_Financial_Statements.pdf,47,"Sukuk 1,310,097 1,007,539",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2010,2011,2,Sukuk,1007.539,Al_Rajhi_2011_Financial_Statements.pdf,47,"Sukuk 1,310,097 1,007,539",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2012,2012,1,Net_Financing,171941.478,Al_Rajhi_2012_Financial_Statements.pdf,4,"Financing, net 6 171,941,478 140,313,292",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,"financing, net"
+2011,2012,2,Net_Financing,140313.292,Al_Rajhi_2012_Financial_Statements.pdf,4,"Financing, net 6 171,941,478 140,313,292",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,"financing, net"
+2012,2012,1,Interbank_Mutajara,14777.363,Al_Rajhi_2012_Financial_Statements.pdf,17,"Mutajara 14,777,363 13,314,329",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,mutajara
+2011,2012,2,Interbank_Mutajara,13314.329,Al_Rajhi_2012_Financial_Statements.pdf,17,"Mutajara 14,777,363 13,314,329",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,mutajara
+2012,2012,1,Government_Murabaha,38276.376,Al_Rajhi_2012_Financial_Statements.pdf,24,"Murabaha with SAMA 38,276,376 35,524,923",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2011,2012,2,Government_Murabaha,35524.923,Al_Rajhi_2012_Financial_Statements.pdf,24,"Murabaha with SAMA 38,276,376 35,524,923",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2012,2012,1,Sukuk,1045.289,Al_Rajhi_2012_Financial_Statements.pdf,24,"Sukuk 1,045,289 1,310,097",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW;MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,sukuk
+2011,2012,2,Sukuk,1310.097,Al_Rajhi_2012_Financial_Statements.pdf,24,"Sukuk 1,045,289 1,310,097",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW;MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,sukuk
+2014,2014,1,Net_Financing,205939.96,Al_Rajhi_2014_Financial_Statements.pdf,5,"Financing, net 7 205,939,960 186,813,225",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,"financing, net"
+2013,2014,2,Net_Financing,186813.225,Al_Rajhi_2014_Financial_Statements.pdf,5,"Financing, net 7 205,939,960 186,813,225",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,"financing, net"
+2014,2014,1,Interbank_Mutajara,14536.877,Al_Rajhi_2014_Financial_Statements.pdf,24,"Mutajara 14,536,877 13,773,356",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,mutajara
+2013,2014,2,Interbank_Mutajara,13773.356,Al_Rajhi_2014_Financial_Statements.pdf,24,"Mutajara 14,536,877 13,773,356",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,mutajara
+2014,2014,1,Government_Murabaha,39866.296,Al_Rajhi_2014_Financial_Statements.pdf,25,"Murabaha with SAMA 39,866,296 37,229,076",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2013,2014,2,Government_Murabaha,37229.076,Al_Rajhi_2014_Financial_Statements.pdf,25,"Murabaha with SAMA 39,866,296 37,229,076",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2014,2014,1,Sukuk,1507.939,Al_Rajhi_2014_Financial_Statements.pdf,25,"Sukuk, net* 1,507,939 1,167,943",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW;MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,"sukuk, net*"
+2013,2014,2,Sukuk,1167.943,Al_Rajhi_2014_Financial_Statements.pdf,25,"Sukuk, net* 1,507,939 1,167,943",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW;MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,"sukuk, net*"
+2014,2014,1,Sukuk,1507.939,Al_Rajhi_2014_Financial_Statements.pdf,25,"Sukuk 1,507,939 1,167,943",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW;MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,sukuk
+2013,2014,2,Sukuk,1167.943,Al_Rajhi_2014_Financial_Statements.pdf,25,"Sukuk 1,507,939 1,167,943",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW;MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,sukuk
+2016,2016,1,Net_Financing,224994.124,Al_Rajhi_2016_Financial_Statements.pdf,10,"Financing, net 7 224,994,124 210,217,868",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,"financing, net"
+2015,2016,2,Net_Financing,210217.868,Al_Rajhi_2016_Financial_Statements.pdf,10,"Financing, net 7 224,994,124 210,217,868",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,"financing, net"
+2016,2016,1,Sukuk,1300.895,Al_Rajhi_2016_Financial_Statements.pdf,35,"Sukuk 1,300,895 34229491,",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW;MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,sukuk
+2015,2016,2,Sukuk,34229.491,Al_Rajhi_2016_Financial_Statements.pdf,35,"Sukuk 1,300,895 34229491,",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW;MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,sukuk
+2016,2016,1,Interbank_Mutajara,99.779,Al_Rajhi_2016_Financial_Statements.pdf,35,"Mutajara 99,779,,,2 ,,9,9,,04 )2,4,,,2,7( 90,727,702",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,"mutajara ,, ) ("
+2015,2016,2,Interbank_Mutajara,90727.702,Al_Rajhi_2016_Financial_Statements.pdf,35,"Mutajara 99,779,,,2 ,,9,9,,04 )2,4,,,2,7( 90,727,702",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,"mutajara ,, ) ("
+2016,2016,1,Government_Murabaha,30451.217,Al_Rajhi_2016_Financial_Statements.pdf,61,"Murabaha with SAMA 30,451,217 36,727,031",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2015,2016,2,Government_Murabaha,36727.031,Al_Rajhi_2016_Financial_Statements.pdf,61,"Murabaha with SAMA 30,451,217 36,727,031",MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2016,2016,1,Sukuk,2100.895,Al_Rajhi_2016_Financial_Statements.pdf,61,"Sukuk 2,100,895 1,225,534",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW;MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,sukuk
+2015,2016,2,Sukuk,1225.534,Al_Rajhi_2016_Financial_Statements.pdf,61,"Sukuk 2,100,895 1,225,534",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW;MISSING_STANDALONE_COMPARATIVE_YEAR_CHECK,CANDIDATE_NOT_VERIFIED,sukuk
+2017,2017,1,SAMA_Mutajara,21310.111,Al_Rajhi_2017_Financial_Statements.pdf,31,"Mutajara with SAMA 21,310,111 15,181,051",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2016,2017,2,SAMA_Mutajara,15181.051,Al_Rajhi_2017_Financial_Statements.pdf,31,"Mutajara with SAMA 21,310,111 15,181,051",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2017,2017,1,Interbank_Mutajara,9883.887,Al_Rajhi_2017_Financial_Statements.pdf,32,"Mutajara 9,883,887 25,724,933",,CANDIDATE_NOT_VERIFIED,mutajara
+2016,2017,2,Interbank_Mutajara,25724.933,Al_Rajhi_2017_Financial_Statements.pdf,32,"Mutajara 9,883,887 25,724,933",,CANDIDATE_NOT_VERIFIED,mutajara
+2017,2017,1,Government_Murabaha,23452.869,Al_Rajhi_2017_Financial_Statements.pdf,32,"Murabaha with SAMA 23,452,869 30,451,217",,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2016,2017,2,Government_Murabaha,30451.217,Al_Rajhi_2017_Financial_Statements.pdf,32,"Murabaha with SAMA 23,452,869 30,451,217",,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2017,2017,1,Sukuk,10605.139,Al_Rajhi_2017_Financial_Statements.pdf,32,"Sukuk 10,605,139 2,100,895",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2016,2017,2,Sukuk,2100.895,Al_Rajhi_2017_Financial_Statements.pdf,32,"Sukuk 10,605,139 2,100,895",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2017,2017,1,Government_Murabaha,23452.869,Al_Rajhi_2017_Financial_Statements.pdf,33,"Murabaha with SAMA - 23,452,869 23,452,869",,CANDIDATE_NOT_VERIFIED,murabaha with sama -
+2016,2017,2,Government_Murabaha,23452.869,Al_Rajhi_2017_Financial_Statements.pdf,33,"Murabaha with SAMA - 23,452,869 23,452,869",,CANDIDATE_NOT_VERIFIED,murabaha with sama -
+2017,2017,1,Sukuk,10605.139,Al_Rajhi_2017_Financial_Statements.pdf,33,"Sukuk - 10,605,139 10,605,139",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk -
+2016,2017,2,Sukuk,10605.139,Al_Rajhi_2017_Financial_Statements.pdf,33,"Sukuk - 10,605,139 10,605,139",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk -
+2017,2017,1,Government_Murabaha,30451.217,Al_Rajhi_2017_Financial_Statements.pdf,33,"Murabaha with SAMA - 30,451,217 30,451,217",,CANDIDATE_NOT_VERIFIED,murabaha with sama -
+2016,2017,2,Government_Murabaha,30451.217,Al_Rajhi_2017_Financial_Statements.pdf,33,"Murabaha with SAMA - 30,451,217 30,451,217",,CANDIDATE_NOT_VERIFIED,murabaha with sama -
+2017,2017,1,Sukuk,2100.895,Al_Rajhi_2017_Financial_Statements.pdf,33,"Sukuk - 2,100,895 2,100,895",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk -
+2016,2017,2,Sukuk,2100.895,Al_Rajhi_2017_Financial_Statements.pdf,33,"Sukuk - 2,100,895 2,100,895",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk -
+2017,2017,1,Government_Murabaha,23452.869,Al_Rajhi_2017_Financial_Statements.pdf,34,"Murabaha with SAMA 23,452,869 30,451,217",,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2016,2017,2,Government_Murabaha,30451.217,Al_Rajhi_2017_Financial_Statements.pdf,34,"Murabaha with SAMA 23,452,869 30,451,217",,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2017,2017,1,Sukuk,10605.139,Al_Rajhi_2017_Financial_Statements.pdf,34,"Sukuk - Investment grade 10,605,139 2,100,895",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk - investment grade
+2016,2017,2,Sukuk,2100.895,Al_Rajhi_2017_Financial_Statements.pdf,34,"Sukuk - Investment grade 10,605,139 2,100,895",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk - investment grade
+2017,2017,1,Sukuk,1545.059,Al_Rajhi_2017_Financial_Statements.pdf,34,"Sukuk 1,545,059 1,300,895",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2016,2017,2,Sukuk,1300.895,Al_Rajhi_2017_Financial_Statements.pdf,34,"Sukuk 1,545,059 1,300,895",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2017,2017,1,SAMA_Mutajara,21310.111,Al_Rajhi_2017_Financial_Statements.pdf,53,"Mutajara with SAMA 21,310,111 15,181,0 51",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2016,2017,2,SAMA_Mutajara,15.181,Al_Rajhi_2017_Financial_Statements.pdf,53,"Mutajara with SAMA 21,310,111 15,181,0 51",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2017,2017,1,Government_Murabaha,23452.869,Al_Rajhi_2017_Financial_Statements.pdf,61,"Murabaha with SAMA 23,452,869 30,451,217",,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2016,2017,2,Government_Murabaha,30451.217,Al_Rajhi_2017_Financial_Statements.pdf,61,"Murabaha with SAMA 23,452,869 30,451,217",,CANDIDATE_NOT_VERIFIED,murabaha with sama
+2017,2017,1,Sukuk,10605.139,Al_Rajhi_2017_Financial_Statements.pdf,61,"Sukuk 10,605,139 2,100,895",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2016,2017,2,Sukuk,2100.895,Al_Rajhi_2017_Financial_Statements.pdf,61,"Sukuk 10,605,139 2,100,895",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2018,2018,1,Net_Financing,234.063,Al_Rajhi_2018_Annual_Report.pdf,46,"Financing, net 234,063 233,536 +0.2",,CANDIDATE_NOT_VERIFIED,"financing, net + ."
+2017,2018,2,Net_Financing,233.536,Al_Rajhi_2018_Annual_Report.pdf,46,"Financing, net 234,063 233,536 +0.2",,CANDIDATE_NOT_VERIFIED,"financing, net + ."
+2018,2018,1,Net_Financing,234062.789,Al_Rajhi_2018_Annual_Report.pdf,122,"Financing, net 7 234,062,789 233,535,573",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2017,2018,2,Net_Financing,233535.573,Al_Rajhi_2018_Annual_Report.pdf,122,"Financing, net 7 234,062,789 233,535,573",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2018,2018,1,Government_Murabaha,23452.869,Al_Rajhi_2018_Annual_Report.pdf,132,"Murabaha with Saudi Government and SAMA Held to maturity Amortised cost 23,452,869 23,437,245",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama held to maturity amortised cost
+2017,2018,2,Government_Murabaha,23437.245,Al_Rajhi_2018_Annual_Report.pdf,132,"Murabaha with Saudi Government and SAMA Held to maturity Amortised cost 23,452,869 23,437,245",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama held to maturity amortised cost
+2018,2018,1,Sukuk,9805.139,Al_Rajhi_2018_Annual_Report.pdf,132,"Sukuk Held to maturity Amortised cost 9,805,139 9,775,876",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk held to maturity amortised cost
+2017,2018,2,Sukuk,9775.876,Al_Rajhi_2018_Annual_Report.pdf,132,"Sukuk Held to maturity Amortised cost 9,805,139 9,775,876",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk held to maturity amortised cost
+2018,2018,1,Net_Financing,233535.573,Al_Rajhi_2018_Annual_Report.pdf,132,"Financing, net Loans and receivables Amortised cost 233,535,573 230,701,718",,CANDIDATE_NOT_VERIFIED,"financing, net loans and receivables amortised cost"
+2017,2018,2,Net_Financing,230701.718,Al_Rajhi_2018_Annual_Report.pdf,132,"Financing, net Loans and receivables Amortised cost 233,535,573 230,701,718",,CANDIDATE_NOT_VERIFIED,"financing, net loans and receivables amortised cost"
+2018,2018,1,Government_Murabaha,22477.145,Al_Rajhi_2018_Annual_Report.pdf,136,"Murabaha with Saudi Government and SAMA – – 22,477,145 22,477,145",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama – –
+2017,2018,2,Government_Murabaha,22477.145,Al_Rajhi_2018_Annual_Report.pdf,136,"Murabaha with Saudi Government and SAMA – – 22,477,145 22,477,145",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama – –
+2018,2018,1,Sukuk,17395.957,Al_Rajhi_2018_Annual_Report.pdf,136,"Sukuk – – 17,395,957 17,395,957",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk – –
+2017,2018,2,Sukuk,17395.957,Al_Rajhi_2018_Annual_Report.pdf,136,"Sukuk – – 17,395,957 17,395,957",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk – –
+2018,2018,1,Sukuk,800.0,Al_Rajhi_2018_Annual_Report.pdf,136,"Sukuk 800,000 – – 800,000",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk – –
+2017,2018,2,Sukuk,800.0,Al_Rajhi_2018_Annual_Report.pdf,136,"Sukuk 800,000 – – 800,000",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk – –
+2018,2018,1,Net_Financing,234062.789,Al_Rajhi_2018_Annual_Report.pdf,136,"Financing, net – – 234,062,789 234,062,789",,CANDIDATE_NOT_VERIFIED,"financing, net – –"
+2017,2018,2,Net_Financing,234062.789,Al_Rajhi_2018_Annual_Report.pdf,136,"Financing, net – – 234,062,789 234,062,789",,CANDIDATE_NOT_VERIFIED,"financing, net – –"
+2018,2018,1,Sukuk,10605.139,Al_Rajhi_2018_Annual_Report.pdf,137,"Sukuk – – 10,605,139 – – – 10,605,139",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk – – – – –
+2017,2018,2,Sukuk,10605.139,Al_Rajhi_2018_Annual_Report.pdf,137,"Sukuk – – 10,605,139 – – – 10,605,139",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk – – – – –
+2018,2018,1,Net_Financing,233535.573,Al_Rajhi_2018_Annual_Report.pdf,137,"Financing, net – – – 233,535,573 – – 233,535,573",,CANDIDATE_NOT_VERIFIED,"financing, net – – – – –"
+2017,2018,2,Net_Financing,233535.573,Al_Rajhi_2018_Annual_Report.pdf,137,"Financing, net – – – 233,535,573 – – 233,535,573",,CANDIDATE_NOT_VERIFIED,"financing, net – – – – –"
+2018,2018,1,SAMA_Mutajara,15375.0,Al_Rajhi_2018_Annual_Report.pdf,152,"Mutajara with SAMA 15,375,000 21,310,111",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2017,2018,2,SAMA_Mutajara,21310.111,Al_Rajhi_2018_Annual_Report.pdf,152,"Mutajara with SAMA 15,375,000 21,310,111",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2018,2018,1,Interbank_Mutajara,30029.242,Al_Rajhi_2018_Annual_Report.pdf,152,"Mutajara 30,029,242 9,883,887",,CANDIDATE_NOT_VERIFIED,mutajara
+2017,2018,2,Interbank_Mutajara,9883.887,Al_Rajhi_2018_Annual_Report.pdf,152,"Mutajara 30,029,242 9,883,887",,CANDIDATE_NOT_VERIFIED,mutajara
+2018,2018,1,Government_Murabaha,22477.145,Al_Rajhi_2018_Annual_Report.pdf,153,"Murabaha with Saudi Government and SAMA 22,477,145 23,452,869",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2017,2018,2,Government_Murabaha,23452.869,Al_Rajhi_2018_Annual_Report.pdf,153,"Murabaha with Saudi Government and SAMA 22,477,145 23,452,869",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2018,2018,1,Sukuk,17395.957,Al_Rajhi_2018_Annual_Report.pdf,153,"Sukuk 17,395,957 10,605,139",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2017,2018,2,Sukuk,10605.139,Al_Rajhi_2018_Annual_Report.pdf,153,"Sukuk 17,395,957 10,605,139",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2018,2018,1,SAMA_Mutajara,15375.0,Al_Rajhi_2018_Annual_Report.pdf,170,"Mutajara with SAMA 15,375,000 21,310,111",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2017,2018,2,SAMA_Mutajara,21310.111,Al_Rajhi_2018_Annual_Report.pdf,170,"Mutajara with SAMA 15,375,000 21,310,111",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2018,2018,1,Government_Murabaha,22477.145,Al_Rajhi_2018_Annual_Report.pdf,185,"Murabaha with Saudi Government and SAMA 22,477,145 23,452,869",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2017,2018,2,Government_Murabaha,23452.869,Al_Rajhi_2018_Annual_Report.pdf,185,"Murabaha with Saudi Government and SAMA 22,477,145 23,452,869",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2018,2018,1,Sukuk,18195.957,Al_Rajhi_2018_Annual_Report.pdf,185,"Sukuk 18,195,957 10,605,139",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2017,2018,2,Sukuk,10605.139,Al_Rajhi_2018_Annual_Report.pdf,185,"Sukuk 18,195,957 10,605,139",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2018,2018,1,Net_Financing,62416.744,Al_Rajhi_2018_Annual_Report.pdf,213,"Financing, net 62,416,744 62,276,153",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2017,2018,2,Net_Financing,62276.153,Al_Rajhi_2018_Annual_Report.pdf,213,"Financing, net 62,416,744 62,276,153",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2019,2019,1,Net_Financing,249.683,Al_Rajhi_2019_Annual_Report.pdf,27,"Financing, net 249,683 231,758 7.7%",,CANDIDATE_NOT_VERIFIED,"financing, net . %"
+2018,2019,2,Net_Financing,231.758,Al_Rajhi_2019_Annual_Report.pdf,27,"Financing, net 249,683 231,758 7.7%",,CANDIDATE_NOT_VERIFIED,"financing, net . %"
+2019,2019,1,Net_Financing,249682.805,Al_Rajhi_2019_Annual_Report.pdf,52,"Financing, net 7 249,682,805 231,758,206",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2018,2019,2,Net_Financing,231758.206,Al_Rajhi_2019_Annual_Report.pdf,52,"Financing, net 7 249,682,805 231,758,206",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2019,2019,1,SAMA_Mutajara,10855.0,Al_Rajhi_2019_Annual_Report.pdf,61,"Mutajara with SAMA 10,855,000 15,375,000 Investments held as FVSI",,CANDIDATE_NOT_VERIFIED,mutajara with sama investments held as fvsi
+2018,2019,2,SAMA_Mutajara,15375.0,Al_Rajhi_2019_Annual_Report.pdf,61,"Mutajara with SAMA 10,855,000 15,375,000 Investments held as FVSI",,CANDIDATE_NOT_VERIFIED,mutajara with sama investments held as fvsi
+2019,2019,1,Sukuk,800.0,Al_Rajhi_2019_Annual_Report.pdf,61,"Sukuk 800,000 800,000",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2018,2019,2,Sukuk,800.0,Al_Rajhi_2019_Annual_Report.pdf,61,"Sukuk 800,000 800,000",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2019,2019,1,SAMA_Mutajara,10855.0,Al_Rajhi_2019_Annual_Report.pdf,69,"Mutajara with SAMA 10,855,000 15,375,000 25.5 Principal actuarial assumptions (in respect of the employee benefit scheme)",,CANDIDATE_NOT_VERIFIED,mutajara with sama . principal actuarial assumptions (in respect of the employee benefit scheme)
+2018,2019,2,SAMA_Mutajara,15375.0,Al_Rajhi_2019_Annual_Report.pdf,69,"Mutajara with SAMA 10,855,000 15,375,000 25.5 Principal actuarial assumptions (in respect of the employee benefit scheme)",,CANDIDATE_NOT_VERIFIED,mutajara with sama . principal actuarial assumptions (in respect of the employee benefit scheme)
+2019,2019,1,Government_Murabaha,24991.978,Al_Rajhi_2019_Annual_Report.pdf,75,"Murabaha with Saudi Government and SAMA 24,991,978 22,477,145 Regulations issued by SAMA, the Bank maintains a statutory and external regulatory requirements and maintaining debt",,CANDIDATE_NOT_VERIFIED,"murabaha with saudi government and sama regulations issued by sama, the bank maintains a statutory and external regulatory requirements and maintaining debt"
+2018,2019,2,Government_Murabaha,22477.145,Al_Rajhi_2019_Annual_Report.pdf,75,"Murabaha with Saudi Government and SAMA 24,991,978 22,477,145 Regulations issued by SAMA, the Bank maintains a statutory and external regulatory requirements and maintaining debt",,CANDIDATE_NOT_VERIFIED,"murabaha with saudi government and sama regulations issued by sama, the bank maintains a statutory and external regulatory requirements and maintaining debt"
+2019,2019,1,Sukuk,18751.109,Al_Rajhi_2019_Annual_Report.pdf,75,"Sukuk 18,751,109 18,167,620",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2018,2019,2,Sukuk,18167.62,Al_Rajhi_2019_Annual_Report.pdf,75,"Sukuk 18,751,109 18,167,620",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2020,2020,1,Net_Financing,315712.101,Al_Rajhi_2020_Annual_Report.pdf,76,"Financing, net 7 315,712,101 249,682,805",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2019,2020,2,Net_Financing,249682.805,Al_Rajhi_2020_Annual_Report.pdf,76,"Financing, net 7 315,712,101 249,682,805",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2020,2020,1,Government_Murabaha,22904.021,Al_Rajhi_2020_Annual_Report.pdf,85,"Murabaha with Saudi Government and SAMA 22,904,021 24,991,978",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2019,2020,2,Government_Murabaha,24991.978,Al_Rajhi_2020_Annual_Report.pdf,85,"Murabaha with Saudi Government and SAMA 22,904,021 24,991,978",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2020,2020,1,SAMA_Mutajara,16235.549,Al_Rajhi_2020_Annual_Report.pdf,85,"Mutajara with SAMA 16,235,549 10,855,000",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2019,2020,2,SAMA_Mutajara,10855.0,Al_Rajhi_2020_Annual_Report.pdf,85,"Mutajara with SAMA 16,235,549 10,855,000",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2020,2020,1,Sukuk,25240.452,Al_Rajhi_2020_Annual_Report.pdf,85,"Sukuk 25,240,452 17,973,379",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2019,2020,2,Sukuk,17973.379,Al_Rajhi_2020_Annual_Report.pdf,85,"Sukuk 25,240,452 17,973,379",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2020,2020,1,Sukuk,2588.595,Al_Rajhi_2020_Annual_Report.pdf,85,"Sukuk 2,588,595 800,000",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2019,2020,2,Sukuk,800.0,Al_Rajhi_2020_Annual_Report.pdf,85,"Sukuk 2,588,595 800,000",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2020,2020,1,Interbank_Mutajara,27395.208,Al_Rajhi_2020_Annual_Report.pdf,85,"Mutajara 27,395,208 31,260,014",,CANDIDATE_NOT_VERIFIED,mutajara
+2019,2020,2,Interbank_Mutajara,31260.014,Al_Rajhi_2020_Annual_Report.pdf,85,"Mutajara 27,395,208 31,260,014",,CANDIDATE_NOT_VERIFIED,mutajara
+2020,2020,1,Sukuk,3766.053,Al_Rajhi_2020_Annual_Report.pdf,87,"Sukuk 3,766,053 1,128,857",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2019,2020,2,Sukuk,1128.857,Al_Rajhi_2020_Annual_Report.pdf,87,"Sukuk 3,766,053 1,128,857",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2020,2020,1,SAMA_Mutajara,16235.549,Al_Rajhi_2020_Annual_Report.pdf,97,"Mutajara with SAMA 16,235,549 10,855,000",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2019,2020,2,SAMA_Mutajara,10855.0,Al_Rajhi_2020_Annual_Report.pdf,97,"Mutajara with SAMA 16,235,549 10,855,000",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2020,2020,1,Sukuk,28406.417,Al_Rajhi_2020_Annual_Report.pdf,104,"Sukuk 28,406,417 18,751,109",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2019,2020,2,Sukuk,18751.109,Al_Rajhi_2020_Annual_Report.pdf,104,"Sukuk 28,406,417 18,751,109",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2020,2020,1,Interbank_Mutajara,59.321,Al_Rajhi_2020_Annual_Report.pdf,113,"Mutajara 59,321 67,680",,CANDIDATE_NOT_VERIFIED,mutajara
+2019,2020,2,Interbank_Mutajara,67.68,Al_Rajhi_2020_Annual_Report.pdf,113,"Mutajara 59,321 67,680",,CANDIDATE_NOT_VERIFIED,mutajara
+2021,2021,1,Net_Financing,452830.657,Al_Rajhi_2021_Annual_Report.pdf,188,"Financing, net 7 452,830,657 315,712,101",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2020,2021,2,Net_Financing,315712.101,Al_Rajhi_2021_Annual_Report.pdf,188,"Financing, net 7 452,830,657 315,712,101",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2021,2021,1,SAMA_Mutajara,5799.92,Al_Rajhi_2021_Annual_Report.pdf,220,"Mutajara with SAMA 5,799,920 16,235,549",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2020,2021,2,SAMA_Mutajara,16235.549,Al_Rajhi_2021_Annual_Report.pdf,220,"Mutajara with SAMA 5,799,920 16,235,549",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2021,2021,1,Interbank_Mutajara,24013.126,Al_Rajhi_2021_Annual_Report.pdf,220,"Mutajara 24,013,126 27,399,893",,CANDIDATE_NOT_VERIFIED,mutajara
+2020,2021,2,Interbank_Mutajara,27399.893,Al_Rajhi_2021_Annual_Report.pdf,220,"Mutajara 24,013,126 27,399,893",,CANDIDATE_NOT_VERIFIED,mutajara
+2021,2021,1,Government_Murabaha,22611.987,Al_Rajhi_2021_Annual_Report.pdf,222,"Murabaha with Saudi Government and SAMA 22,611,987 22,904,021",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2020,2021,2,Government_Murabaha,22904.021,Al_Rajhi_2021_Annual_Report.pdf,222,"Murabaha with Saudi Government and SAMA 22,611,987 22,904,021",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2021,2021,1,Sukuk,46518.108,Al_Rajhi_2021_Annual_Report.pdf,222,"Sukuk 46,518,108 25,240,452",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2020,2021,2,Sukuk,25240.452,Al_Rajhi_2021_Annual_Report.pdf,222,"Sukuk 46,518,108 25,240,452",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2021,2021,1,Sukuk,3745.521,Al_Rajhi_2021_Annual_Report.pdf,222,"Sukuk 3,745,521 2,588,595",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2020,2021,2,Sukuk,2588.595,Al_Rajhi_2021_Annual_Report.pdf,222,"Sukuk 3,745,521 2,588,595",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2021,2021,1,Sukuk,1532.611,Al_Rajhi_2021_Annual_Report.pdf,222,"Sukuk 1,532,611 604,332",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2020,2021,2,Sukuk,604.332,Al_Rajhi_2021_Annual_Report.pdf,222,"Sukuk 1,532,611 604,332",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2021,2021,1,Government_Murabaha,22611.987,Al_Rajhi_2021_Annual_Report.pdf,223,"Murabaha with Saudi Government and SAMA – 22,611,987 22,611,987",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama –
+2020,2021,2,Government_Murabaha,22611.987,Al_Rajhi_2021_Annual_Report.pdf,223,"Murabaha with Saudi Government and SAMA – 22,611,987 22,611,987",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama –
+2021,2021,1,Government_Murabaha,22904.021,Al_Rajhi_2021_Annual_Report.pdf,223,"Murabaha with Saudi Government and SAMA – 22,904,021 22,904,021",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama –
+2020,2021,2,Government_Murabaha,22904.021,Al_Rajhi_2021_Annual_Report.pdf,223,"Murabaha with Saudi Government and SAMA – 22,904,021 22,904,021",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama –
+2021,2021,1,SAMA_Mutajara,5799.92,Al_Rajhi_2021_Annual_Report.pdf,254,"Mutajara with SAMA 5,799,920 16,235,549",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2020,2021,2,SAMA_Mutajara,16235.549,Al_Rajhi_2021_Annual_Report.pdf,254,"Mutajara with SAMA 5,799,920 16,235,549",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2021,2021,1,Government_Murabaha,22611.987,Al_Rajhi_2021_Annual_Report.pdf,272,"Murabaha with Saudi Government and SAMA 22,611,987 22,904,021",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2020,2021,2,Government_Murabaha,22904.021,Al_Rajhi_2021_Annual_Report.pdf,272,"Murabaha with Saudi Government and SAMA 22,611,987 22,904,021",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2021,2021,1,Sukuk,51764.416,Al_Rajhi_2021_Annual_Report.pdf,272,"Sukuk 51,764,416 28,406,417",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2020,2021,2,Sukuk,28406.417,Al_Rajhi_2021_Annual_Report.pdf,272,"Sukuk 51,764,416 28,406,417",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2022,2022,1,SAMA_Mutajara,2053.0,Al_Rajhi_2022_Annual_Report.pdf,115,"Mutajara with SAMA 2,053,000 5,799,920",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2021,2022,2,SAMA_Mutajara,5799.92,Al_Rajhi_2022_Annual_Report.pdf,115,"Mutajara with SAMA 2,053,000 5,799,920",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2022,2022,1,Interbank_Mutajara,20894.85,Al_Rajhi_2022_Annual_Report.pdf,115,"Mutajara 20,894,850 24,013,126",,CANDIDATE_NOT_VERIFIED,mutajara
+2021,2022,2,Interbank_Mutajara,24013.126,Al_Rajhi_2022_Annual_Report.pdf,115,"Mutajara 20,894,850 24,013,126",,CANDIDATE_NOT_VERIFIED,mutajara
+2022,2022,1,Government_Murabaha,22696.693,Al_Rajhi_2022_Annual_Report.pdf,116,"Murabaha with Saudi Government and SAMA 22,696,693 22,611,987",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2021,2022,2,Government_Murabaha,22611.987,Al_Rajhi_2022_Annual_Report.pdf,116,"Murabaha with Saudi Government and SAMA 22,696,693 22,611,987",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2022,2022,1,Government_Murabaha,22611.987,Al_Rajhi_2022_Annual_Report.pdf,116,"Murabaha with Saudi Government and SAMA – 22,611,987 22,611,987",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama –
+2021,2022,2,Government_Murabaha,22611.987,Al_Rajhi_2022_Annual_Report.pdf,116,"Murabaha with Saudi Government and SAMA – 22,611,987 22,611,987",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama –
+2022,2022,1,Sukuk,3292.01,Al_Rajhi_2022_Annual_Report.pdf,116,"Sukuk* 3,292,010 3,834,641",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk*
+2021,2022,2,Sukuk,3834.641,Al_Rajhi_2022_Annual_Report.pdf,116,"Sukuk* 3,292,010 3,834,641",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk*
+2022,2022,1,SAMA_Mutajara,2053.0,Al_Rajhi_2022_Annual_Report.pdf,132,"Mutajara with SAMA 2,053,000 5,799,920",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2021,2022,2,SAMA_Mutajara,5799.92,Al_Rajhi_2022_Annual_Report.pdf,132,"Mutajara with SAMA 2,053,000 5,799,920",,CANDIDATE_NOT_VERIFIED,mutajara with sama
+2022,2022,1,Government_Murabaha,22696.693,Al_Rajhi_2022_Annual_Report.pdf,141,"Murabaha with Saudi Government and SAMA 22,696,693 22,611,987 market disruptions or by credit downgrades, Assets available to meet liabilities and to cover",,CANDIDATE_NOT_VERIFIED,"murabaha with saudi government and sama market disruptions or by credit downgrades, assets available to meet liabilities and to cover"
+2021,2022,2,Government_Murabaha,22611.987,Al_Rajhi_2022_Annual_Report.pdf,141,"Murabaha with Saudi Government and SAMA 22,696,693 22,611,987 market disruptions or by credit downgrades, Assets available to meet liabilities and to cover",,CANDIDATE_NOT_VERIFIED,"murabaha with saudi government and sama market disruptions or by credit downgrades, assets available to meet liabilities and to cover"
+2022,2022,1,Sukuk,74016.436,Al_Rajhi_2022_Annual_Report.pdf,141,"Sukuk 74,016,436 51,764,416",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2021,2022,2,Sukuk,51764.416,Al_Rajhi_2022_Annual_Report.pdf,141,"Sukuk 74,016,436 51,764,416",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2022,2022,1,Net_Financing,32.063,Al_Rajhi_2022_Annual_Report.pdf,148,"Financing, net Murabaha – – 32,063 32,063",,CANDIDATE_NOT_VERIFIED,"financing, net murabaha – –"
+2021,2022,2,Net_Financing,32.063,Al_Rajhi_2022_Annual_Report.pdf,148,"Financing, net Murabaha – – 32,063 32,063",,CANDIDATE_NOT_VERIFIED,"financing, net murabaha – –"
+2023,2023,1,Net_Financing,594204.806,Al_Rajhi_2023_Annual_Report.pdf,234,"Financing, net 7 594,204,806 568,338,114",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2022,2023,2,Net_Financing,568338.114,Al_Rajhi_2023_Annual_Report.pdf,234,"Financing, net 7 594,204,806 568,338,114",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2023,2023,1,Net_Financing,-27370.87,Al_Rajhi_2023_Annual_Report.pdf,242,"Financing, net (27,370,870) (117,508,716)",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2022,2023,2,Net_Financing,-117508.716,Al_Rajhi_2023_Annual_Report.pdf,242,"Financing, net (27,370,870) (117,508,716)",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2023,2023,1,Interbank_Mutajara,6331.071,Al_Rajhi_2023_Annual_Report.pdf,268,"Mutajara 6,331,071 20,894,850",,CANDIDATE_NOT_VERIFIED,mutajara
+2022,2023,2,Interbank_Mutajara,20894.85,Al_Rajhi_2023_Annual_Report.pdf,268,"Mutajara 6,331,071 20,894,850",,CANDIDATE_NOT_VERIFIED,mutajara
+2023,2023,1,Government_Murabaha,20067.953,Al_Rajhi_2023_Annual_Report.pdf,270,"Murabaha with Saudi Government and SAMA 20,067,953 22,696,693",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2022,2023,2,Government_Murabaha,22696.693,Al_Rajhi_2023_Annual_Report.pdf,270,"Murabaha with Saudi Government and SAMA 20,067,953 22,696,693",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2023,2023,1,Sukuk,87962.033,Al_Rajhi_2023_Annual_Report.pdf,270,"Sukuk 87,962,033 70,608,347",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2022,2023,2,Sukuk,70608.347,Al_Rajhi_2023_Annual_Report.pdf,270,"Sukuk 87,962,033 70,608,347",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2023,2023,1,Sukuk,122.374,Al_Rajhi_2023_Annual_Report.pdf,270,"Sukuk 122,374 159,591",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2022,2023,2,Sukuk,159.591,Al_Rajhi_2023_Annual_Report.pdf,270,"Sukuk 122,374 159,591",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2023,2023,1,Sukuk,14535.53,Al_Rajhi_2023_Annual_Report.pdf,270,"Sukuk 14,535,530 2,132,880",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2022,2023,2,Sukuk,2132.88,Al_Rajhi_2023_Annual_Report.pdf,270,"Sukuk 14,535,530 2,132,880",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2023,2023,1,Government_Murabaha,20067.953,Al_Rajhi_2023_Annual_Report.pdf,324,"Murabaha with Saudi Government and SAMA 20,067,953 22,696,693",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2022,2023,2,Government_Murabaha,22696.693,Al_Rajhi_2023_Annual_Report.pdf,324,"Murabaha with Saudi Government and SAMA 20,067,953 22,696,693",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2023,2023,1,Sukuk,102547.859,Al_Rajhi_2023_Annual_Report.pdf,324,"Sukuk 102,547,859 72,857,306",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2022,2023,2,Sukuk,72857.306,Al_Rajhi_2023_Annual_Report.pdf,324,"Sukuk 102,547,859 72,857,306",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2023,2023,1,Net_Financing,9506.673,Al_Rajhi_2023_Annual_Report.pdf,324,"Financing, net 9,506,673 25,655,929",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2022,2023,2,Net_Financing,25655.929,Al_Rajhi_2023_Annual_Report.pdf,324,"Financing, net 9,506,673 25,655,929",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2023,2023,1,Sukuk,3789.117,Al_Rajhi_2023_Annual_Report.pdf,326,"Sukuk issued – – 3,789,117 – – 3,789,117",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk issued – – – –
+2022,2023,2,Sukuk,3789.117,Al_Rajhi_2023_Annual_Report.pdf,326,"Sukuk issued – – 3,789,117 – – 3,789,117",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk issued – – – –
+2024,2024,1,Sukuk,8450.753,Al_Rajhi_2024_Annual_Report.pdf,51,"Sukuk issued 8,450,753 3,789,117 – – –",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk issued – – –
+2023,2024,2,Sukuk,3789.117,Al_Rajhi_2024_Annual_Report.pdf,51,"Sukuk issued 8,450,753 3,789,117 – – –",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk issued – – –
+2024,2024,1,Net_Financing,693409.723,Al_Rajhi_2024_Annual_Report.pdf,282,"Financing, net 8 693,409,723 594,204,806",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2023,2024,2,Net_Financing,594204.806,Al_Rajhi_2024_Annual_Report.pdf,282,"Financing, net 8 693,409,723 594,204,806",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2024,2024,1,Net_Financing,-101321.661,Al_Rajhi_2024_Annual_Report.pdf,290,"Financing, net (101,321,661) (27,370,870)",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2023,2024,2,Net_Financing,-27370.87,Al_Rajhi_2024_Annual_Report.pdf,290,"Financing, net (101,321,661) (27,370,870)",,CANDIDATE_NOT_VERIFIED,"financing, net"
+2024,2024,1,Interbank_Mutajara,17892.806,Al_Rajhi_2024_Annual_Report.pdf,320,"Mutajara 17,892,806 6,331,071",,CANDIDATE_NOT_VERIFIED,mutajara
+2023,2024,2,Interbank_Mutajara,6331.071,Al_Rajhi_2024_Annual_Report.pdf,320,"Mutajara 17,892,806 6,331,071",,CANDIDATE_NOT_VERIFIED,mutajara
+2024,2024,1,Government_Murabaha,15022.361,Al_Rajhi_2024_Annual_Report.pdf,321,"Murabaha with Saudi Government and SAMA 15,022,361 20,067,953",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2023,2024,2,Government_Murabaha,20067.953,Al_Rajhi_2024_Annual_Report.pdf,321,"Murabaha with Saudi Government and SAMA 15,022,361 20,067,953",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2024,2024,1,Sukuk,120971.297,Al_Rajhi_2024_Annual_Report.pdf,321,"Sukuk 120,971,297 87,962,033",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2023,2024,2,Sukuk,87962.033,Al_Rajhi_2024_Annual_Report.pdf,321,"Sukuk 120,971,297 87,962,033",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2024,2024,1,Sukuk,276.612,Al_Rajhi_2024_Annual_Report.pdf,321,"Sukuk 276,612 122,374",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2023,2024,2,Sukuk,122.374,Al_Rajhi_2024_Annual_Report.pdf,321,"Sukuk 276,612 122,374",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2024,2024,1,Sukuk,19208.062,Al_Rajhi_2024_Annual_Report.pdf,321,"Sukuk 19,208,062 14,535,530",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2023,2024,2,Sukuk,14535.53,Al_Rajhi_2024_Annual_Report.pdf,321,"Sukuk 19,208,062 14,535,530",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2024,2024,1,Government_Murabaha,15022.361,Al_Rajhi_2024_Annual_Report.pdf,323,"Murabaha with Saudi Government and SAMA 15,022,361 20,067,953",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2023,2024,2,Government_Murabaha,20067.953,Al_Rajhi_2024_Annual_Report.pdf,323,"Murabaha with Saudi Government and SAMA 15,022,361 20,067,953",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2024,2024,1,Sukuk,129570.559,Al_Rajhi_2024_Annual_Report.pdf,323,"Sukuk – Investment grade 129,570,559 91,071,834",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk – investment grade
+2023,2024,2,Sukuk,91071.834,Al_Rajhi_2024_Annual_Report.pdf,323,"Sukuk – Investment grade 129,570,559 91,071,834",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk – investment grade
+2024,2024,1,Sukuk,6662.326,Al_Rajhi_2024_Annual_Report.pdf,323,"Sukuk – Non-Investment grade 6,662,326 5,640,904",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk – non-investment grade
+2023,2024,2,Sukuk,5640.904,Al_Rajhi_2024_Annual_Report.pdf,323,"Sukuk – Non-Investment grade 6,662,326 5,640,904",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk – non-investment grade
+2024,2024,1,Sukuk,4171.525,Al_Rajhi_2024_Annual_Report.pdf,323,"Sukuk unrated 4,171,525 5,835,121",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk unrated
+2023,2024,2,Sukuk,5835.121,Al_Rajhi_2024_Annual_Report.pdf,323,"Sukuk unrated 4,171,525 5,835,121",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk unrated
+2024,2024,1,Government_Murabaha,15022.361,Al_Rajhi_2024_Annual_Report.pdf,379,"Murabaha with Saudi Government and SAMA 15,022,361 20,067,953",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2023,2024,2,Government_Murabaha,20067.953,Al_Rajhi_2024_Annual_Report.pdf,379,"Murabaha with Saudi Government and SAMA 15,022,361 20,067,953",,CANDIDATE_NOT_VERIFIED,murabaha with saudi government and sama
+2024,2024,1,Sukuk,141134.41,Al_Rajhi_2024_Annual_Report.pdf,379,"Sukuk 141,134,410 102,547,859",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2023,2024,2,Sukuk,102547.859,Al_Rajhi_2024_Annual_Report.pdf,379,"Sukuk 141,134,410 102,547,859",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk
+2024,2024,1,Sukuk,3789.117,Al_Rajhi_2024_Annual_Report.pdf,382,"Sukuk issued – – 3,789,117 – – 3,789,117",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk issued – – – –
+2023,2024,2,Sukuk,3789.117,Al_Rajhi_2024_Annual_Report.pdf,382,"Sukuk issued – – 3,789,117 – – 3,789,117",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk issued – – – –
+2024,2024,1,Sukuk,3789.117,Al_Rajhi_2024_Annual_Report.pdf,388,"Sukuk issued – – – 3,789,117 – – 3,789,117",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk issued – – – – –
+2023,2024,2,Sukuk,3789.117,Al_Rajhi_2024_Annual_Report.pdf,388,"Sukuk issued – – – 3,789,117 – – 3,789,117",COMPONENT_SPLIT_OR_EXCLUSION_REVIEW,CANDIDATE_NOT_VERIFIED,sukuk issued – – – – –

@@ -1,0 +1,541 @@
+"""
+Unified GCC bank financial extraction engine.
+
+Initial implementation:
+    SNB / NCB 2010
+
+All monetary values are expressed in
+local currency millions.
+
+Existing financial datasets are never modified.
+"""
+
+import csv
+from pathlib import Path
+
+import pdfplumber
+
+from pipeline.financial_parser import (
+    extract_financial_value,
+    read_pdf_page,
+)
+
+
+ROOT = Path(__file__).resolve().parents[1]
+
+SCHEMA_PATH = ROOT / "output/SNB_raw_financial_data.csv"
+
+SNB_2010_PDF = (
+    ROOT / "pdfs/SNB/NCB_2010_Annual_Report.pdf"
+)
+
+
+
+SNB_REPORT_CONFIG = {
+    2010: {
+        "pdf": ROOT / "pdfs/SNB/NCB_2010_Annual_Report.pdf",
+        "balance_page": 36,
+        "income_page": 37,
+        "loans_page": 55,
+        "impairment_page": 56,
+        "npl_confirmation_page": 83,
+        "capital_page": 86,
+        "printed_pages": "34-35,53-54,81,84",
+    },
+    2011: {
+        "pdf": ROOT / "pdfs/SNB/NCB_2011_Annual_Report.pdf",
+        "balance_page": 36,
+        "income_page": 37,
+        "loans_page": 57,
+        "impairment_page": 58,
+        "npl_confirmation_page": 84,
+        "capital_page": 87,
+        "printed_pages": "34-35,55-56,82,85",
+    },
+}
+
+
+def get_snb_config(year):
+    """Return the verified source configuration for an SNB year."""
+    if year not in SNB_REPORT_CONFIG:
+        raise ValueError(f"Unsupported SNB reporting year: {year}")
+
+    config = SNB_REPORT_CONFIG[year]
+
+    if not config["pdf"].is_file():
+        raise FileNotFoundError(config["pdf"])
+
+    return config
+
+
+def load_schema():
+    with SCHEMA_PATH.open(
+        encoding="utf-8-sig",
+        newline="",
+    ) as f:
+        columns = next(csv.reader(f))
+
+    if len(columns) != 58:
+        raise ValueError(
+            f"Expected 58 columns, found {len(columns)}"
+        )
+
+    if len(set(columns)) != 58:
+        raise ValueError("Duplicate schema columns detected")
+
+    return columns
+
+
+def extract_snb_2010(year=2010):
+    config = get_snb_config(year)
+    columns = load_schema()
+
+    record = dict.fromkeys(columns, "")
+
+    with pdfplumber.open(config["pdf"]) as pdf:
+        balance = read_pdf_page(pdf, config["balance_page"])
+        income = read_pdf_page(pdf, config["income_page"])
+
+    def amount(text, label, year_position=0):
+        return extract_financial_value(
+            text,
+            label,
+            reporting_unit="thousands",
+            year_position=year_position,
+        )
+
+    record.update({
+        "Bank_Name": "National Commercial Bank (NCB)",
+        "Country": "Saudi Arabia",
+        "Year": year,
+
+        "Total_Assets_LCU_Millions":
+            amount(balance, "Total assets"),
+
+        "Total_Liabilities_LCU_Millions":
+            amount(balance, "Total liabilities"),
+
+        "Total_Equity_LCU_Millions":
+            amount(balance, "Total shareholders’ equity"),
+
+        "Shareholders_Equity_LCU_Millions":
+            amount(
+                balance,
+                "Total shareholders’ equity attributable to equity holders of the Parent",
+            ),
+
+        "Net_Profit_LCU_Millions":
+            amount(income, "Net income for the year"),
+
+        "Total_Operating_Income_LCU_Millions":
+            amount(income, "Operating income"),
+
+        "Operating_Expenses_LCU_Millions":
+            amount(income, "Operating expenses"),
+
+        "Net_Interest_Income_LCU_Millions":
+            amount(income, "Net special commission income"),
+
+        "Loans_Advances_Islamic_Financing_LCU_Millions":
+            amount(balance, "Loans and advances, net"),
+
+        "Customer_Accounts_Other_Deposits_LCU_Millions":
+            amount(balance, "Customers’ deposits"),
+
+        "Previous_Year_Total_Assets_LCU_Millions":
+            amount(balance, "Total assets", 1),
+
+        "Previous_Year_Total_Equity_LCU_Millions":
+            amount(balance, "Total shareholders’ equity", 1),
+
+        "Previous_Year_Shareholders_Equity_LCU_Millions":
+            amount(
+                balance,
+                "Total shareholders’ equity attributable to equity holders of the Parent",
+                1,
+            ),
+
+        "Profit_Attributable_To_Shareholders_LCU_Millions":
+            amount(
+                income,
+                "Equity holders of the Parent",
+            ),
+
+        "Reporting_Currency": "SAR",
+        "Reporting_Unit":
+            "SAR millions; original report SR thousands",
+
+        "Source_Document": config["pdf"].name,
+        "Source_PDF_Page": (
+            f'{config["balance_page"]}-{config["income_page"]},'
+            f'{config["loans_page"]}-{config["impairment_page"]},'
+            f'{config["npl_confirmation_page"]},'
+            f'{config["capital_page"]}'
+        ),
+        "Source_Printed_Pages": config["printed_pages"],
+
+        "Opening_Balance_Source": config["pdf"].name,
+        "Opening_Balance_Source_PDF_Page": config["balance_page"],
+
+        "Entity_Basis_Note":
+            "NCB consolidated group, pre-2021 merger. "
+            "Net special commission income mapped to net interest income. ""Net impairment charge represents credit losses only. "
+            "Historical NCB and post-merger SNB figures require "
+            "comparability assessment.",
+    })
+
+    assets = record["Total_Assets_LCU_Millions"]
+    liabilities = record["Total_Liabilities_LCU_Millions"]
+    equity = record["Total_Equity_LCU_Millions"]
+
+    if abs(assets - liabilities - equity) > 0.001:
+        raise ValueError(
+            f"SNB {year} balance sheet reconciliation failed"
+        )
+
+    return record
+
+
+
+
+def extract_published_car(text):
+    """Extract current-year published CAR from the capital table."""
+    import re
+
+    label = "Core and supplementary capital (Tier 1 and Tier 2)"
+    matches = []
+
+    for line in text.splitlines():
+        line = line.strip()
+
+        if not line.startswith(label):
+            continue
+
+        values = line[len(label):].strip().split()
+
+        if len(values) != 4:
+            raise ValueError(
+                f"Unexpected published CAR table layout: {values}"
+            )
+
+        if not all(
+            re.fullmatch(r"[0-9,]+", value)
+            for value in values[:2]
+        ):
+            raise ValueError("Invalid regulatory capital amounts.")
+
+        if not all(
+            re.fullmatch(r"[0-9]+(?:[.][0-9]+)?", value)
+            for value in values[2:]
+        ):
+            raise ValueError("Invalid published CAR percentages.")
+
+        matches.append(float(values[2]))
+
+    if len(matches) != 1:
+        raise ValueError(
+            f"Expected one published CAR row; found {len(matches)}"
+        )
+
+    return matches[0]
+
+
+def extract_snb_2010_capital(year=2010):
+    """Extract and validate SNB regulatory capital by year."""
+    config = get_snb_config(year)
+
+    with pdfplumber.open(config["pdf"]) as pdf:
+        text = read_pdf_page(pdf, config["capital_page"])
+
+    def amount(label):
+        return extract_financial_value(
+            text,
+            label,
+            reporting_unit="thousands",
+        )
+
+    capital = {
+        "Eligible_Tier_1_Capital_LCU_Millions":
+            amount("Core capital (Tier 1)"),
+
+        "Tier_2_Capital_LCU_Millions":
+            amount("Supplementary capital (Tier 2)"),
+
+        "Total_Regulatory_Capital_LCU_Millions":
+            amount(
+                "Core and supplementary capital (Tier 1 and Tier 2)"
+            ),
+
+        "Credit_Risk_RWA_LCU_Millions":
+            amount("Credit risk"),
+
+        "Operational_Risk_RWA_LCU_Millions":
+            amount("Operational risk"),
+
+        "Market_Risk_RWA_LCU_Millions":
+            amount("Market risk"),
+
+        "RWA_LCU_Millions":
+            amount("Total Pillar-1 - risk weighted assets"),
+    }
+
+    tier_total = (
+        capital["Eligible_Tier_1_Capital_LCU_Millions"]
+        + capital["Tier_2_Capital_LCU_Millions"]
+    )
+
+    rwa_total = (
+        capital["Credit_Risk_RWA_LCU_Millions"]
+        + capital["Operational_Risk_RWA_LCU_Millions"]
+        + capital["Market_Risk_RWA_LCU_Millions"]
+    )
+
+    if abs(
+        tier_total
+        - capital["Total_Regulatory_Capital_LCU_Millions"]
+    ) > 0.001:
+        raise ValueError("Regulatory capital reconciliation failed.")
+
+    if abs(
+        rwa_total
+        - capital["RWA_LCU_Millions"]
+    ) > 0.001:
+        raise ValueError("RWA reconciliation failed.")
+
+    capital["CAR_Pct"] = (
+        capital["Total_Regulatory_Capital_LCU_Millions"]
+        / capital["RWA_LCU_Millions"]
+        * 100
+    )
+
+    capital["Published_CAR_Pct"] = extract_published_car(text)
+    capital["CAR_Source_PDF_Page"] = config["capital_page"]
+
+    return capital
+
+
+def extract_snb_2010_loans(year=2010):
+    """Extract and reconcile SNB loan disclosures by year."""
+    config = get_snb_config(year)
+    from pipeline.financial_parser import extract_table_total
+
+    with pdfplumber.open(config["pdf"]) as pdf:
+        loans_text = read_pdf_page(pdf, config["loans_page"])
+        impairment_text = read_pdf_page(pdf, config["impairment_page"])
+
+    gross = extract_table_total(
+        loans_text, "Total loans and advances"
+    )
+    npl = extract_table_total(
+        loans_text, "Non-performing loans and advances"
+    )
+    provision = extract_table_total(
+        loans_text, "Provision for credit losses"
+    )
+    net = extract_table_total(
+        loans_text, "Loans & advances, net"
+    )
+    impairment = extract_financial_value(
+        impairment_text,
+        "Net charge for the year (impairment charge for credit losses, net)",
+        reporting_unit="thousands",
+    )
+
+    if abs(gross + provision - net) > 0.001:
+        raise ValueError("Loan reconciliation failed.")
+
+    if gross <= 0:
+        raise ValueError("Gross loans must be positive.")
+
+    return {
+        "Gross_Loans_LCU_Millions": gross,
+        "Non_Performing_Loans_LCU_Millions": npl,
+        "Net_Impairment_Charge_LCU_Millions": impairment,
+        "Loans_Advances_Islamic_Financing_LCU_Millions": net,
+        "NPL_Ratio_Pct": npl / gross * 100,
+        "Gross_Loans_Source_PDF_Page": config["loans_page"],
+        "NPL_Source_PDF_Page": (
+            f'{config["loans_page"]},'
+            f'{config["npl_confirmation_page"]}'
+        ),
+    }
+
+
+def calculate_snb_2010_metrics(record):
+    """Calculate SNB 2010 financial ratios from extracted figures."""
+
+    def number(field):
+        value = record.get(field)
+        if value is None or str(value).strip() == "":
+            raise ValueError(f"Missing input for ratio: {field}")
+        return float(value)
+
+    assets = number("Total_Assets_LCU_Millions")
+    previous_assets = number(
+        "Previous_Year_Total_Assets_LCU_Millions"
+    )
+
+    equity = number("Total_Equity_LCU_Millions")
+    previous_equity = number(
+        "Previous_Year_Total_Equity_LCU_Millions"
+    )
+
+    shareholders_equity = number(
+        "Shareholders_Equity_LCU_Millions"
+    )
+    previous_shareholders_equity = number(
+        "Previous_Year_Shareholders_Equity_LCU_Millions"
+    )
+
+    average_assets = (assets + previous_assets) / 2
+    average_equity = (equity + previous_equity) / 2
+    average_shareholders_equity = (
+        shareholders_equity + previous_shareholders_equity
+    ) / 2
+
+    operating_income = number(
+        "Total_Operating_Income_LCU_Millions"
+    )
+    operating_expenses = number(
+        "Operating_Expenses_LCU_Millions"
+    )
+
+    if min(
+        average_assets,
+        average_equity,
+        average_shareholders_equity,
+        operating_income,
+    ) <= 0:
+        raise ValueError("Invalid denominator in financial ratios.")
+
+    return {
+        "Average_Total_Assets_LCU_Millions": average_assets,
+        "Average_Total_Equity_LCU_Millions": average_equity,
+        "Average_Shareholders_Equity_LCU_Millions":
+            average_shareholders_equity,
+
+        "CIR_Pct":
+            operating_expenses / operating_income * 100,
+
+        "ROA_Pct":
+            number("Net_Profit_LCU_Millions")
+            / average_assets * 100,
+
+        "ROE_Pct":
+            number("Profit_Attributable_To_Shareholders_LCU_Millions")
+            / average_shareholders_equity * 100,
+
+        "ROA_Method":
+            "Consolidated net profit / average total assets * 100",
+
+        "ROE_Method":
+            "Profit attributable to parent / average parent "
+            "shareholders' equity * 100",
+    }
+
+def compare_existing(record):
+    with SCHEMA_PATH.open(
+        encoding="utf-8-sig",
+        newline="",
+    ) as f:
+        rows = list(csv.DictReader(f))
+
+    year = str(record["Year"]).strip()
+
+    matches = [
+        row for row in rows
+        if str(row.get("Year", "")).strip() == year
+    ]
+
+    if len(matches) != 1:
+        raise ValueError(
+            f"Expected one existing SNB {year} record; "
+            f"found {len(matches)}"
+        )
+
+    existing = matches[0]
+
+    compared = 0
+    matched = 0
+    differences = []
+
+    for column, new_value in record.items():
+        if new_value == "":
+            continue
+
+        old_value = existing.get(column, "")
+
+        if old_value == "":
+            continue
+
+        compared += 1
+
+        try:
+            same = (
+                abs(float(new_value) - float(old_value))
+                < 0.001
+            )
+        except (ValueError, TypeError):
+            same = str(new_value) == str(old_value)
+
+        if same:
+            matched += 1
+        else:
+            differences.append(
+                (column, old_value, new_value)
+            )
+
+    print("\nCOMPARISON AGAINST EXISTING DATASET")
+    print("=" * 65)
+    print("Fields compared:", compared)
+    print("Matching fields:", matched)
+    print("Differences:", len(differences))
+
+    for column, old, new in differences:
+        print(f"\nDIFFERENCE: {column}")
+        print("Existing:", old)
+        print("Extracted:", new)
+
+    return differences
+
+
+def main():
+    print("UNIFIED EXTRACTION ENGINE — SNB 2010")
+    print("=" * 65)
+
+    record = extract_snb_2010()
+
+    print("Schema columns:", len(record))
+    print("Balance sheet reconciliation: PASS")
+
+    capital = extract_snb_2010_capital()
+    record.update(capital)
+
+    print("Regulatory capital reconciliation: PASS")
+    print("RWA reconciliation: PASS")
+
+    loans = extract_snb_2010_loans()
+    record.update(loans)
+
+    print("Loan reconciliation: PASS")
+
+    metrics = calculate_snb_2010_metrics(record)
+    record.update(metrics)
+
+    print("Financial ratios calculated: PASS")
+
+    populated = sum(
+        value is not None and str(value).strip() != ""
+        for value in record.values()
+    )
+
+    print("Populated fields:", populated)
+    print("Unpopulated fields:", len(record) - populated)
+
+    compare_existing(record)
+
+    print("\nExisting financial datasets: UNCHANGED")
+
+
+if __name__ == "__main__":
+    main()
